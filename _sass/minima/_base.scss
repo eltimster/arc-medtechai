@@ -117,8 +117,8 @@ a {
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: lighten($brand-color, 5%);
+    //text-decoration: underline;
   }
 
   .social-media-list &:hover {
