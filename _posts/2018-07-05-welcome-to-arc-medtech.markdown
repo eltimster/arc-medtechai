@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to ARC Medtech!"
 date:   2018-07-05 23:55:23 +1000
 categories: jekyll update
 ---

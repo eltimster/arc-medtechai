@@ -111,8 +111,13 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  //border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: black;
+  color: white;
+  a{
+    color: #abe2a6;
+  }
 }
 
 .footer-heading {
@@ -128,7 +133,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  //color: white;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -275,6 +280,7 @@
   grid-row-gap: 50px;
   grid-column-gap: 50px;
   grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
+
   .title{
     display: block;
     @include relative-font-size(2);
@@ -288,5 +294,38 @@
 }
 
 .browse-topic:hover {
-  background-color: #dfebd3;
+  //background-color: #dfebd3;
+  background-color: darken($brand-color, 25%);
+  color: white;
+}
+
+.lists {
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+  padding: $spacing-unit $spacing-unit*2;
+  grid-row-gap: 50px;
+  grid-column-gap: 50px;
+  grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
+  background-color: darken($brand-color, 25%);
+  color: white;
+
+  .list {
+    //background-color: #dfebd3;
+    padding: 0 $spacing-unit;
+    color: white;
+
+    a {
+      color: white;
+    }
+
+    .post-list-heading{
+      border-bottom: 1px solid #e5c5bf;
+      font-weight: 400;
+    }
+
+    .post-meta{
+      color: #f0dcca;
+    }
+
+  }
 }
