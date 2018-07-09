@@ -21,11 +21,28 @@
           {{ content }}
         </div>
 
-      {%- include browsing-topics.html -%}
+      <!--{%- include browsing-topics.html -%}-->
+
+        {%- if site.pages.size > 0 -%}
+
+        <div class="browse-topics">
+          {%- for page in site.pages -%}
+            {%- if page.title and page.categories contains "browse" -%}
+            <a class="browse-link" href="{{ page.url | relative_url }}">
+            <div class="browse-topic">
+              <span class="title">
+                  {{ page.title }}
+              </span>
+              {{ page.browse-description }}
+            </div>
+            </a>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+
+        {%- endif -%}
 
       </div>
-
-
 
       <div class="lists">
 
