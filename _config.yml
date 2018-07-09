@@ -30,7 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
 collections:
-  topics:
+  research-areas:
     output: true
 
 

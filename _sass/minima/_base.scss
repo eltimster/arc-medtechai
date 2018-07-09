@@ -60,9 +60,10 @@ img {
   display: block;
   width: 100%;
 
-  @include media-query($on-laptop) {
-    display: none;
+  @include media-query($on-palm) {
+    display: block;
   }
+
 }
 
 

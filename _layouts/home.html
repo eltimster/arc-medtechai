@@ -25,9 +25,12 @@
 
       </div>
 
-      {%- if site.posts.size > 0 -%}
+
 
       <div class="lists">
+
+        {%- if site.posts.size > 0 -%}
+
         <div class="list">
           <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2>
           <ul class="post-list">
@@ -48,10 +51,14 @@
           </ul>
         </div>
 
+        {%- endif -%}
+
+        {%- if site.research-areas.size > 0 -%}
+
         <div class="list">
           <h2 class="post-list-heading">{{ page.list_title | default: "Research Areas" }}</h2>
           <ul class="post-list">
-            {%- for post in site.topics -%}
+            {%- for post in site.research-areas -%}
             <li>
               <h3>
                 <a class="post-link" href="{{ post.url | relative_url }}">

@@ -302,7 +302,7 @@
 .lists {
   display: grid;
   grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
-  padding: $spacing-unit $spacing-unit*2;
+  padding: $spacing-unit;
   grid-row-gap: 50px;
   grid-column-gap: 50px;
   grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
