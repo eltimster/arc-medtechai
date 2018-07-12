@@ -1,0 +1,12 @@
+toc:
+- page: Nested
+  url: /nested2/
+- page: Nested 2 - Sub 1
+  url: /nested2/nested2-sub1.html
+- page: Nested 2 - Sub 2
+  url: /nested2/nested2-sub2.html
+- page: Nested Nested 2
+  url: /nested2/nestednestd2/
+  subpages:
+    - page: Nested Nested 2
+      url: /nested2/nestednestd2/nestednested2-sub1.html
