@@ -7,7 +7,6 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <ul>
 
     {% assign url_parts = page.url | split: '/' %}
     {{ url_parts }}
@@ -18,19 +17,20 @@ layout: default
 
     {% if site.data[url_toc].toc[0] %}
     <h3>{{page.url}}</h3>
-    <ul>
+    <ul class="nested-navi">
       {% for entry in site.data[url_toc].toc %}
-      <li class="{% if entry.url == page.url %}active{% endif %}">
-        <a href="{{ entry.url | relative_url }}">{{ entry.page }}</a>
+        <a href="{{ entry.url | relative_url }}">
+          <li class="{% if entry.url == page.url %}active{% endif %}">{{ entry.page }}</li>
+        </a>
         {% if entry.subpages[0] %}
-        <ul>
+
           {% for subentry in entry.subpages %}
-          <li class="{% if subentry.url == page.url %}active{% endif %}">
-            <a href="{{ subentry.url | relative_url }}">{{ subentry.page }}</a></li>
+          <a href="{{ subentry.url | relative_url }}">
+            <li class="{% if subentry.url == page.url %}active{% endif %} inner">{{ subentry.page }}</li>
+          </a>
           {% endfor %}
-        </ul>
+
         {% endif %}
-      </li>
       {% endfor %}
     </ul>
     {% endif %}

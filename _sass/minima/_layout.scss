@@ -264,7 +264,7 @@
 }
 
 /**
- * Home
+ * Home Elements
  */
 
 .home-description {
@@ -327,5 +327,57 @@
       color: #f0dcca;
     }
 
+  }
+}
+
+/**
+ * Nested Pages Navigation
+ */
+
+ul.nested-navi {
+  //background-color: darken($brand-color, 25%);
+  //padding: 0 $spacing-unit;
+  color: white;
+  list-style-type: none;
+  border: 1px solid darken($brand-color, 25%);
+  padding-left: 0;
+
+  a {
+    color: darken($brand-color, 25%);
+  }
+
+  //.post-list-heading{
+  //  border-bottom: 1px solid #e5c5bf;
+  //  font-weight: 400;
+  //}
+
+  li {
+    //color: #f0dcca;
+    color: darken($brand-color, 25%);
+    border-bottom: 1px solid darken($brand-color, 25%);
+    padding: 0.5rem;
+    //padding: 1em;
+  }
+
+  li.inner {
+    //border-top: 1px solid darken($brand-color, 25%);
+    //border-bottom: none;
+    padding-left: 2rem;
+  }
+
+  li.inner:first-child {
+    //border: none;
+  }
+
+  li:hover {
+    background-color: #f4d77c;
+  }
+
+  li.active {
+    background-color: darken($brand-color, 25%);
+    color: white;
+    a{
+      color: white;
+    }
   }
 }

@@ -10,3 +10,5 @@ toc:
   subpages:
     - page: Nested Nested 2
       url: /nested2/nestednested2/nestednested2-sub1.html
+    - page: Nested Nested 2
+      url: /nested2/nestednested2/nestednested2-sub1.html
