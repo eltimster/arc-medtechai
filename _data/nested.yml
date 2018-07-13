@@ -1,5 +1,14 @@
 toc:
 - page: Nested
   url: /nested/
-- page: Nested 2 - Sub 1
-  url: /nested/nested-sub1.html
+- page: Section 1
+  url: /nested/section1.html
+- page: Section 2
+  url: /nested/section2.html
+- page: Section 3
+  url: /nested/section3/
+  subpages:
+    - page: Subsection
+      url: /nested/section3/subsection.html
+    - page: Subsection 2
+      url: /nested/section3/subsection2.html
