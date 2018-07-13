@@ -343,6 +343,7 @@ ul.nested-navi {
   padding-left: 0;
   margin: 0;
 
+
   a {
     color: darken($brand-color, 25%);
   }
@@ -386,7 +387,11 @@ ul.nested-navi {
 .with-side-navi{
   display: grid;
   grid-template-columns: 1fr 4fr;
-  grid-gap: $spacing-unit;
+  grid-column-gap: $spacing-unit;
+}
+
+.toc{
+  grid-row: 1 / 3;
 }
 
 @include media-query($on-palm) {
@@ -394,6 +399,15 @@ ul.nested-navi {
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: $spacing-unit;
+  }
+  .with-side-navi{
+    .post-header{
+      margin-bottom: 0;
+    }
+  }
+  
+  .toc{
+    grid-row-start: 2;
   }
 }
 
