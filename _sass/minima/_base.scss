@@ -59,9 +59,12 @@ img {
 .home-splash{
   display: block;
   width: 100%;
+}
 
-  @include media-query($on-palm) {
-    display: block;
+@include media-query($on-palm) {
+  .home-splash{
+    display: none;
+    //width: 100%;
   }
 
 }

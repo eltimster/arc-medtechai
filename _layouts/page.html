@@ -8,36 +8,35 @@ layout: default
   </header>
 
 
-    {% assign url_parts = page.url | split: '/' %}
-    {{ url_parts }}
-    first_dir {{ url_parts[1] }}
-    {% assign url_toc = url_parts[1] | append: '' %}
-    no-toc {{ site.data[url_parts[1]] }}
-    toc {{ site.data[url_toc].toc }}
+  {% assign url_parts = page.url | split: '/' %}
+  {% assign url_toc = url_parts[1] | append: '' %}
 
-    {% if site.data[url_toc].toc[0] %}
-    <h3>{{page.url}}</h3>
-    <ul class="nested-navi">
-      {% for entry in site.data[url_toc].toc %}
-        <a href="{{ entry.url | relative_url }}">
-          <li class="{% if entry.url == page.url %}active{% endif %}">{{ entry.page }}</li>
-        </a>
-        {% if entry.subpages[0] %}
-
-          {% for subentry in entry.subpages %}
-          <a href="{{ subentry.url | relative_url }}">
-            <li class="{% if subentry.url == page.url %}active{% endif %} inner">{{ subentry.page }}</li>
+  {% if site.data[url_toc].toc[0] %}
+    <div class="with-side-navi">
+      <ul class="nested-navi">
+        {% for entry in site.data[url_toc].toc %}
+          <a href="{{ entry.url | relative_url }}">
+            <li class="{% if entry.url == page.url %}active{% endif %}">{{ entry.page }}</li>
           </a>
-          {% endfor %}
+          {% if entry.subpages[0] %}
 
-        {% endif %}
-      {% endfor %}
-    </ul>
-    {% endif %}
+            {% for subentry in entry.subpages %}
+            <a href="{{ subentry.url | relative_url }}">
+              <li class="{% if subentry.url == page.url %}active{% endif %} inner">{{ subentry.page }}</li>
+            </a>
+            {% endfor %}
 
+          {% endif %}
+        {% endfor %}
+      </ul>
+  {% else %}
+    <div class="no-side-navi">
+  {% endif %}
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+      <div class="post-content">
+        {{ content }}
+      </div>
+
+    </div>
 
 </article>
