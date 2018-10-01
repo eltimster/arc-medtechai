@@ -61,8 +61,8 @@ Simply add a file in the `_posts` directory that follows the convention `YYYY-MM
 ~~~~
 ---
 layout: post
-title:  "Welcome to ARC Medtech!"
-date:   2018-07-05 23:55:23 +1000
+title:  "Welcome to the web site!"
+date:   2018-10-01 23:55:23 +1000
 categories: jekyll update
 ---
 ~~~~

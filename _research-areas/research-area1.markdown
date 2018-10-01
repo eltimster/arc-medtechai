@@ -1,4 +1,4 @@
 ---
 layout: page
-title:  "Research Area 1"
+title:  "Stream 1: Model Development and Low-power Deployment of Machine Learning for Epileptic Seizure Prediction"
 ---
