@@ -18,7 +18,7 @@ learning, artificial intelligence, natural language processing (NLP) and
 biomedical engineering --- the Centre is hosted at The University of
 Melbourne, in collaboration with Western Sydney University, RMIT University,
 and the University of South Australia. Domain and industry expertise is
-provided by medical device manufacturer Medtronic, St Vincent¡Çs Hospital, the
+provided by medical device manufacturer Medtronic, St Vincentâ€™s Hospital, the
 Florey Institute of Neuroscience and Mental Health, Melbourne Academic Centre
 for Health (MACH), and Cogstate.
 
