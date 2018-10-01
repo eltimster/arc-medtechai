@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Students
+title: Current PhD Project Openings
 categories: [navi, browse]
 browse-description: PhD openings within the Centre
 ---
