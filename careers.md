@@ -2,7 +2,9 @@
 layout: page
 title: Careers
 categories: [navi, browse]
-browse-description: Check here for the career words.
+browse-description: Job openings within the Centre
 ---
+We are looking to fill the following positions within the Centre:
 
-This is the Careers page.
+* [NLP Research Fellow in the ARC Training Centre in Cognitive Computing][http://jobs.unimelb.edu.au/caw/en/job/897690/research-fellow]
+

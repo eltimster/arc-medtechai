@@ -3,4 +3,13 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-The Australian Research Council (ARC) MedTech is lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur pharetra turpis at venenatis. Suspendisse venenatis imperdiet felis, vitae vestibulum urna faucibus sit amet. In vel lectus risus. Proin euismod posuere magna, in porta nulla finibus vel. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur scelerisque hendrerit tortor vel bibendum. Curabitur vitae molestie dui.
+The ARC Training Centre in Cognitive Computing for Medical Technologies is
+aimed at creating a workforce that is expert in developing, applying and
+interrogating artificial intelligence ("AI") applications in data-intensive medical
+contexts, to facilitate the next generation of data-driven and machine
+learning-based medical technologies. The Centre will provide a world-class
+industry-driven research training environment for PhD students and
+postdoctoral researchers, who will lead the medical technology industry into a
+new era of data-driven personalised and precision medical devices and
+applications, based on a combination of research, industry and entrepreneurial
+skills they will acquire through the Centre.
