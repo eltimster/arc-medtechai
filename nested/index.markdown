@@ -1,6 +1,6 @@
 ---
 layout: page
 title:  "Nested Page"
-categories: [navi]
+categories: []
 ---
 This is a nested page
