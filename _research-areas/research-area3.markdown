@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  "Stream 3: Alzheimer's prognosis and trajectory prediction"
+title:  "Alzheimer's prognosis and trajectory prediction"
+subtitle: "Stream 3"
 ---
 Alzheimer's Disease (AD) is the most common form of dementia, affecting up to 70% of all people with dementia. In Australia there are more than 350,000 living with dementia, and total direct health expenditure on people with dementia was at least $4.9 billion in 2009-10. Through the combination of rich data sources including an individual's genomic signature, medical scans (MRI, PET and retinal scans), blood- and spinal fluid-based biomarker signatures, and cognitive tests, early detection of AD is becoming increasingly reliable, but the cost of diagnosis is high and methods for predicting the future onset and rate of cognitive decline of a patient are largely undeveloped. Through the use of the rich Australian Imaging Biomarker and Lifestyle (AIBL) dataset on ageing, this project will develop novel machine learning models to predict the age a patient is likely to develop AD, and the rate of their cognitive decline. Particular machine learning challenges in this project include: handling large block-wise missing data, common in large medically-focused studies; modelling temporal multimodal data; deep learning over large-scale sequential data, in the form of genomic data; and patient stratification, i.e. stratifying patients based on their expected prognosis, and using this to inform intervention and management strategies. A heavy focus will be placed on encoding and correcting for confounding factors, with an aim to derive interpretable models that can assist clinical outcomes.
 

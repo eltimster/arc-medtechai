@@ -77,6 +77,7 @@
           <ul class="post-list">
             {%- for post in site.research-areas -%}
             <li>
+              <span class="post-meta">{{ post.subtitle }}</span>
               <h3>
                 <a class="post-link" href="{{ post.url | relative_url }}">
                   {{ post.title | escape }}
@@ -89,12 +90,34 @@
             {%- endfor -%}
           </ul>
         </div>
+
+        {%- endif -%}
+
       </div>
 
-      {%- endif -%}
+      <div class="partners">
+        <h1>Partners</h1>
+        <div class="partners-grid universities">
+        {% for image in site.static_files %}
+          {% if image.path contains 'partners/universities' %}
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+          {% endif %}
+        {% endfor %}
+        </div>
+        <img class="single" src="assets/partners/single_row/ibm.jpg" />
+        <div class="partners-grid others">
+          {% for image in site.static_files %}
+          {% if image.path contains 'partners/others' %}
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+          {% endif %}
+          {% endfor %}
+        </div>
+        <img class="single" src="assets/partners/single_row/arc.jpg" />
+      </div>
+
+
 
     </div>
-  </div>
 </main>
 
 {%- include footer.html -%}

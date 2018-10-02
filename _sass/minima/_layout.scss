@@ -30,7 +30,8 @@
 .logo-svg {
   //width: 16px;
   height: 100px;
-  width: 450px;
+  //width: 450px;
+  max-width: 85%;
   display: inline-block;
   padding-right: 5px;
   vertical-align: text-top;
@@ -66,11 +67,11 @@
     border-right: 2px solid $second-tone-color;
   }
 
-  @include media-query($on-palm) {
+  @include media-query($navi-break) {
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: black;
+    background-color: $brand-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
@@ -111,7 +112,7 @@
     .page-link {
       display: block;
       padding: 5px 10px;
-      color: black;
+      color: white;
 
       &:not(:last-child) {
         margin-right: 0;
@@ -209,10 +210,16 @@
 
 .page-heading {
   @include relative-font-size(2);
+  @include media-query($on-palm) {
+    @include relative-font-size(1.2);
+  }
 }
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  @include media-query($on-palm) {
+    @include relative-font-size(1.2);
+  }
 }
 
 .post-list {
@@ -232,8 +239,10 @@
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+  @include media-query($on-palm) {
+    @include relative-font-size(1.2);
+  }
 }
-
 
 
 /**
@@ -248,8 +257,8 @@
   letter-spacing: -1px;
   line-height: 1;
 
-  @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
+  @include media-query($on-palm) {
+    @include relative-font-size(1.2);
   }
 }
 
@@ -262,6 +271,9 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);
     }
+    @include media-query($on-palm) {
+      @include relative-font-size(1.2);
+    }
   }
 
   h3 {
@@ -270,6 +282,9 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.375);
     }
+    @include media-query($on-palm) {
+      @include relative-font-size(1.2);
+    }
   }
 
   h4 {
@@ -277,6 +292,9 @@
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
+    }
+    @include media-query($on-palm) {
+      @include relative-font-size(1.2);
     }
   }
 }
@@ -290,6 +308,9 @@
   @include relative-font-size(1.5);
   font-family: "Open Sans";
   font-weight: 300;
+  @include media-query($on-palm) {
+    @include relative-font-size(0.9);
+  }
 }
 
 .browse-topics {
@@ -303,6 +324,9 @@
     display: block;
     @include relative-font-size(2);
     font-weight: 400;
+    @include media-query($on-palm) {
+      @include relative-font-size(1.2);
+    }
   }
 }
 
@@ -348,6 +372,58 @@
       color: $second-tone-color;
     }
 
+  }
+}
+
+.partners {
+  text-align: center;
+  padding: 30px 0;
+
+  .single {
+    height: 100px;
+    //display: block;
+    @include media-query($on-palm) {
+      max-height:100px;
+    }
+  }
+}
+
+.partners-grid {
+  margin: $spacing-unit 0;
+  display: grid;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+  //grid-auto-columns: min-content;
+  //grid-template-columns: repeat( auto-fit, minmax(200px, 1fr) );
+  align-items: center;
+  justify-items: center;
+  img {
+    //height: 100px;
+    max-height: 150px;
+    @include media-query($on-palm) {
+      max-height:120px;
+    }
+  }
+  @include media-query($on-palm) {
+    grid-row-gap: 10px;
+  }
+}
+
+.universities {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 150px;
+
+  @include media-query($on-palm) {
+    grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+  }
+}
+
+.others {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 150px;
+  @include media-query($on-palm) {
+    grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+    //grid-template-rows: 80px;
   }
 }
 

@@ -1,5 +1,6 @@
 ---
 layout: page
-title:  "Stream 4: Real-time clinical decision support"
+title:  "Real-time clinical decision support"
+subtitle: "Stream 4"
 ---
 Medical knowledge is increasing exponentially, and it is the job of the clinician to continually stay abreast of the latest medical findings. Clinicians make use of the most recent diagnostic tools and use these to optimise a treatment plan based on the best medical knowledge available. However, it is unrealistic to expect a clinician to have perfect knowledge of all medical literature. A better approach is to develop NLP solutions that are able to automatically extract clinical guidelines from medical literature, and identify the recommended approaches to preventing or treating a given disease in a specific clinical situation. In this project the key focuses include: (1) abstractive summarisation of medical literature (single- and multi-document, and document- and subdocument-level), based on deep learning; (2) inferring new relations for entities, based on using deep learning to project textual relations and entities into a dense latent representation, extending work that has been done on more general knowledge base population tasks; and (3) hybrid text and image analytics over medical textbooks and full-text articles, integrating text and explanatory figures using deep learning and adversarial training methods.
