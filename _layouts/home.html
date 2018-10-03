@@ -96,7 +96,7 @@
       </div>
 
       <div class="partners">
-        <div class="partners-grid universities">
+        <div class="partners-grid">
         {% for image in site.static_files %}
           {% if image.path contains 'partners/lead' %}
           <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
@@ -105,7 +105,7 @@
         </div>
 
 	<h1>Partner Organisation</h1>
-        <div class="partners-grid universities">
+        <div class="partners-grid">
         <img class="single" src="assets/partners/single_row/ibm.jpg" />
         </div>
 
@@ -126,7 +126,6 @@
           {% endif %}
           {% endfor %}
         </div>
-        <img class="single" src="assets/partners/single_row/arc.jpg" />
       </div>
 
 
