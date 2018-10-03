@@ -97,6 +97,16 @@
 
       <div class="partners">
         <h1>Partners</h1>
+        <div class="partners-grid lead">
+        {% for image in site.static_files %}
+          {% if image.path contains 'partners/lead' %}
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+          {% endif %}
+        {% endfor %}
+        </div>
+        <h1>Partner Organisation</h1>
+        <img class="single" src="assets/partners/single_row/ibm.jpg" />
+        <h1>Partner Universities</h1>
         <div class="partners-grid universities">
         {% for image in site.static_files %}
           {% if image.path contains 'partners/universities' %}
@@ -104,7 +114,7 @@
           {% endif %}
         {% endfor %}
         </div>
-        <img class="single" src="assets/partners/single_row/ibm.jpg" />
+        <h1>Other Participating Organisations</h1>
         <div class="partners-grid others">
           {% for image in site.static_files %}
           {% if image.path contains 'partners/others' %}
