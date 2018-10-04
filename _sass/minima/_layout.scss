@@ -140,7 +140,7 @@
 }
 
 .footer-heading {
-  @include relative-font-size(1.125);
+  @include relative-font-size(0.8);
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -151,7 +151,7 @@
 }
 
 .footer-col-wrapper {
-  @include relative-font-size(0.9375);
+  @include relative-font-size(0.8);
   //color: white;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
@@ -305,12 +305,13 @@
 
 .home-description {
   margin: $spacing-unit 0;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1);
   font-family: "Open Sans";
   font-weight: 300;
   @include media-query($on-palm) {
-    @include relative-font-size(0.9);
+    @include relative-font-size(1);
   }
+  text-align: justify;
 }
 
 .browse-topics {
@@ -409,12 +410,21 @@
   }
 }
 
-.universities {
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+.lead {
+  grid-template-columns: 1fr 1fr;
+  //margin: 0
+  //grid-template-areas: ". melb arc arc .";
   grid-template-rows: 150px;
-
   @include media-query($on-palm) {
-    grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+    //grid-template-columns: 1fr;
+  }
+}
+
+.universities {
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 150px;
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -422,8 +432,9 @@
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 150px;
   @include media-query($on-palm) {
-    grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+    //grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
     //grid-template-rows: 80px;
+    grid-template-columns: 1fr 1fr;
   }
 }
 
