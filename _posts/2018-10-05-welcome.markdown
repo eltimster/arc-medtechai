@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to ARC AIMedtech!"
+date:   2018-07-05 23:55:23 +1000
+categories: jekyll update
+---
+We are delighted to announce that the Centre will be officially launched by
+Senator Jane Hume and Professor Sue Thomas on Tuesday October 9. Stay tuned
+for photos from the event!
