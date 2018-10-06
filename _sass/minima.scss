@@ -15,7 +15,8 @@ $title-font-family: "Open Sans", Helvetica;
 $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
-$background-color: #fdfdfd !default;
+//$background-color: #fdfdfd !default;
+$background-color: white !default;
 $brand-color: #09529b !default;
 $second-tone-color: #e5c5bf;
 
@@ -30,7 +31,7 @@ $table-text-align: left !default;
 
 // Width of the content area
 $content-width:    100% !default;
-$navi-break:       1050px;
+$navi-break:       1080px;
 $on-palm:          800px !default;
 $on-laptop:        100% !default;
 

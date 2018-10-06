@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+{%- include header.html -%}
+
+<main class="page-content" aria-label="Content">
+    <div class="wrapper news">
+        {%- if site.research-areas.size > 0 -%}
+
+        <div class="list">
+            <h2 class="post-list-heading">{{ page.list_title | default: "Research Streams" }}</h2>
+            <ul class="post-list">
+                {%- for post in site.research-areas -%}
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                    <li>
+                        <!--{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}-->
+                        <span class="post-meta">{{ post.subtitle }}</span>
+                        <h3>
+
+                            {{ post.title | escape }}
+
+                        </h3>
+                        <span class="excerpt">
+          {{ post.excerpt }}
+          </span>
+                    </li>
+                </a>
+                {%- endfor -%}
+            </ul>
+        </div>
+
+        {%- endif -%}
+    </div>
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+</html>

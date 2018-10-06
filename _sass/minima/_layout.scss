@@ -2,13 +2,10 @@
  * Site header
  */
 .site-header {
-  //border-top: 5px solid $grey-color-dark;
-  //border-bottom: 1px solid $grey-color-light;
   background-color: $light-blue-color2;
-  //background: linear-gradient(to right, white, #8a8d45);
   //min-height: $spacing-unit * 1.865;
   color: $brand-color;
-
+  //height: 150px;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -28,12 +25,12 @@
 }
 
 .logo-svg {
-  //width: 16px;
-  height: 100px;
+  height:85px;
+  width: 385px;
   //width: 450px;
   max-width: 85%;
   display: inline-block;
-  padding-right: 5px;
+  margin: 15px 0;
   vertical-align: text-top;
 }
 
@@ -69,7 +66,7 @@
 
   @include media-query($navi-break) {
     position: absolute;
-    top: 9px;
+    top: 15px;
     right: $spacing-unit / 2;
     background-color: $brand-color;
     border: 1px solid $grey-color-light;
@@ -131,17 +128,20 @@
  */
 .site-footer {
   //border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  padding: $spacing-unit/2 0;
   background-color: $light-blue-color2;
   color: $brand-color;
-  a{
+  a {
     color: $light-blue-color;
+  }
+  ul {
+    margin: 0;
   }
 }
 
 .footer-heading {
   @include relative-font-size(0.8);
-  margin-bottom: $spacing-unit / 2;
+  //margin-bottom: $spacing-unit / 2;
 }
 
 .contact-list,
@@ -159,7 +159,7 @@
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
+  //margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
 
@@ -402,7 +402,7 @@
     //height: 100px;
     max-height: 150px;
     @include media-query($on-palm) {
-      max-height:120px;
+      //max-height:120px;
     }
   }
   @include media-query($on-palm) {
@@ -411,12 +411,12 @@
 }
 
 .lead {
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   //margin: 0
   //grid-template-areas: ". melb arc arc .";
-  grid-template-rows: 150px;
+  //grid-template-rows: 150px;
   @include media-query($on-palm) {
-    //grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
   }
 }
 
@@ -429,12 +429,12 @@
 }
 
 .others {
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 150px;
   @include media-query($on-palm) {
     //grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
     //grid-template-rows: 80px;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 }
 
@@ -462,16 +462,12 @@ ul.nested-navi {
   //}
 
   li {
-    //color: #f0dcca;
     color: $brand-color;
     border-bottom: 1px solid $brand-color;
     padding: 0.5rem;
-    //padding: 1em;
   }
 
   li.inner {
-    //border-top: 1px solid darken($brand-color, 25%);
-    //border-bottom: none;
     padding-left: 2rem;
   }
 
@@ -481,7 +477,6 @@ ul.nested-navi {
 
   li:hover {
     background-color: lighten($brand-color, 50%);
-    //color: white;
   }
 
   li.active {
