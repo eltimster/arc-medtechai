@@ -16,8 +16,8 @@
 title: ARC Training Centre in Cognitive Computing for Medical Technologies
 email: enquiries@aimedtech.org.au
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://aimedtech.org.au" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/arc-medtechai" # the subpath of your site, e.g. /blog
+url: "https://dalzymendoza.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ARC_AIMedTech
 #excerpt_separator: <!--more--> # marks the end of the markdown content to be hashed as post.excerpt
 
