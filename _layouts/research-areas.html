@@ -17,16 +17,14 @@
                 {%- for post in site.research-areas -%}
                 <a class="post-link" href="{{ post.url | relative_url }}">
                     <li>
-                        <!--{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}-->
                         <span class="post-meta">{{ post.subtitle }}</span>
                         <h3>
-
                             {{ post.title | escape }}
-
                         </h3>
-                        <span class="excerpt">
-          {{ post.excerpt }}
-          </span>
+                        <!--<span class="excerpt">-->
+                          <!--{{ post.excerpt }}-->
+                          <!--fix to be one sentence-->
+                        <!--</span>-->
                     </li>
                 </a>
                 {%- endfor -%}

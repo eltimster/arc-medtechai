@@ -128,14 +128,36 @@
  */
 .site-footer {
   //border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit/2 0;
+  padding: $spacing-unit/2 $spacing-unit;
   background-color: $light-blue-color2;
   color: $brand-color;
+  @include relative-font-size(0.8);
   a {
     color: $light-blue-color;
   }
-  ul {
-    margin: 0;
+  a:hover{
+    text-decoration: underline;
+  }
+  ul.contact-list {
+    border-left: 3px solid $brand-color;
+
+    > li {
+      margin-top: $spacing-unit/3;
+      margin-left: $spacing-unit/3;
+      display: block;
+    }
+  }
+  display: grid;
+  grid-template-columns: 4fr minmax(230px, 1fr);
+  grid-column-gap: $spacing-unit * 2;
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+  }
+
+  #arc-footer {
+    height: 100px;
+    max-width: 100%;
   }
 }
 
