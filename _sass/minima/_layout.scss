@@ -107,12 +107,12 @@
     }
 
     input:checked ~ .trigger {
-      display: inline-block;
+      display: block;
       padding-bottom: 5px;
     }
 
     .page-link {
-      display: inline-block;
+      display: block;
       padding: 5px 10px;
       color: white;
 
@@ -570,5 +570,6 @@ ul.nested-navi {
   .excerpt {
     color: black;
     @include relative-font-size(1);
+    line-height: 1;
   }
 }

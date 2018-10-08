@@ -18,12 +18,10 @@
                 <a class="post-link" href="{{ post.url | relative_url }}">
                     <li>
                         <span class="post-meta">{{ post.subtitle }}</span>
-                        <h3>
-                            {{ post.title | escape }}
-                        </h3>
+                        <h3>{{ post.title | escape }}</h3>
                         {%- if post.excerpt -%}
                         <span class="excerpt">
-                            {{ post.excerpt }}
+                            {{ post.content | strip_html | truncatewords:50 }}
                         </span>
                         {%- endif -%}
                     </li>
