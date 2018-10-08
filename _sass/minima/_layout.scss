@@ -153,7 +153,8 @@
     }
   }
   display: grid;
-  grid-template-columns: 4fr minmax(230px, 1fr);
+  //grid-template-columns: 4fr minmax(230px, 1fr);
+  grid-template-columns: 1fr; // temp for removing email link
   grid-column-gap: $spacing-unit * 2;
 
   @include media-query($on-palm) {
