@@ -32,6 +32,10 @@
   display: inline-block;
   margin: 25px 0 25px 10px;
   vertical-align: text-top;
+
+  @include media-query($on-palm){
+    margin-left: 0px;
+  }
 }
 
 .site-nav {
@@ -103,12 +107,12 @@
     }
 
     input:checked ~ .trigger {
-      display: block;
+      display: inline-block;
       padding-bottom: 5px;
     }
 
     .page-link {
-      display: block;
+      display: inline-block;
       padding: 5px 10px;
       color: white;
 

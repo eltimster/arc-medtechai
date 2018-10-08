@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
-categories: [navi, browse]
-browse-description: The ARC Training Centre in Cognitive Computing for Medical Technologies is
+title: About Us
+categories: []
+browse-description:
+---
+
+The ARC Training Centre in Cognitive Computing for Medical Technologies is
 aimed at creating a workforce that is expert in developing, applying and
 interrogating artificial intelligence ("AI") applications in data-intensive medical
 contexts, to facilitate the next generation of data-driven and machine
@@ -29,6 +32,3 @@ students and 5 full-time post-doc researchers over the 5 year duration of the
 Centre. Students will be co-supervised by university-based academics and IBM
 Research-Australia researchers, and be physically hosted within the unique
 facilities of IBM Research for part of their candidature.
----
-
-This is the About page.

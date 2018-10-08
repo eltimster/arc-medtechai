@@ -96,28 +96,35 @@
       </div>
 
       <div class="partners">
+
         <div class="partners-grid lead">
-        {% for image in site.static_files %}
+          {% for image in site.static_files %}
           {% if image.path contains 'partners/lead' %}
+          <a href="{{ site.data.partner-sites[image.name] }}">
           <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+          </a>
           {% endif %}
-        {% endfor %}
+          {% endfor %}
         </div>
 
-	<h1>Partner Universities</h1>
+	    <h1>Partner Universities</h1>
         <div class="partners-grid universities">
         {% for image in site.static_files %}
           {% if image.path contains 'partners/universities' %}
+          <a href="{{ site.data.partner-sites[image.name] }}">
           <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+          </a>
           {% endif %}
         {% endfor %}
         </div>
 
-	<h1>Other Participating Organisations</h1>
+	  <h1>Other Participating Organisations</h1>
         <div class="partners-grid others">
           {% for image in site.static_files %}
           {% if image.path contains 'partners/others' %}
+          <a href="{{ site.data.partner-sites[image.name] }}">
           <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+          </a>
           {% endif %}
           {% endfor %}
         </div>
