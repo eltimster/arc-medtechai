@@ -3,5 +3,13 @@ layout: post
 title:  "Participant Agreement Signing"
 date:   2017-12-01 23:55:23 +1000
 categories: jekyll update
+excerpt: The official Participant Agreement for the ARC Training Centre in Cognitive Computing for Medical Technologies was signed on Dec 1, 2017.
 ---
+<span style="display:block;text-align:center">
+![Official Agreement Singning Photo](/assets/signing2017/001.jpg){:class="post post-medium post-inline"}
+![Official Agreement Singning Photo](/assets/signing2017/002.jpg){:class="post post-medium post-inline"}
+</span>
+<br/>
 The official Participant Agreement for the ARC Training Centre in Cognitive Computing for Medical Technologies was signed on Dec 1, 2017. Signatories Prof Jim McCluskey, Pro-Vice Chancellor (Research), The University of Melbourne and Dr Joanna Batstone, then Lab Director of IBM Research – Australia (front row), were joined by (back row, left to right): Dr Juerg von Kaenel, Associate Director, IBM Research – Australia; Prof Timothy Baldwin, Centre Director from The University of Melbourne; Mr Andrew Gort, Business Development Manager, IBM Research – Australia; Ms Carla Zito, Partnerships Officer, The University of Melbourne; and Mr Michael Egan, Commercialisation Mentor, Research, Innovation & Commercialisation, The University of Melbourne.
+
+

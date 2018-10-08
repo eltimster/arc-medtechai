@@ -24,9 +24,11 @@
               {{ post.title | escape }}
 
           </h3>
-          <span class="excerpt">
-          {{ post.excerpt }}
-          </span>
+          {%- if post.excerpt -%}
+            <span class="excerpt">
+            {{ post.excerpt }}
+            </span>
+          {%- endif -%}
         </li>
         </a>
         {%- endfor -%}

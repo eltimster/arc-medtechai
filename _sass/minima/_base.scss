@@ -56,6 +56,40 @@ img {
   vertical-align: middle;
 }
 
+img.post {
+  display: block;
+}
+
+img.with-margin {
+  margin-right: $spacing-unit;
+}
+
+img.post-large{
+  width: 800px;
+}
+
+img.post-medium{
+  width: 500px;
+}
+
+img.post-small{
+  width: 400px;
+}
+
+img.post-xsmall{
+  width: 200px;
+}
+
+img.post-block{
+  display: block;
+  margin: 0 auto;
+}
+
+img.post-inline{
+  display: inline-block;
+
+}
+
 .home-splash{
   display: block;
   width: 100%;
@@ -64,9 +98,10 @@ img {
 @include media-query($on-palm) {
   .home-splash{
     display: none;
-    //width: 100%;
   }
-
+  img.post {
+    width: 100%
+  }
 }
 
 

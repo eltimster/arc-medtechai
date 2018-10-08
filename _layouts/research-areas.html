@@ -21,10 +21,11 @@
                         <h3>
                             {{ post.title | escape }}
                         </h3>
-                        <!--<span class="excerpt">-->
-                          <!--{{ post.excerpt }}-->
-                          <!--fix to be one sentence-->
-                        <!--</span>-->
+                        {%- if post.excerpt -%}
+                        <span class="excerpt">
+                            {{ post.excerpt }}
+                        </span>
+                        {%- endif -%}
                     </li>
                 </a>
                 {%- endfor -%}

@@ -25,19 +25,20 @@
 }
 
 .logo-svg {
-  height:85px;
-  width: 385px;
+  height:70px;
+  width: 325px;
   //width: 450px;
   max-width: 85%;
   display: inline-block;
-  margin: 15px 0;
+  margin: 25px 0 25px 10px;
   vertical-align: text-top;
 }
 
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  //line-height: $base-line-height * $base-font-size * 2.25;
   text-transform: uppercase;
+  margin: 25px 0;
 
   .nav-trigger {
       display: none;
@@ -334,6 +335,7 @@
     @include relative-font-size(1);
   }
   text-align: justify;
+  //color: $brand-color;
 }
 
 .browse-topics {
