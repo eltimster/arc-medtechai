@@ -104,6 +104,17 @@ img.post-inline{
   }
 }
 
+iframe.youtube-embed {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  width: 560px;
+  height: 315px;
+
+  @include media-query($on-palm) {
+    width: 100%;
+  }
+}
 
 
 /**
