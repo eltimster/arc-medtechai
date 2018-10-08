@@ -1,24 +1,11 @@
 <footer class="site-footer h-card">
   <!--<data class="u-url" href="{{ "/" | relative_url }}"></data>-->
 
-  <!--<div class="wrapper">-->
   <div>
     <img src="{{ site.url }}/assets/arc-footer.svg" id="arc-footer" alt="ARC logo" />
     <br><br>
     <h2 class="footer-heading">The ARC Training Centre in Cognitive Computing for Medical Technologies is funded by the Australian Government through the Australian Research Council Industrial Transformation Research Program.</h2>
+    <h2 class="footer-heading">You can also find us at <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><span class="username">{{ site.twitter_username| escape }}</span> <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></h2>
   </div>
-
-  <div>
-    <ul class="contact-list">
-        {%- if site.email -%}
-        <li>
-            <svg class="svg-icon">{% include mail-blue.svg %}</svg>
-            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-        </li>
-        {%- endif -%}
-        <li>{%- include social.html -%}</li>
-    </ul>
-  </div>
-  <!--</div>-->
 
 </footer>

@@ -141,7 +141,7 @@
     color: $light-blue-color;
   }
   a:hover{
-    text-decoration: underline;
+    text-decoration: none;
   }
   ul.contact-list {
     border-left: 3px solid $brand-color;
@@ -484,11 +484,6 @@ ul.nested-navi {
     color: $brand-color;
   }
 
-  //.post-list-heading{
-  //  border-bottom: 1px solid #e5c5bf;
-  //  font-weight: 400;
-  //}
-
   li {
     color: $brand-color;
     border-bottom: 1px solid $brand-color;
@@ -555,16 +550,22 @@ ul.nested-navi {
   li {
     border-top: 1px solid $brand-color;
     padding: 1em 0;
+    line-height: 1;
+
+    > h3{
+      line-height: 1.5;
+    }
   }
   a:hover {
     li {
       //background-color: #f4f4ea;
-      opacity: 0.75;
+      color: $light-blue-color;
 
     }
 
     h3 {
-      color: darken($brand-color, 25%);
+      //color: darken($brand-color, 25%);
+      color: $light-blue-color;
     }
   }
   .excerpt {
