@@ -11,4 +11,4 @@ subtitle: "Stream 1"
 
 
 <h3>Stream Leaders</h3>
-![Prof David Grayden]("arc-medtechai/assets/streamleaders/David Grayden Headshot.jpg"){:class="post post-xsmall post-block"}
+![Prof David Grayden]("/assets/streamleaders/David Grayden Headshot.jpg"){:class="post post-xsmall post-block"}
