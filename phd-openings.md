@@ -84,5 +84,5 @@ This project aims to develop a brain-computer interface system with emphasis on 
 This project aims to develop a brain-computer interface system that allows people with speech, vision or motor disorders to interact in an augmented/virtual environment (e.g., selecting/manipulating an object of interest, walking/exploring a remote site). This AR/VR-based BCI will allow users to learn and adapt to the BCI in a more swift manner with countless possibilities of application scenarios, compared to the conventional case of a task-specific BCI (e.g., to control a robotic arm). Furthermore, AR/VR-based BCI systems will be safer to operate, can be deployed anywhere with minimal hardware constraints, and will provide an extremely efficient training platform to decode the brain’s intent. Brain-computer interfaces rely upon good recordings of neural signals, typically with scalp or intracranial EEG systems. This project will build a multimodal BCI system that augments the EEG signals through speech recognition and gaze tracking as a multimodal input to the system to further enhance the performance/accuracy of the system for the desired application scenarios.
 
 
-For further information please email the Centre Manager, Julie Ireland at julie.ireland@unimelb.edu.au
+
 
