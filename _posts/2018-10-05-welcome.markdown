@@ -45,3 +45,15 @@ Centre leadership team: L to R - Dr Juerg von Kaenel, Associate Director, IBM Re
 ![Launch Photo](/assets/Senator_Hume_Presenting_Crowd.jpg){:class="post post-small post-inline"}
 ![Launch Photo](/assets/Tim_Baldwin_Presenting.jpg){:class="post post-small post-inline"}
 </span>
+
+<span style="display:block;text-align:center">
+![Launch_Photo](/assets/Demo_1.jpg){:class="post post-small post-inline"}
+![Launch Photo](/assets/Demo_2.jpg){:class="post post-small post-inline"}
+![Launch Photo](/assets/Demo_3.jpg){:class="post post-small post-inline"}
+</span>
+
+<span style="display:block;text-align:center">
+![Launch_Photo](/assets/Demo_4.jpg){:class="post post-small post-inline"}
+![Launch Photo](/assets/Demo_5.jpg){:class="post post-small post-inline"}
+![Launch Photo](/assets/Demo_6.jpg){:class="post post-small post-inline"}
+</span>
