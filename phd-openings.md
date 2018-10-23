@@ -5,6 +5,11 @@ categories: [navi, browse]
 browse-description: PhD openings within the Centre
 ---
 
+We are seeking Expressions of Interest from potential PhD students to work on the following projects. Please complete the Expression of Interest form at: 
+* [PhD Openings - Expressions of Interest](https://goo.gl/forms/C3wBKWtw5Igaumat1)
+
+
+
 ## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines
      
 This PhD project will focus on identification of relevant clinical guidelines
