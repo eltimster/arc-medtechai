@@ -4,6 +4,34 @@ title:  "Upcoming Launch Event"
 date:   2018-10-09 23:55:23 +1000
 categories: jekyll update
 ---
-We are delighted to announce that the Centre will be officially launched by
-Senator Jane Hume and Professor Sue Thomas on Tuesday October 9. Stay tuned
-for photos from the event!
+Senator for Victoria, Jane Hume, today launched the Australian Research Council (ARC) Training Centre in Cognitive Computing for Medical Technologies, based at The University of Melbourne, which is receiving $4.1 million in Federal Government support through the ARC Industrial Transformation Research Program. The new industrial transformation training centre will focus on developing artificial intelligence (AI) applications for medical technologies, and on training an expert workforce that will drive Australian innovation and support future opportunities in this exciting field.
+ 
+The Centre will create a workforce that is expert in developing and applying AI applications in data-intensive medical contexts—for advancing ‘next generation’ data-driven and machine learning-based medical technologies.
+ 
+It will focus on vital industry-led research into a wide range of future medical applications for artificial intelligence: from use for epilepsy seizure prediction; restoring mobility to amputees and people with paralysis; improving prognosis and prediction of Alzheimer’s Disease; through to providing real-time clinical decision support for medical practitioners. 
+
+Minister for Education, Dan Tehan, said the new Training Centre would provide a world-class, industry-driven, research training environment over the next five years.
+ 
+“With the opportunity for focussed research, and on acquiring necessary industry and entrepreneurial skills, our PhD students and postdoctoral researchers will be fully equipped to lead our future medical technology industry into a new era of data-driven personalised medical devices and applications,” Mr Tehan said.
+
+Senator Hume said the Centre, together with its collaborating universities and organisations, would work hand in hand to give our medical technology industry the edge and drive global competitive advantage.
+ 
+“IBM Research-Australia—global leaders in machine learning, artificial intelligence, natural language processing (NLP) and biomedical engineering—is providing $3.5m of additional cash and in-kind support towards the Training Centre,” said Senator Hume. 
+ 
+“The high calibre of researchers and industry experts collaborating in this Training Centre will also be great mentors, training up the next generation of early career research talent for an industry-ready workforce.”
+ 
+University of Melbourne Vice-Chancellor, Professor Duncan Maskell, welcomed the new Training Centre, adding that the University has a proud history of research.
+ 
+“Research is the engine of discovery, and the new Centre will play a key role in advancing artificial intelligence medical technologies to benefit patients and society,” Professor Maskell said.
+ 
+“By collaborating with industry and government, our technical experts will form a significant research effort to advance artificial intelligence outcomes in the interests of the wider healthcare sector.”
+ 
+IBM Research Australia, Lab Director, Professor Iven Mareels, said talent development and cultivating the right future skills was paramount to driving Australia's Innovation agenda. It would also help to build a pipeline for potential new hires for IBM Research. 
+
+“This is precisely what this Centre is all about - building and shaping future talent which will have the skills to develop and apply cognitive computing technologies to support Australia’s digital transformation in health. The development of the next generation of scientists is incredibly important. IBM wants to be part of creating that future."
+
+Leading the new Training Centre as Director, is Professor Timothy Baldwin.
+
+ "Artificial Intelligence is a burgeoning area with huge potential for positive impact to the Australian economy and healthcare outcomes, and we are delighted to progress this new Training Centre. "The Centre will be a training ground for a new breed of commercially-savvy AI researcher with deep expertise in medical technologies, to drive future innovation in data-driven medicine in Australia." Professor Baldwin said
+
+The ARC Training Centre in Cognitive Computing for Medical Technologies will be led by The University of Melbourne, in partnership with IBM Research-Australia, with the involvement of: Western Sydney University, RMIT University, and the University of South Australia; and with participating organisations Medtronic Australasia Pty Ltd, CSIRO, St Vincent's Health, The Florey Institute of Neuroscience and Mental Health, Melbourne Academic Centre for Health, and Cogstate Ltd.
