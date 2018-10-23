@@ -56,7 +56,7 @@ img {
   vertical-align: middle;
 }
 
-img.post {
+div.post, img.post {
   display: block;
 }
 
@@ -64,28 +64,28 @@ img.with-margin {
   margin-right: $spacing-unit;
 }
 
-img.post-large{
+div.post-large, img.post-large{
   width: 800px;
 }
 
-img.post-medium{
+div.post-medium, img.post-medium{
   width: 500px;
 }
 
-img.post-small{
+div.post-small, img.post-small{
   width: 400px;
 }
 
-img.post-xsmall{
+div.post-xsmall, img.post-xsmall{
   width: 200px;
 }
 
-img.post-block{
+div.post-block, img.post-block{
   display: block;
   margin: 0 auto;
 }
 
-img.post-inline{
+div.post-inline, img.post-inline{
   display: inline-block;
 
 }
@@ -99,7 +99,7 @@ img.post-inline{
   .home-splash{
     display: none;
   }
-  img.post {
+  div.post, img.post {
     width: 100%
   }
 }
@@ -115,6 +115,8 @@ iframe.youtube-embed {
     width: 100%;
   }
 }
+
+
 
 
 /**

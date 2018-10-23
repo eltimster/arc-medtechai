@@ -411,7 +411,6 @@
 
   .single {
     height: 100px;
-    //display: block;
     @include media-query($on-palm) {
       max-height:100px;
     }
@@ -423,8 +422,6 @@
   display: grid;
   grid-row-gap: 10px;
   grid-column-gap: 10px;
-  //grid-auto-columns: min-content;
-  //grid-template-columns: repeat( auto-fit, minmax(200px, 1fr) );
   align-items: center;
   justify-items: center;
   img {
@@ -441,9 +438,6 @@
 
 .lead {
   grid-template-columns: 1fr 1fr 1fr;
-  //margin: 0
-  //grid-template-areas: ". melb arc arc .";
-  //grid-template-rows: 150px;
   @include media-query($on-palm) {
     grid-template-columns: 1fr;
   }
@@ -573,4 +567,15 @@ ul.nested-navi {
     color: black;
     @include relative-font-size(1);
   }
+}
+
+/**
+ * Posts Layout
+ */
+
+div.photo-with-caption{
+  background-color: $light-blue-color2;
+  padding: 5px;
+  margin-top: 5px;
+  text-align: center;
 }

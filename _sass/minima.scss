@@ -13,9 +13,8 @@ $base-line-height: 1.5 !default;
 $title-font-family: "Open Sans", Helvetica;
 
 $spacing-unit:     30px !default;
-
 $text-color:       #111 !default;
-//$background-color: #fdfdfd !default;
+
 $background-color: white !default;
 $brand-color: #09529b !default;
 $second-tone-color: #e5c5bf;
@@ -28,6 +27,12 @@ $light-blue-color: #2271a8;
 $light-blue-color2: #e7eff7;
 
 $table-text-align: left !default;
+
+// Image sizes
+$post-large: 800px;
+$post-medium: 500px;
+$post-small: 400px;
+$post-xsmall: 200px;
 
 // Width of the content area
 $content-width:    100% !default;
