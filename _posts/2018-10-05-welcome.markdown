@@ -35,3 +35,5 @@ Leading the new Training Centre as Director, is Professor Timothy Baldwin.
  "Artificial Intelligence is a burgeoning area with huge potential for positive impact to the Australian economy and healthcare outcomes, and we are delighted to progress this new Training Centre. "The Centre will be a training ground for a new breed of commercially-savvy AI researcher with deep expertise in medical technologies, to drive future innovation in data-driven medicine in Australia." Professor Baldwin said
 
 The ARC Training Centre in Cognitive Computing for Medical Technologies will be led by The University of Melbourne, in partnership with IBM Research-Australia, with the involvement of: Western Sydney University, RMIT University, and the University of South Australia; and with participating organisations Medtronic Australasia Pty Ltd, CSIRO, St Vincent's Health, The Florey Institute of Neuroscience and Mental Health, Melbourne Academic Centre for Health, and Cogstate Ltd.
+
+![Centre Leadership Photo](/assets/Centre_Leadership.jpg){:class="post post-medium post-block"}
