@@ -40,11 +40,8 @@ The suitable candidate will have a MSc degree in Computer Science, Computational
 Artificial Intelligence, or related fields, with good coursework results, evidence of strong capacity
 for research, and good English skills.
 
-This project will also benefit from the context of the Natural Language Processing group at the
-University of Melbourne, including Professor Tim Baldwin, Professor Karin Verspoor, and
-Associate Professor Trevor Cohn, and their existing students and research fellows. Professor
-Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and
-Lead of the Natural Language Processing Stream in the centre.
+This project will be based at RMIT University, working with Dr Lawrence Cavedon, however, will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin, Professor Karin Verspoor, and
+Associate Professor Trevor Cohn, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
 
 Key areas involved in the research: natural language processing, information retrieval, health informatics
 
@@ -54,6 +51,8 @@ Key areas involved in the research: natural language processing, information ret
 This project will focus on summarisation of the background literature relevant to a given clinical question. Under the assumption that a relevant body of literature for a clinical question can be identified, the objective will be abstractive summarisation of that literature with sensitivity to the clinical question that is being explored. 
 
 The student project work will focus on natural language generation for the summaries, and consider adaptation of the summaries for different audiences based on readability, background knowledge, desired summary length, etc. to cater to different requirements.
+
+This project will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin, Professor Karin Verspoor, and Associate Professor Trevor Cohn, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
 
 
 ## Seizure Forecasting using Neural Networks
