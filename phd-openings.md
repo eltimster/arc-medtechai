@@ -42,7 +42,7 @@ for research, and good English skills.
 
 This project will be based at RMIT University, working directly with Associate Professor Lawrence Cavedon and will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin, Professor Karin Verspoor, and Associate Professor Trevor Cohn, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
 
-Key areas involved in the research: natural language processing, information retrieval, health informatics
+*Key areas involved in the research:* natural language processing, information retrieval, health informatics
 
 
 ## Multi-document summarisation supporting clinical evidence review
@@ -53,6 +53,8 @@ The student project work will focus on natural language generation for the summa
 
 This project will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin, Professor Karin Verspoor, and Associate Professor Trevor Cohn, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
 
+*Key areas involved in the research:* natural language processing, health informatics
+
 
 ## Seizure Forecasting using Neural Networks
      
@@ -60,7 +62,7 @@ This project aims to improve performance of epileptic seizure forecasting. The o
 
 The suitable candidate will have an Honours or Masters degree in Biomedical Engineering, Electrical Engineering, Mathematics, Computer Science, or related fields, with good coursework results, evidence of strong capacity for research, and good English skills.
 
-Key areas involved in the research: signal processing, machine learning, neural networks
+*Key areas involved in the research:* signal processing, machine learning, neural networks
 
 
 ## Deep Learning for Fitting Neural Mass Models to EEG
@@ -69,7 +71,7 @@ This project aims to improve performance of seizure prediction by linking neural
 
 The suitable candidate will have an Honours or Masters degree in Biomedical Engineering, Electrical Engineering, Mathematics, Computer Science, or related fields, with good coursework results, evidence of strong capacity for research, and good English skills.
 
-Key areas involved in the research: advanced signal processing, machine learning, neural modelling
+*Key areas involved in the research:* advanced signal processing, machine learning, neural modelling
 
 
 ## Brain-Computer Interfaces for low-powered mobile/wearable devices
@@ -78,7 +80,7 @@ This project aims to develop a brain-computer interface system with emphasis on 
 
 The suitable candidate will have an Honours or Masters degree in Biomedical Engineering, Electrical Engineering, Mathematics, Computer Science, or related fields, with good coursework results, evidence of strong capacity for research, and good English skills.
 
-Key areas involved in the research: signal processing, machine learning, neural networks, embedded systems
+*Key areas involved in the research:* signal processing, machine learning, neural networks, embedded systems
 
 
 ## Multimodal Brain-Computer Interfaces for augmented reality and virtual reality applications
@@ -87,7 +89,7 @@ This project aims to develop a brain-computer interface system that allows peopl
 
 The suitable candidate will have an Honours or Masters degree in Biomedical Engineering, Electrical Engineering, Mathematics, Computer Science, or related fields, with good coursework results, evidence of strong capacity for research, and good English skills.
 
-Key areas involved in the research: signal processing, machine learning, neural networks
+*Key areas involved in the research:* signal processing, machine learning, neural networks
 
 
 
