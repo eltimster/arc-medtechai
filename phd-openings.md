@@ -49,6 +49,13 @@ Lead of the Natural Language Processing Stream in the centre.
 Key areas involved in the research: natural language processing, information retrieval, health informatics
 
 
+## Multi-document summarisation supporting clinical evidence review
+     
+This project will focus on summarisation of the background literature relevant to a given clinical question. Under the assumption that a relevant body of literature for a clinical question can be identified, the objective will be abstractive summarisation of that literature with sensitivity to the clinical question that is being explored. 
+
+The student project work will focus on natural language generation for the summaries, and consider adaptation of the summaries for different audiences based on readability, background knowledge, desired summary length, etc. to cater to different requirements.
+
+
 ## Seizure Forecasting using Neural Networks
      
 This project aims to improve performance of epileptic seizure forecasting. The outcome will be a system that provides estimates of the likelihood that a person will or will not have a seizure during a relevant forecasting time horizon. Artificial neural networks have demonstrated superior performance in seizure forecasting. This project will build upon our earlier work to develop new approaches based on convolutional neural networks, recurrent neural networks, and other approaches. There is potential to incorporate other sources of relevant data, such as time of day and movement tracking, as well as EEG.
