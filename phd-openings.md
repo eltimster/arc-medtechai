@@ -16,7 +16,7 @@ These project are embedded within the Centre, where up to 14 PhD students, 5 pos
 
 
 
-## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines
+**## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines**
      
 This PhD project will focus on identification of relevant clinical guidelines
 for a given clinical situation. In particular, the emphasis of the project
