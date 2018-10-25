@@ -36,7 +36,7 @@ consider how to use clinical data from medical consultations to trigger
 identification of a relevant clinical guideline at a relevant moment in a
 patient interaction, to support clinical decision making.
 
-The suitable candidate will have a MSc degree in Computer Science, Computational Linguistics,
+The suitable candidate will have a BSc (Hons) or MSc degree in Computer Science, Computational Linguistics,
 Artificial Intelligence, or related fields, with good coursework results, evidence of strong capacity
 for research, and good English skills.
 
