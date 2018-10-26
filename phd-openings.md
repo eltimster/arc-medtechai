@@ -16,6 +16,12 @@ These project are embedded within the Centre, where up to 14 PhD students, 5 pos
 
 
 
+### Financial assistance:
+
+These positions are supported by a scholarship and a supplemented living stipend of A$34,848 per annum.
+
+
+
 ## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines
      
 This PhD project will focus on identification of relevant clinical guidelines
