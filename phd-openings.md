@@ -68,7 +68,7 @@ This project aims to improve performance of epileptic seizure forecasting. The o
 
 The suitable candidate will have an Honours or Masters degree in Biomedical Engineering, Electrical Engineering, Mathematics, Computer Science, or related fields, with good coursework results, evidence of strong capacity for research, and good English skills.
 
-The primary supervisor for this project will be A/Prof Mark McDonell from the University of South Australia, but we expect that the candidate will be physically based at The University of Melbourne.
+The primary supervisor for this project will be A/Prof Mark McDonnell at the University of South Australia, but the candidate will need to spend a minimum of one year physically based in Melbourne.
 
 **Key areas involved in the research:** signal processing, machine learning, neural networks
 
