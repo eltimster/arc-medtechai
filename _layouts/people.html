@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+{%- include header.html -%}
+
+<main class="page-content" aria-label="Content">
+    <div class="wrapper people">
+        {%- if site.people.size > 0 -%}
+        <h2 class="post-list-heading">{{ page.list_title | default: "Our People" }}</h2>
+        <div class="person-grid">
+            {%- for person in site.people-%}
+            <div class="person">
+                <img class="post-xsmall" src="{{ person.image | relative_url}}">
+                <div class="details">
+                    <h3>{{ person.name | escape }}</h3>
+                    {{ person.role }}<br>
+                    {{ person.email }}
+                </div>
+                {%- if person.content -%}
+                <div class="description">
+                {{ person.content }}
+                </div>
+                {%- endif -%}
+            </div>
+            {%- endfor -%}
+        </div>
+        {%- endif -%}
+    </div>
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+</html>
