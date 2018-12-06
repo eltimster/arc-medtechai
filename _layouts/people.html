@@ -10,7 +10,7 @@
 <main class="page-content" aria-label="Content">
     <div class="wrapper people">
         {%- if site.people.size > 0 -%}
-        <h2 class="post-list-heading">{{ page.list_title | default: "Our People" }}</h2>
+        <h1>{{ page.list_title | default: "Our People" }}</h1>
         <div class="person-grid">
             {%- for person in site.people-%}
             <a href="{{ person.url | relative_url }}">

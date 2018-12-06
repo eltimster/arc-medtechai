@@ -464,6 +464,13 @@
 /**
  * Our People Elements
  */
+div.people{
+  h1{
+    text-align: center;
+    margin: 20px;
+  }
+}
+
 div.person-grid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -537,9 +544,10 @@ div.person-wrapper{
     padding: 20px;
 
     div.details{
-      h2 {
+      h1 {
         color: $brand-color;
-        margin-bottom: 0px;
+        margin-bottom: 10px;
+        line-height: 1;
       }
     }
 
