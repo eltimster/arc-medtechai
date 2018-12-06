@@ -1,4 +1,5 @@
 ---
+layout: person
 name: "Professor Dr Jürg von Känel"
 role: "Associate Director, IBM Research – Australia"
 email: jvk@au.ibm.com

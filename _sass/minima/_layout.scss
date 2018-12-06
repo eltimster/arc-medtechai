@@ -466,40 +466,100 @@
  */
 div.person-grid{
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-column-gap: 40px;
-  grid-row-gap: 50px;
-  @include media-query($navi-break) {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  @include media-query($on-smaller-palm) {
     grid-template-columns: 1fr;
   }
 
-  > div {
+  div.person{
+    text-align: center;
+    padding: 10px;
+    img {
+      border-radius: 125px;
+    }
+
+    div.details {
+      color:  black;
+      margin: 10px;
+      h3 {
+        color: $brand-color;
+        margin-bottom: 0;
+      }
+    }
+  }
+
+}
+
+div.person-wrapper{
+  display: grid;
+  grid-template-columns: 1fr 7fr 1fr;
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+  }
+
+
+  div.person-details {
+    grid-column: 2/3;
+    margin: 20px 0;
     display: grid;
     grid-template-columns: 2fr 3fr;
     @include media-query($navi-break) {
       grid-template-columns: 1fr 3fr;
-      grid-column-gap: 12px;
+      grid-column-gap: 15px;
 
     }
-    background: darken($brand-color, 15%);
-    border-radius: 7px;
+
+    @include media-query($on-palm) {
+      grid-column: 1/2;
+      grid-template-columns: 1fr;
+      grid-column-gap: 15px;
+
+    }
+
+    #link-back{
+      grid-column: 1/3;
+      @include media-query($on-palm) {
+        grid-column: 1/2;
+      }
+    }
+
     grid-row-gap: 20px;
     grid-column-gap: 10px;
-    color: white;
+    color: black;
     //margin: 20px;
     padding: 20px;
-    h3 {
-      color: $second-tone-color;
+
+    div.details{
+      h2 {
+        color: $brand-color;
+        margin-bottom: 0px;
+      }
     }
+
     img {
-      border-radius: 7px;
+      border-radius: 125px;
+      margin: 0 auto;
     }
 
     div.description {
+      //padding: 20px;
+      //border-top: 1px solid darken($brand-color, 15%);
       grid-column: 1/3;
+      text-align: justify;
+      @include media-query($on-palm) {
+        grid-column: 1/2;
+      }
     }
   }
 }
+
+
 
 /**
  * Nested Pages Navigation

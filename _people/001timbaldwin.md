@@ -1,4 +1,5 @@
 ---
+layout: person
 name: "Professor Tim Baldwin"
 role: "Centre Director"
 email: tbaldwin@unimelb.edu.au

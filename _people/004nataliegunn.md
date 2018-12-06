@@ -1,4 +1,5 @@
 ---
+layout: person
 name: "Dr Natalie Gunn"
 role: "Research Manager, IBM Research - Australia"
 email: natgunn@au1.ibm.com

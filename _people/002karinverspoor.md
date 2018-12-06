@@ -1,4 +1,5 @@
 ---
+layout: person
 name: "Professor Karin Verspoor"
 role: "Centre Deputy Director"
 email: karin.verspoor@unimelb.edu.au

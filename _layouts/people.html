@@ -13,24 +13,21 @@
         <h2 class="post-list-heading">{{ page.list_title | default: "Our People" }}</h2>
         <div class="person-grid">
             {%- for person in site.people-%}
+            <a href="{{ person.url | relative_url }}">
             <div class="person">
                 <img class="post-xsmall" src="{{ person.image | relative_url}}">
                 <div class="details">
                     <h3>{{ person.name | escape }}</h3>
                     {{ person.role }}<br>
-                    {{ person.email }}
                 </div>
-                {%- if person.content -%}
-                <div class="description">
-                {{ person.content }}
-                </div>
-                {%- endif -%}
             </div>
+            </a>
             {%- endfor -%}
         </div>
         {%- endif -%}
     </div>
 </main>
+
 
 {%- include footer.html -%}
 

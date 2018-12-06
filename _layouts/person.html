@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+{%- include header.html -%}
+
+<main class="page-content" aria-label="Content">
+
+    <div class="wrapper person-wrapper">
+
+        <div class="person-details">
+            <a id="link-back" href="{{ site.baseurl }}/people.html">&lt;&lt; Back to Our People</a>
+            <img class="post-xsmall" src="{{ page.image | relative_url}}">
+            <div class="details">
+                <h2>{{ page.name | escape }}</h2>
+                {{ page.role }}<br>
+                {{ page.email }}
+            </div>
+            {%- if page.content -%}
+            <div class="description">
+                {{ page.content }}
+            </div>
+            {%- endif -%}
+        </div>
+    </div>
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+</html>
