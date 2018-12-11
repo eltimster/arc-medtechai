@@ -12,7 +12,8 @@
         {%- if site.people.size > 0 -%}
         <h1>{{ page.list_title | default: "Our People" }}</h1>
         <div class="person-grid">
-            {%- for person in site.people-%}
+            {% assign site_people = site.people | sort:"order" %}
+            {%- for person in site_people-%}
             <a href="{{ person.url | relative_url }}">
             <div class="person">
                 <img class="post-xsmall" src="{{ person.image | relative_url}}">

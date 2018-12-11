@@ -1,10 +1,12 @@
 ---
 layout: person
 name: "Professor Tim Baldwin"
+title: "Professor Tim Baldwin"
 role: "Centre Director"
 email: tbaldwin@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/tim-baldwin-headshot.jpg
+order: 1
 ---
 Tim Baldwin is a Professor in the School of Computing and Information Systems, The University of Melbourne, and Associate Dean (Research Training) within the Melbourne School of Engineering. He is also Director of the recently-awarded ARC Centre in Cognitive Computing for Medical Technologies, in partnership with IBM Research. He has previously held visiting positions at Cambridge University, University of Washington, University of Tokyo, Saarland University, NTT Communication Science Laboratories, and National Institute of Informatics. His primary research focus is on natural language processing (NLP), including social media analytics, deep learning, computational lexical semantics, and topic modelling.
 

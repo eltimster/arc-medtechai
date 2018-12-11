@@ -19,14 +19,10 @@
         <li>
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-
-              {{ post.title | escape }}
-
-          </h3>
+          <h3>{{ post.title | escape }}</h3>
           {%- if post.excerpt -%}
             <span class="excerpt">
-            {{ post.excerpt }}
+            {{ post.excerpt | truncatewords: 50 }}
             </span>
           {%- endif -%}
         </li>

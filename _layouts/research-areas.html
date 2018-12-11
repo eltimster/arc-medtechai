@@ -19,11 +19,7 @@
                     <li>
                         <span class="post-meta">{{ post.subtitle }}</span>
                         <h3>{{ post.title | escape }}</h3>
-                        {%- if post.excerpt -%}
-                        <span class="excerpt">
-                            {{ post.content | strip_html | truncatewords:50 }}
-                        </span>
-                        {%- endif -%}
+
                     </li>
                 </a>
                 {%- endfor -%}

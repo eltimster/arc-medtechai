@@ -505,6 +505,11 @@ div.person-grid{
 div.person-wrapper{
   display: grid;
   grid-template-columns: 2fr 7fr 2fr;
+  //
+  //h1 {
+  //  text-align: center;
+  //  grid-column: 2/3;
+  //}
 
   @include media-query($on-palm) {
     grid-template-columns: 1fr;
@@ -514,7 +519,7 @@ div.person-wrapper{
 
   div.person-details {
     grid-column: 2/3;
-    margin: 20px 0;
+    //margin: 20px 0;
     display: grid;
     grid-template-columns: 2fr 2fr;
     @include media-query($navi-break) {
@@ -541,7 +546,7 @@ div.person-wrapper{
     grid-column-gap: 30px;
     color: black;
     //margin: 20px;
-    padding: 20px;
+    padding: 0 20px;
 
     div.details{
       h1 {

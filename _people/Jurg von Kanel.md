@@ -1,10 +1,12 @@
 ---
 layout: person
 name: "Professor Dr Jürg von Känel"
+title: "Professor Dr Jürg von Känel"
 role: "Associate Director, IBM Research – Australia"
 email: jvk@au.ibm.com
 categories: jekyll update
 image: assets/people-headshots/juerg-von-kaenel-headshot.jpg
+order: 3
 ---
 Dr. Jürg von Känel is the associate director of the “IBM Research – Australia” lab in Melbourne. He studied math and computer science at ETH Zürich and holds a Ph.D. in Computer Science (1991).
 
