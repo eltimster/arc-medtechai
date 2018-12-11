@@ -1,0 +1,16 @@
+<!--<div class="wrapper person-wrapper">-->
+<div class="person-details">
+    <img class="post-xsmall" src="{{ include.image | relative_url}}">
+    <div class="details">
+        <h1>{{ include.name | escape }}</h1>
+        {{ include.role }}<br>
+        {{ include.company }}<br>
+        {{ include.email }}
+    </div>
+    {%- if include.content -%}
+    <div class="description">
+        {{ include.content }}
+    </div>
+    {%- endif -%}
+</div>
+<!--</div>-->
