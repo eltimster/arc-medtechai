@@ -26,11 +26,11 @@ content="<p>Dr Freestone’s research is focused on reverse engineering the huma
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/benmashford.jpg"
-name="Dr Benjamin Mashford"
+image="/assets/streamleaders/Umar Asif.HexTileLarge.png"
+name="Dr Umar Asif"
 role="Research Scientist"
 company="IBM Research – Australia"
-content="Ben Mashford is a Research Staff Member within the Brain Inspired Computing group at IBM Research - Australia. He completed his PhD in 2010 at The University of Melbourne. His current research interests are in the application of deep learning and neuromorphic computing to a range of scientific problems, including the classification of EEG motor imagery and the analysis of brain signal recordings of epilepsy patients. Before joining IBM, he has held positions of Senior Scientist at a Boston-based start-up company, as a researcher at Swinburne University and as a software developer."
+content="I am working on projects around image analytics with applications to healthcare and Neurobionics using deep learning and 3D computer vision. I design and build novel deep Convolutional Neural Network models using state of the art deep learning frameworks like PYTORCH, CAFFE and KERAS, for low-power mobile supercomputer devices like Nvidia Jetson for a variety of tasks such as medical image analytics, robotic grasping, and 3D scene understanding."
 %}
 
 
