@@ -26,7 +26,7 @@ content="<p>Dr Freestone’s research is focused on reverse engineering the huma
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders/Umar Asif.HexTileLarge.png"
+image="/assets/streamleaders-cropped/UmarAsifBW.jpg"
 name="Dr Umar Asif"
 role="Research Scientist"
 company="IBM Research – Australia"
