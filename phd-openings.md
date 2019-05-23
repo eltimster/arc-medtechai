@@ -12,7 +12,7 @@ We are seeking Expressions of Interest from potential Graduate Researchers to wo
 
 ### Description of the project environment:
 
-These project are embedded within the Centre, where up to 14 PhD students, 5 post-doctoral researchers, and 11 University of Melbourne staff will collaborate across 4 research streams with researchers at IBM Research and a number of other Australian Universities, including RMIT University, the University of South Australia, and Western Sydney University. Each student will be jointly supervised by Universities and IBM Research and will spend at least 12 months of their candidature working on site at an IBM Research laboratory.
+These projects are embedded within the Centre, where up to 14 PhD students, 5 post-doctoral researchers, and 11 University of Melbourne staff will collaborate across 4 research streams with researchers at IBM Research and a number of other Australian Universities, including RMIT University, the University of South Australia, and Western Sydney University. Each student will be jointly supervised by Universities and IBM Research and will spend at least 12 months of their candidature working on site at an IBM Research laboratory.
 
 
 
