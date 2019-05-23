@@ -27,7 +27,7 @@ content="<p>Stefan received the B.Sc., Diploma, and Ph.D. degrees in Electrical 
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/jordanchambers.jpg"
+image="/assets/streamleaders/jordanchambers.jpg"
 name="Dr Jordan Chambers"
 role="Research Fellow, Epilepsy Seizure Prediction"
 company="The University of Melbourne"
