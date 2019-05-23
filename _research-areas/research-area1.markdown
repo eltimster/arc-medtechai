@@ -10,9 +10,9 @@ This project aims to develop and apply state-of-the-art machine learning approac
 {% include person-bio.html
 image="/assets/streamleaders-cropped/davidgrayden.jpg"
 name="Professor David Grayden"
-role="Head of Biomedical Engineering"
+role="Clifford Chair of Neural Engineering, Department of Biomedical Engineering"
 company="Melbourne School of Engineering, The University of Melbourne"
-content="<p>Professor David Grayden is Head of the Department of Biomedical Engineering, Melbourne School of Engineering and Leader of the Bionics Laboratory in the Centre for Neural Engineering, The University of Melbourne.</p>
+content="<p>Professor David Grayden is the Clifford Chair of Neural Engineering in the Department of Biomedical Engineering, and Leader of the Bionics Laboratory in the Centre for Neural Engineering, The University of Melbourne.</p>
 <p>Prof Grayden&#39;s main research interests are in understanding how the brain processes information, how best to present information to the brain using medical bionics, such as the bionic ear and bionic eye, and how to record information from the brain, such as for brain-machine interfaces. He is also conducting research in epileptic seizure prediction and electrical stimulation to prevent or stop epileptic seizures, and in electrical stimulation of the vagus nerve to control inflammatory bowel disease. He has research linkages with the Bionics Institute, St Vincent&#39;s Hospital Melbourne, Royal Melbourne Hospital, University of South Australia, Florey Institute for Neuroscience and Mental Health, and University of Maryland, USA.</p>"
 %}
 <br>
