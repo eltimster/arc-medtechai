@@ -23,3 +23,11 @@ content="<p>Chris Butler is the Manager of Cognitive Analytics at IBM Research â
          <p>Chris joined IBM first at the IBM Research Collaboratory for Life sciences in November 2010. In May 2011 he joined IBM Research â€“ Australia as a research intern and in 2012 he joined IBM Research as a research scientist full time.  Throughout his tenure at IBM Research Chris has worked on a diverse set of projects from numerical modelling of cardiac electrophysiology to the analysis of social media for disaster management.</p>
          <p>His PhD on utilising numerical modelling to understand in vitro blood flow experiments and his undergraduate degree (BE(Mech) / BTech (Aero) Hons.) were received from Monash University.</p>"
 %}
+<br>
+{% include person-bio.html
+image="/assets/streamleaders/afshinrahimi.jpg"
+name="Dr Afshin Rahimi"
+role="Research Fellow"
+company="The University of Melbourne"
+content="<p>Afshin is a Research Fellow at The University of Melbourne working on the application of Natural Language Processing in health. His research interests fall within the fields of Natural Language Processing, Social Network Analysis and Machine Learning. He is specifically interested in exploiting both structured and unstructured data to help machines understand language from medical papers and other health-related contexts.</p>"
+%}
