@@ -5,6 +5,12 @@ Predicting/Modelling Epilepsy, and Machine Learning for Controlling
 Brain-Computer Interfaces"
 subtitle: "Stream 2"
 ---
+This project aims to bring together neural models of the brain with machine learning to study and treat epilepsy. This project will develop patient-specific neural field models and neural mass models that replicate recorded EEG signals with high fidelity. The underlying model states and parameters will be used as inputs to machine learning algorithms to predict seizures and to elucidate the underlying mechanisms of epilepsy. This combined approach will help us to understand the causes and behaviours of epileptic seizures and build high fidelity models for epileptic seizure prediction.
+
+
+
+This project aims to develop a control system that is computationally efficient (i.e., fast response time) and achieves high task-specific performance for a brain-computer interface (BCI). The project also aims to develop a neural network-based BCI that can be used to control commercially available augmentative devices for individuals with speech, vision, or motor disorders (to interact in AR/VR environments using only their brain activity). In this context, non-EEG data sources, such as speech recognition and gaze tracking will be investigated and incorporated where possible to develop training systems for both the brain-computer interfaces system and the user.
+<br><br>
 <hr>
 <br>
 {% include person-bio.html
