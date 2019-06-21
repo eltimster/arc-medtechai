@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-date: 2019-06-10 16:00:00 +1000
+date: Jun 10, 2019
 categories: [navi, browse]
 ---
 ARC and IBM build $10 million AI centre with Melbourne Uni
