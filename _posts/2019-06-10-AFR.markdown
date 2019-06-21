@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "ARC and IBM build $10 million AI centre with Melbourne Uni"
-date:   2019-06-10 16:00:00 +1000
+date:   2019-06-10
 categories: jekyll update
-excerpt: Centre Director, Prof Tim Baldwin was recently interviewed by the Australian Financial Review.
 ---
-(https://www.afr.com/technology/technology-companies/ibm-invests-10-million-in-melbourne-uni-ai-centre-20190606-p51va7)
+Centre Director, Prof Tim Baldwin was recently interviewed by the Australian Financial Review about the partnership between the Australian Research Council, IBM Research-Australia and The University of Melbourne to build the ARC Training Centre in Cognitive Computing for Medical Technologies focusing on developing AI applications for medical technologies.
