@@ -22,7 +22,7 @@ These positions are supported by a scholarship and a supplemented living stipend
 
 
 
-## Multi-Modal Probalistic Prediction of Dementia Onset and Prognosis
+## Multi-Modal Probabilistic Prediction of Dementia Onset and Prognosis
 
 The central goal of this project is to develop novel predictive tools that use multi-modal data (demographic, clinical, imaging and genetics) to statistically model age of onset of Alzheimer’s disease (diagnosis) as well as its subsequent trajectory (prognosis). This work will be making use of a large collection of longitudinal Alzheimer’s disease studies (thousands of individuals observed for over a decade) where a rich collection of measurements have been collated, and will focus on Bayesian modelling approaches. The project asks how statistical modelling can improve confidence in disease detection and prognosis compared to comparable current clinical and research tools, how to best represent and combine each type of data modality available, as well as understanding the contributions and robustness of the different model inputs.
 
