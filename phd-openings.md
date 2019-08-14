@@ -22,13 +22,22 @@ These positions are supported by a scholarship and a supplemented living stipend
 
 
 
-## Multi-Modal Probabilistic Prediction of Dementia Onset and Prognosis
+## Multi-modal probabilistic prediction of Dementia onset and prognosis
 
 The central goal of this project is to develop novel predictive tools that use multi-modal data (demographic, clinical, imaging and genetics) to statistically model age of onset of Alzheimer’s disease (diagnosis) as well as its subsequent trajectory (prognosis). This work will be making use of a large collection of longitudinal Alzheimer’s disease studies (thousands of individuals observed for over a decade) where a rich collection of measurements have been collated, and will focus on Bayesian modelling approaches. The project asks how statistical modelling can improve confidence in disease detection and prognosis compared to comparable current clinical and research tools, how to best represent and combine each type of data modality available, as well as understanding the contributions and robustness of the different model inputs.
 
 The suitable candidate will have a BSc (Hons) or MSc degree in Computer Science, Statistics, Artificial Intelligence, or related fields, with a solid foundation in statistical inference and machine learning, and extensive experience with R or Python. Ideally, the candidate will be familiar with Bayesian data analysis and experience with probabilistic programming such as Stan or BUGS.
 
 **Key areas involved in the research:** machine learning, Bayesian data analysis, mixed modelling, cognitive decline
+
+
+## Improving genomic risk prediction of Alzheimer's disease
+
+The project aims to gain a deeper understanding of the role that an individual’s genetic profile has on their risk of Alzheimer's disease and their rate of disease progression at different stages of Alzheimer’s disease. Specifically, this will involve developing and improving genetic risk scores for Alzheimer’s disease, understanding how genetic risk can be integrated with other data modalities to predict the age of onset and future progression of Alzheimer’s disease, and will investigate the relationship between genetic risk for Alzheimer’s and other established Alzheimer’s biomarkers.
+
+The suitable candidate will have a BSc (Hons) or MSc degree in Bioinformatics, Computer Science, or related fields, with a solid foundation in applied statistics, programming, and data analysis. The ideal candidate will have experience working with human genomics data, a deep understanding of statistical inference and machine learning, and extensive experience with R or Python.
+
+**Key areas involved in the research:** machine learning, genomic risk prediction, cognitive decline
 
 
 ## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines
