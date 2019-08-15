@@ -31,7 +31,7 @@ content="<p>Afshin is a Research Fellow at The University of Melbourne working o
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/lawrencecavedon.jpg"
+image="/assets/streamleaders-cropped/lawrencecavedon1.jpg"
 name="Professor Lawrence Cavedon"
 role="Associate Dean for Computer Science and IT"
 company="RMIT University"
