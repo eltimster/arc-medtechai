@@ -15,13 +15,11 @@ company="ARC Training Centre in Cognitive Computing for Medical Technologies, Th
 content="Karin Verspoor is a Professor in the School of Computing and Information Systems and Deputy Director of the Health and Biomedical Informatics Centre at The University of Melbourne. Trained as a computational linguist, Karin’s research primarily focuses on extracting information from clinical texts and the biomedical literature using machine learning methods to enable biological discovery and clinical decision support. Karin held previous posts as the Scientific Director of Health and Life Sciences at NICTA Victoria Research Laboratory, at the University of Colorado School of Medicine, and Los Alamos National Laboratory. She also spent 5 years in start-ups during the US Tech bubble, where she helped design an early artificial intelligence system."%}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/chrisbutler.png"
-name="Dr Chris Butler"
-role="Manager of Cognitive Analytics"
+image="/assets/streamleaders-cropped/antonio-jimeno.png"
+name="Dr Antonio Jimeno Yepes"
+role="Technical Team Lead"
 company="IBM Research - Australia"
-content="<p>Chris Butler is the Manager of Cognitive Analytics at IBM Research – Australia in Melbourne. He is part of IBM Research’s global Financial Service leadership team and has been working with AI technologies, such as natural language processing, across Government, Financial Services sectors. His team is responsible for IBM Research – Australia’s engagements with Watson technologies including a number of projects delivered in conjunction with IBM Watson. Throughout his tenure he has been engaging with clients across a wide variety of industries including Federal Government, Education, Insurance and Banking.</p>
-         <p>Chris joined IBM first at the IBM Research Collaboratory for Life sciences in November 2010. In May 2011 he joined IBM Research – Australia as a research intern and in 2012 he joined IBM Research as a research scientist full time.  Throughout his tenure at IBM Research Chris has worked on a diverse set of projects from numerical modelling of cardiac electrophysiology to the analysis of social media for disaster management.</p>
-         <p>His PhD on utilising numerical modelling to understand in vitro blood flow experiments and his undergraduate degree (BE(Mech) / BTech (Aero) Hons.) were received from Monash University.</p>"
+content="<p>Antonio Jimeno Yepes is a senior researcher and team leader in text analytics in the Healthcare and Life Sciences Group at IBM Research in Melbourne, where he is leading research in natural language processing that has been transferred to IBM Watson Health products and research in the use of social media for public health surveillance. He also had the opportunity to lead research to train neuromorphic computing systems using deep learning in image analytics and signal processing tasks. Among his research interests are the use of natural language processing and other media in health solutions and the combination of connectionist machines and logical abstractions. He previously worked as researcher in institutions such as the European Organization for Nuclear Research (CERN), the European Bioinformatics Institute , the U.S. NIH / National Library of Medicine, National ICT Australia and the University of Melbourne.</p>"
 %}
 <br>
 {% include person-bio.html
