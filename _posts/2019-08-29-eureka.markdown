@@ -8,4 +8,4 @@ Congratulations to Professor David Grayden, Professor Tony Burkitt and the team 
 
 [2019 Australian Museum Eureka Prize Winners](https://australianmuseum.net.au/get-involved/eureka-prizes/2019-eureka-prize-winners/)
 
-![Members of the Endovascular Bionics Laboratory](/assets/Eureka_pic.jpg){:class="post post-medium post-block"}
+![Members of the Endovascular Bionics Laboratory](/assets/Eureka_pic.jpg){:class="post post-large post-block"}
