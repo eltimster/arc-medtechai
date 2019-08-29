@@ -56,4 +56,15 @@ role="Director, Graeme Clark Institute, The Sir John Eccles Chair of Medicine, D
 company="St. Vincent's Hospital"
 content="Director of The Graeme Clark Institute, The Sir John Eccles Chair of Medicine and Director of Clinical Neurosciences at St. Vincent’s Hospital, Professor Cook specialises in the treatment of epilepsy. He is recognised internationally for his expertise in epilepsy management, particularly imaging and surgical planning. After completing specialist training in Melbourne, he undertook an MD thesis while working as Brain Research Fellow at Queen Square, London. He returned to St. Vincent’s Hospital, Melbourne to continue his interest in management of complex epilepsy. He has worked closely with engineers for most of his career, developing novel therapies for epilepsy. His interests have included experimental models of epilepsy and seizure prediction, and he has led the commercialisation of an implantable seizure detection device about to start clinical trials."
 %}
-
+<br>
+{% include person-bio.html
+image="/assets/streamleaders/Andre van Schaik_crop.jpg"
+name="Professor Andre van Schaik"
+role="Director, International Centre for Neuromorphic Engineering"
+company="Western Sydney University"
+content="<p>André van Schaik received the M.Sc. degree in electrical engineering from the University of Twente, Enschede, The Netherlands, in 1990 and the Ph.D. degree in electrical engineering from the Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland, in 1998.</p>
+<p>He has authored more than 200 publications, invented more than 35 patents, and is a founder of three start-up companies: VAST Audio, Personal Audio, and Heard Systems.</p>
+<p>In 1998 he was a postdoctoral research fellow in the Department of Physiology at the University of Sydney, funded by fellowship from the Garnett Passe and Rodney Williams memorial foundation. In 1999 he became a Senior Lecturer in the School of Electrical and Information Engineering at the University of Sydney and promoted to Reader in 2004.</p>
+<p>In 2011 he became a research professor at Western Sydney University and leader of the Biomedical Engineering and Neuromorphic Systems (BENS) Research Program in the MARCS Institute for Brain, Behaviour, and development. In 2018, he became the Director of the International Centre of Neuromorphic Engineering. His research focuses on neuromorphic engineering and computational neuroscience."
+%}
+<br>
