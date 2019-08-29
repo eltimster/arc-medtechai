@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ARC and IBM build $10 million AI centre with Melbourne Uni"
+title:  "2019 Australian Museum Eureka Prize Winners"
 date:   2019-08-29 23:55:23 +1000
 categories: jekyll update
 ---
