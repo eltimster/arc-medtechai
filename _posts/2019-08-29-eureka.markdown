@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ARC and IBM build $10 million AI centre with Melbourne Uni"
-date:   2019-06-10 23:55:23 +1000
+date:   2019-08-29 23:55:23 +1000
 categories: jekyll update
 ---
 Congratulations to Professor David Grayden, Professor Tony Burkitt and the team at the Endovascular Bionics Laboratory at The University of Melbourne and Synchron Inc on winning the 2019 UNSW Eureka Prize for Excellence in Interdisciplinary Scientific Research. Skilfully bringing together a wide variety of disciplines, Synchron and the Endovascular Bionics Laboratory have developed a technology with the potential to restore mobility to people with paralysis. The innovation enables control of external equipment via a Stentrode – a safe and efficacious way to access the brain via blood vessels.
