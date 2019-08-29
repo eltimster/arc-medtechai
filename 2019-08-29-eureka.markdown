@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "2019 UNSW Eureka Prize for Excellence in Interdisciplinary Scientific Research"
+date:   2019-06-10 23:55:23 +1000
+categories: jekyll update
+---
+Congratulations to Professor David Grayden and Professor Tony Burkitt from the ARC Training Centre in Cognitive Computing for Medical Technologies and their team from the Endovascular Bionics Laboratory for winning the 2019 UNSW Eureka Prize for Excellence in Interdisciplinary Scientific Research.
+
+[2019 Australian Museum Eureka Prize Winners](https://australianmuseum.net.au/get-involved/eureka-prizes/2019-eureka-prize-winners/)
