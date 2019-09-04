@@ -50,7 +50,7 @@ content="I joined the ARC Training Centre in Cognitive Computing for Medical Tec
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/Adi_Tarigoppula_cropped.jpg"
+image="/assets/streamleaders/Adi_Tarigoppula_cropped.jpg"
 name="Dr Adi Tarigoppula"
 role="Research Fellow, Brain-Computer Interfaces"
 company="The University of Melbourne"
