@@ -31,7 +31,7 @@ content="<p>Afshin is a Research Fellow at The University of Melbourne working o
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/Trevor_Cohn_cropped.jpg"
+image="/assets/streamleaders-cropped/Trevor_Cohn.jpg"
 name="Dr Trevor Cohn"
 role="Associate Professor"
 company="The University of Melbourne"
