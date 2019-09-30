@@ -17,7 +17,7 @@ content="<p>Professor David Grayden is the Clifford Chair of Neural Engineering 
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders/Iven_Mareels.jpg"
+image="/assets/streamleaders/ivenmareels.jpg"
 name="Dr Iven Michiel Yvonne Mareels"
 role="Lab Director"
 company="IBM Research - Australia"
