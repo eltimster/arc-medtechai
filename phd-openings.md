@@ -80,7 +80,7 @@ This project will also benefit from the context of the Natural Language Processi
 **Key areas involved in the research:** natural language processing, health informatics
 
 
-## Seizure Forecasting using Neural Networks
+## Seizure Forecasting using Neural Networks (Applications for this project have now closed)
      
 This project aims to improve performance of epileptic seizure forecasting. The outcome will be a system that provides estimates of the likelihood that a person will or will not have a seizure during a relevant forecasting time horizon. Artificial neural networks have demonstrated superior performance in seizure forecasting. This project will build upon our earlier work to develop new approaches based on convolutional neural networks, recurrent neural networks, and other approaches. There is potential to incorporate other sources of relevant data, such as time of day and movement tracking, as well as EEG.
 
@@ -100,8 +100,8 @@ The suitable candidate will have an Honours or Masters degree in Biomedical Engi
 **Key areas involved in the research:** advanced signal processing, machine learning, neural modelling
 
 
-## Brain-Computer Interfaces for low-powered mobile/wearable devices
-     
+## Brain-Computer Interfaces for low-powered mobile/wearable devices (Applications for this project have now closed)
+
 This project aims to develop a brain-computer interface system with emphasis on low power consumption and small memory requirements, without compromising on accuracy. The outcome of this project will be novel CNN models that incorporate spatiotemporal information, produce fast inference, and achieve small memory foot-prints so that they can be deployed in wearable devices or mobile computing platforms. The greatest challenge will be to maintain the required accuracy and performance while reducing the model size and the overall latency of the system.
 
 The suitable candidate will have an Honours or Masters degree in Biomedical Engineering, Electrical Engineering, Mathematics, Computer Science, or related fields, with good coursework results, evidence of strong capacity for research, and good English skills.
@@ -109,8 +109,8 @@ The suitable candidate will have an Honours or Masters degree in Biomedical Engi
 **Key areas involved in the research:** signal processing, machine learning, neural networks, embedded systems
 
 
-## Multimodal Brain-Computer Interfaces for augmented reality and virtual reality applications
-     
+## Multimodal Brain-Computer Interfaces for augmented reality and virtual reality applications (Applications for this project have now closed)
+
 This project aims to develop a brain-computer interface system that allows people with speech, vision or motor disorders to interact in an augmented/virtual environment (e.g., selecting/manipulating an object of interest, walking/exploring a remote site). This AR/VR-based BCI will allow users to learn and adapt to the BCI in a more swift manner with countless possibilities of application scenarios, compared to the conventional case of a task-specific BCI (e.g., to control a robotic arm). Furthermore, AR/VR-based BCI systems will be safer to operate, can be deployed anywhere with minimal hardware constraints, and will provide an extremely efficient training platform to decode the brain’s intent. Brain-computer interfaces rely upon good recordings of neural signals, typically with scalp or intracranial EEG systems. This project will build a multimodal BCI system that augments the EEG signals through speech recognition and gaze tracking as a multimodal input to the system to further enhance the performance/accuracy of the system for the desired application scenarios.
 
 The suitable candidate will have an Honours or Masters degree in Biomedical Engineering, Electrical Engineering, Mathematics, Computer Science, or related fields, with good coursework results, evidence of strong capacity for research, and good English skills.
