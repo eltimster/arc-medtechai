@@ -18,7 +18,7 @@ These projects are embedded within the Centre, where up to 14 PhD students, 5 po
 
 ### Financial assistance:
 
-These positions are supported by a scholarship and a supplemented living stipend of A$34,848 per annum.
+These positions are supported by a scholarship and a supplemented living stipend of A$34,828 per annum.
 
 
 
