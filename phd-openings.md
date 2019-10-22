@@ -64,7 +64,7 @@ The suitable candidate will have a BSc (Hons) or MSc degree in Computer Science,
 Artificial Intelligence, or related fields, with good coursework results, evidence of strong capacity
 for research, and good English skills.
 
-This project will be based at RMIT University, working directly with Associate Professor Lawrence Cavedon and will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin, Professor Karin Verspoor, and Associate Professor Trevor Cohn, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
+This project will be based at RMIT University, working directly with Professor Lawrence Cavedon and will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin, Professor Karin Verspoor, and Associate Professor Trevor Cohn, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
 
 **Key areas involved in the research:** natural language processing, information retrieval, health informatics
 
