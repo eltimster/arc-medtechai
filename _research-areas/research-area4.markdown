@@ -23,11 +23,11 @@ content="<p>Antonio Jimeno Yepes is a senior researcher and team leader in text 
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders/afshinrahimi.jpg"
-name="Dr Afshin Rahimi"
+image="/assets/streamleaders-cropped/simon_photo.jpg"
+name="Dr Simon Suster"
 role="Research Fellow"
 company="The University of Melbourne"
-content="<p>Afshin is a Research Fellow at The University of Melbourne working on the application of Natural Language Processing in health. His research interests fall within the fields of Natural Language Processing, Social Network Analysis and Machine Learning. He is specifically interested in exploiting both structured and unstructured data to help machines understand language from medical papers and other health-related contexts.</p>"
+content="<p>Simon Suster is a research fellow in the School of Computing and Information Systems. His broad research interests include natural language understanding and deep learning. He is currently most enthusiastic about developing and analyzing neural-based machine reading models, especially when applied to specialized domains like medicine and healthcare. He has worked in various areas of NLP, most prominently in information extraction, representation learning for words with linguistic biases, and ethics. Prior to joining the Centre, Simon was a postdoc at the University of Antwerp and a PhD researcher at the University of Groningen.</p>"
 %}
 <br>
 {% include person-bio.html
