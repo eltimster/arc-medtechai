@@ -55,3 +55,11 @@ company="The University of Melbourne"
 content="<p>Jey Han's research is in the intersection of machine learning and language, and his vision is to explore machine learning models to better understand language. He has a particular interest in language generation — tasks that require machine learning models to produce language, e.g. summarisation and story generation — and unsupervised learning — learning where supervision signal is not available. Prior to joining the University of Melbourne, Jey Han spent over 3.5 years as an industry scientist at IBM Research, developing solutions for clients in application domains from education to government. Parallel to this, he was active in research and collaborated with universities around the world, and in recognition of his scientific achievements he was awarded a research accomplishment prize by IBM in 2019.</p>"
 %}
 <br>
+{% include person-bio.html
+image="/assets/streamleaders-cropped/Yulia Otmakhova.jpg"
+name="Yulia Otmakhova"
+role="Graduate Research Student"
+company="The University of Melbourne"
+content="<p>Yulia is a graduate researcher in the School of Computing and Information Systems working on automatic summarisation of clinical literature. She completed a MA in Computational Linguistics at Seoul National University (South Korea) and a BA in Linguistics at Tomsk State University (Russia). Her previous research focused on such areas of natural language processing as sentiment analysis, discourse and factuality.</p>"
+%}
+<br>
