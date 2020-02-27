@@ -58,7 +58,7 @@ content="<p>Jey Han's research is in the intersection of machine learning and la
 {% include person-bio.html
 image="/assets/streamleaders-cropped/Yulia Otmakhova.jpg"
 name="Yulia Otmakhova"
-role="Graduate Research Student"
+role="Graduate Researcher"
 company="The University of Melbourne"
 content="<p>Yulia is a graduate researcher in the School of Computing and Information Systems working on automatic summarisation of clinical literature. She completed a MA in Computational Linguistics at Seoul National University (South Korea) and a BA in Linguistics at Tomsk State University (Russia). Her previous research focused on such areas of natural language processing as sentiment analysis, discourse and factuality.</p>"
 %}
