@@ -17,12 +17,13 @@ content="<p>In 1984, Beyreuther and Masters purified and sequenced the amyloid c
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/noelfaux.png"
-name="Dr Noel Faux"
+image="/assets/streamleaders-cropped/Ben Goudey-2.HexTileLarge.G.jpg"
+name="Dr Benjamin Goudey"
 role="Research Staff Member"
 company="IBM Research – Australia"
-content="<p>Dr Noel Faux is a researcher at IBM Research - Australia and an Honorary Research Fellow at The Florey Institute for Neuroscience and Mental Health. He has a strong research interest in precision medicine, with application in oncology and mental health/neuroscience, as well as the application of technology in mental health.</p>
-         <p>Dr Faux is a trained molecular biologist, specialised in genomic engineering, having worked in a small gene knockout company (IngenKO), before completing a Grad Dip in Computer Science followed by a PhD in Bioinformatics, received in 2009. His body of research has spanned from understanding the functional role of amino acid repeats and the genetic architecture that encodes them, protein structural informatics, to applying machine learning and biostatistics for the identification of blood based biomarkers for Alzheimer’s Disease. Dr Faux’s work in Alzheimer’s Disease was performed at Australia’s leading neuroscience institute, The Florey Institute for Neuroscience and Mental Health. Further, these work was listed in the top ten projects funded by the National Health and Medical Research Council (NHMRC) for 2014. Dr Faux has a deep technical expertise that crosses the boundaries of genomics, proteomics, mental health, neurodegenerative diseases, biostatistics, and informatics. All areas in which he has communicated to a varied audience, from the general public to technical experts.</p>"
+content="<p>Benjamin Goudey is a Research Staff Member at the IBM Research-Australia lab in Melbourne, working within the Biomedical Data Science team with a focus on Genomics.</p>
+         <p>His work currently has two main areas of interest. The first is the development of novel machine learning and statistical methods and tools that help uncover the genotype-phenotype relationship from large-scale genomic data. The second is the development of robust and scalable tools for analysing with whole genome sequencing data that can enable the shifting of genomics from a research tool to a solution for applications in industry. This encompasses fundamental tools for quality control and variant calling as well as downstream analysis such has clustering or prediction. Both streams of work span two very different domains of bacterial and human genomics.</p>
+         <p>Ben received his Ph.D. in 2016 in Computer Science at the University of Melbourne, exploring novel computational and statistical methods for conducting interaction analysis of genome-wide association studies (GWAS) to search for combinations of genetic variants which show a strong association with a disease. His research has spanned a number of topics related to machine learning and bioinformatics including gene name detection from biomedical abstracts, prediction of diabetes and heart disease from lipid profiles, and methods to enable the communication of bacterial strain information without reference to a database.</p>"
 %}
 <br>
 {% include person-bio.html
