@@ -17,7 +17,7 @@ content="<p>In 1984, Beyreuther and Masters purified and sequenced the amyloid c
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/Ben_Goudey_cropped.jpg"
+image="/assets/streamleaders-cropped/"
 name="Dr Benjamin Goudey"
 role="Research Staff Member"
 company="IBM Research – Australia"
