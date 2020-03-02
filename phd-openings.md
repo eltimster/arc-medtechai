@@ -91,7 +91,7 @@ The primary supervisor for this project will be A/Prof Mark McDonnell at the Uni
 **Key areas involved in the research:** signal processing, machine learning, neural networks
 
 
-## Deep Learning for Fitting Neural Mass Models to EEG
+## Deep Learning for Fitting Neural Mass Models to EEG (Applications for this project have now closed)
      
 This project aims to improve performance of seizure prediction by linking neural mass models to deep learning techniques. Neural mass models have been able to model and reproduce output signals that replicate different types of intracranial EEG recordings. Data assimilation with Kalman filters has been successful in investigating how variations in model parameters can lead to the different behaviours. However, to use these models for seizure prediction, high fidelity models are needed that incorporate mechanisms of parameter variation that are intrinsic to the model. This project will develop augmented neural mass models and deep learning and other machine learning techniques to fit the models to patient-specific iEEG recordings.
 
