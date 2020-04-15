@@ -40,6 +40,18 @@ The suitable candidate will have a BSc (Hons) or MSc degree in Bioinformatics, C
 **Key areas involved in the research:** machine learning, genomic risk prediction, cognitive decline
 
 
+## Modelling of Alzheimer's Disease induced cognitive decline with Machine Learning
+
+The primary goal of this project is to utilise machine learning and artificial intelligence (AI) techniques in order to develop novel methods for understanding the nature and magnitude of changes in cognition and behaviour associated with those variations in brain structure and function that are hypothesised to be causal in Alzheimer’s Disease. The focus will be on modelling the cognitive and behavioural trajectories preceding the diagnosis of dementia, as well as determining which measurable factors (demographic, genetic etc.) may influence such trajectories. Two important additional challenges will be to find the best way of dealing with missing data as well as to study the extent to which biases from repeated application of tests can be corrected mathematically. Finally, the project will seek to estimate potential benefits to brain-behaviour models associated with high-frequency cognitive assessments.
+
+As a result, quantitative hypotheses will be generated that can subsequently be validated in independent data sets or with specific experimental programs, predominantly in learning and memory, involving functional neuroimaging as well as further psychopharmacological and cognitive challenges.
+
+The suitable candidate would have BSc in a discipline related to psychology, neuroscience or neuroimaging with a keen interest in computer science, statistics and the interface between modern machine learning and complex neurobiological models. You will be well supported by a team of mathematicians and computer scientists as well as clinical neuroscientific staff.  You will have access to data sets from the most current clinical pathological studies of Alzheimer’s Disease.    
+
+
+**Key areas involved in the research:** machine learning, Bayesian data analysis, mixed modelling, cognitive decline
+
+
 ## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines
      
 This PhD project will focus on identification of relevant clinical guidelines
