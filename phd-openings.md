@@ -49,7 +49,7 @@ As a result, quantitative hypotheses will be generated that can subsequently be 
 The suitable candidate would have BSc in a discipline related to psychology, neuroscience or neuroimaging with a keen interest in computer science, statistics and the interface between modern machine learning and complex neurobiological models. You will be well supported by a team of mathematicians and computer scientists as well as clinical neuroscientific staff.  You will have access to data sets from the most current clinical pathological studies of Alzheimer’s Disease.    
 
 
-**Key areas involved in the research:** machine learning, Bayesian data analysis, mixed modelling, cognitive decline
+**Key areas involved in the research:** machine learning, Bayesian data analysis, modelling of cognitive decline
 
 
 ## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines
