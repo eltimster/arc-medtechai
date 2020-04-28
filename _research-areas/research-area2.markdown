@@ -85,3 +85,12 @@ content="<p>André van Schaik received the M.Sc. degree in electrical engineerin
 <p>In 2011 he became a research professor at Western Sydney University and leader of the Biomedical Engineering and Neuromorphic Systems (BENS) Research Program in the MARCS Institute for Brain, Behaviour, and development. In 2018, he became the Director of the International Centre of Neuromorphic Engineering. His research focuses on neuromorphic engineering and computational neuroscience.</p>"
 %}
 <br>
+{% include person-bio.html
+image="/assets/streamleaders-cropped/ZEHRA_Syeda_cropped.jpg"
+name="Syeda Zehra"
+role="Graduate Researcher"
+company="The University of Melbourne"
+content="<p>Syeda is a Biomedical Engineering graduate from Swinburne University of Technology where she graduated with a first-class honours receiving the top graduate prize. During her time at Swinburne, Syeda participated in multiple research projects in the field of Biomedical Engineering. During her final year, she worked in collaboration with National Vision Research Institute (NVRI) where her main role was investigation of ways to replace the traditional methods of physiological spike classification with the use of unsupervised Machine learning. She mainly focused on developing an algorithm for the classification of cortical neural spikes using machine learning. The aim of the study was to understand the propagation of the visual input through V1 and V2.</p>
+<p>Syeda has joined the training centre as a PhD student where she will be looking at development of a multi-modal brain computer interface with application to Augmented reality.</p>"
+%}
+<br>
