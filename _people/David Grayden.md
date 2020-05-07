@@ -2,7 +2,7 @@
 layout: person
 name: "Professor David Grayden"
 title: "Professor David Grayden"
-role: "Clifford Chair of Neural Engineering, Department of Biomedical Engineering, Melbourne School of Engineering - The University of Melbourne"
+role: "Clifford Chair of Neural Engineering, Department of Biomedical Engineering, Melbourne School of Engineering, The University of Melbourne"
 email: grayden@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/david-grayden-headshot.jpg
