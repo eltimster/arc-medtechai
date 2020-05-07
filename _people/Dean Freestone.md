@@ -6,7 +6,7 @@ role: "Senior Research Fellow, St Vincent's Hospital, The University of Melbourn
 email: deanrf@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/dean-freestone-headshot.jpg
-order: 8
+order: 9
 ---
 Dr Freestone’s research is focused on reverse engineering the human brain. He is developing methods to create a mathematical blueprint of the brain, so engineering methods can be used to treat neurological disorders. His research findings are about to be trialled in a brain implant designed to predict and control epileptic seizures in collaboration with the medical device company Medtronic. He also works closely IBM Australia, where the team is creating specialised computer chips that can interface with the brain and bypass broken neural circuits.
 
