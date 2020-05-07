@@ -1,11 +1,11 @@
 ---
 layout: person
-name: "Professor David Grayden"
-title: "Professor David Grayden"
-role: "Clifford Chair of Neural Engineering, Department of Biomedical Engineering, Melbourne School of Engineering - The University of Melbourne"
-email: grayden@unimelb.edu.au
+name: "Dr Iven Michiel Yvonne Mareels"
+title: "Dr Iven Michiel Yvonne Mareels"
+role: "Lab Director, IBM Research - Australia"
+email: imareels@au1.ibm.com
 categories: jekyll update
-image: assets/people-headshots/david-grayden-headshot.jpg
+image: assets/people-headshots/iven-mareels-headshot.jpg
 order: 7
 ---
 Professor David Grayden is the Clifford Chair of Neural Engineering in the Department of Biomedical Engineering, and Leader of the Bionics Laboratory in the Centre for Neural Engineering, Melbourne School of Engineering, The University of Melbourne.
