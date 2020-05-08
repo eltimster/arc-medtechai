@@ -79,6 +79,14 @@ content="<p>Associate Professor Mark McDonnell received the PhD degree in Electr
 %}
 <br><br>
 {% include person-bio.html
+image="/assets/streamleaders/Mark Cook_crop.jpg"
+name="Professor Mark Cook"
+role="Director, Graeme Clark Institute, The Sir John Eccles Chair of Medicine, Director, Clinical Neurosciences"
+company="St. Vincent's Hospital"
+content="Director of The Graeme Clark Institute, The Sir John Eccles Chair of Medicine and Director of Clinical Neurosciences at St. Vincent’s Hospital, Professor Cook specialises in the treatment of epilepsy. He is recognised internationally for his expertise in epilepsy management, particularly imaging and surgical planning. After completing specialist training in Melbourne, he undertook an MD thesis while working as Brain Research Fellow at Queen Square, London. He returned to St. Vincent’s Hospital, Melbourne to continue his interest in management of complex epilepsy. He has worked closely with engineers for most of his career, developing novel therapies for epilepsy. His interests have included experimental models of epilepsy and seizure prediction, and he has led the commercialisation of an implantable seizure detection device about to start clinical trials."
+%}
+<br>
+{% include person-bio.html
 image="/assets/streamleaders/Andre van Schaik_crop.jpg"
 name="Professor Andre van Schaik"
 role="Director, International Centre for Neuromorphic Engineering"
