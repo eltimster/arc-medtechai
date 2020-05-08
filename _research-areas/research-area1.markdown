@@ -5,14 +5,14 @@ subtitle: "Stream 1"
 ---
 This project aims to develop and apply state-of-the-art machine learning approaches for epileptic seizure prediction and assessing the efficacy of epilepsy medication.  It will develop two types of new machine learning models: (i) Type I models will be designed to analyse multimodal time-series data for epileptic seizure prediction with a special focus on recurrent neural network models and EEG, time of day, and movement tracking data; (ii) Type II models will be designed to analyse medical patient records for assessing and improving the efficacy of epilepsy medication, by investigating correlations between administered medication and evidence on patient outcomes.
 <br><br>
----
-layout: page
+
 title:  "Neuro-inspired Machine Learning Approaches to
 Predicting/Modelling Epilepsy"
 subtitle: "Stream 1"
 ---
 This project aims to bring together neural models of the brain with machine learning to study and treat epilepsy. This project will develop patient-specific neural field models and neural mass models that replicate recorded EEG signals with high fidelity. The underlying model states and parameters will be used as inputs to machine learning algorithms to predict seizures and to elucidate the underlying mechanisms of epilepsy. This combined approach will help us to understand the causes and behaviours of epileptic seizures and build high fidelity models for epileptic seizure prediction.
-<br><hr>
+<br><br>
+<hr>
 <br>
 {% include person-bio.html
 image="/assets/streamleaders-cropped/davidgrayden.jpg"
