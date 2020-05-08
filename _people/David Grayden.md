@@ -1,13 +1,11 @@
 ---
 layout: person
-name: "Professor David Grayden"
-title: "Professor David Grayden"
-role: "Clifford Chair of Neural Engineering, Department of Biomedical Engineering, Melbourne School of Engineering, The University of Melbourne"
-email: grayden@unimelb.edu.au
+name: "Dr Umar Asif"
+title: "Dr Umar Asif"
+role: "Research Scientist, IBM Research - Australia"
+email: umarasif@au1.ibm.com
 categories: jekyll update
-image: assets/people-headshots/david-grayden-headshot.jpg
-order: 6
+image: assets/people-headshots/umar-asif-headshot.jpg
+order: 10
 ---
-Professor David Grayden is the Clifford Chair of Neural Engineering in the Department of Biomedical Engineering, and Leader of the Bionics Laboratory in the Centre for Neural Engineering, Melbourne School of Engineering, The University of Melbourne.
-
-Prof Grayden's main research interests are in understanding how the brain processes information, how best to present information to the brain using medical bionics, such as the bionic ear and bionic eye, and how to record information from the brain, such as for brain-machine interfaces. He is also conducting research in epileptic seizure prediction and electrical stimulation to prevent or stop epileptic seizures, and in electrical stimulation of the vagus nerve to control inflammatory bowel disease. He has research linkages with the Bionics Institute, St Vincent's Hospital Melbourne, Royal Melbourne Hospital, University of South Australia, Florey Institute for Neuroscience and Mental Health, and University of Maryland, USA.
+I am working on projects around image analytics with applications to healthcare and Neurobionics using deep learning and 3D computer vision. I design and build novel deep Convolutional Neural Network models using state of the art deep learning frameworks like PYTORCH, CAFFE and KERAS, for low-power mobile supercomputer devices like Nvidia Jetson for a variety of tasks such as medical image analytics, robotic grasping, and 3D scene understanding.
