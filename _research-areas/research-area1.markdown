@@ -53,4 +53,14 @@ role="Principal Investigator, Computational Learning Systems Laboratory"
 company="University of South Australia"
 content="<p>Associate Professor Mark McDonnell received the PhD degree in Electronic Engineering from The University of Adelaide in 2006. He is currently Principal Investigator of the Computational Learning Systems Laboratory (cls-lab.org) at the University of South Australia, which he joined in 2007. He has published over 100 papers, supervised six PhD students to completion as Principal Supervisor, and has served as a Chief Guest Editor for Proceedings of the IEEE and Frontiers in Computational Neuroscience. His research interests lie at the intersection between machine learning and neurobiological learning. His contributions to this area have been recognised by the award of an Australian Research Fellowship from the Australian Research Council in 2010, and a South Australian Tall Poppy Award for Science in 2008. In the last few years, McDonnell has increasingly focused on applied machine learning, contributing to award-winning commercial outcomes in the recycling and agriculture industries.</p>"
 %}
+<br><br>
+{% include person-bio.html
+image="/assets/streamleaders/Jonas Haderlein_cropped.jpg"
+name="Jonas Haderlein"
+role="Graduate Researcher"
+company="The University of Melbourne"
+content="<p>Jonas Haderlein has a MSc. in Engineering Science and Mechanical Engineering from the Technical University of Munich with a Master Thesis on “machine learning for vehicle predictive maintenance” (this is strangely related to epilepsy). He also spent a research semester at TUM CREATE Singapore.</p><p>
+  
+Jonas most recently worked as a Data Scientist at BMW Group in Munich (working on the former algorithms in real applications).</p>"
+%}
 <br>
