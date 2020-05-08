@@ -56,7 +56,7 @@ content="<p>Associate Professor Mark McDonnell received the PhD degree in Electr
 %}
 <br><br>
 {% include person-bio.html
-image="/assets/streamleaders/Jonas Haderlein_cropped.jpg"
+image="/assets/streamleaders-cropped/Jonas Haderlein_cropped.jpg"
 name="Jonas Haderlein"
 role="Graduate Researcher"
 company="The University of Melbourne"
