@@ -37,6 +37,14 @@ content="<p>I became lab director of IBM Research Australia in February 2018. Ou
 %}
 <br>
 {% include person-bio.html
+image="/assets/streamleaders-cropped/UmarAsifBW.jpg"
+name="Dr Umar Asif"
+role="Research Scientist"
+company="IBM Research – Australia"
+content="I am working on projects around image analytics with applications to healthcare and Neurobionics using deep learning and 3D computer vision. I design and build novel deep Convolutional Neural Network models using state of the art deep learning frameworks like PYTORCH, CAFFE and KERAS, for low-power mobile supercomputer devices like Nvidia Jetson for a variety of tasks such as medical image analytics, robotic grasping, and 3D scene understanding."
+%}
+<br>
+{% include person-bio.html
 image="/assets/streamleaders/jordanchambers.jpg"
 name="Dr Jordan Chambers"
 role="Research Fellow, Epilepsy Seizure Prediction"
