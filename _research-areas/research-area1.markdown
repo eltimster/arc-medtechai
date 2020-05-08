@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Project 1: Model Development and Low-power Deployment of Machine Learning for Epileptic Seizure Prediction
-
+<br><br>
 Project 2: Neuro-inspired Machine Learning Approaches to Predicting/Modelling Epilepsy"
 subtitle: "Stream 1"
 ---
