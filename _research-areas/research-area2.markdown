@@ -1,7 +1,6 @@
 ---
 layout: page
-title:  "Neuro-inspired Machine Learning Approaches to
-Predicting/Modelling Epilepsy, and Machine Learning for Controlling
+title:  "Machine Learning for Controlling
 Brain-Computer Interfaces"
 subtitle: "Stream 2"
 ---
@@ -39,14 +38,6 @@ name="Dr Umar Asif"
 role="Research Scientist"
 company="IBM Research – Australia"
 content="I am working on projects around image analytics with applications to healthcare and Neurobionics using deep learning and 3D computer vision. I design and build novel deep Convolutional Neural Network models using state of the art deep learning frameworks like PYTORCH, CAFFE and KERAS, for low-power mobile supercomputer devices like Nvidia Jetson for a variety of tasks such as medical image analytics, robotic grasping, and 3D scene understanding."
-%}
-<br>
-{% include person-bio.html
-image="/assets/streamleaders-cropped/Parvin_ESKIKAND.jpg"
-name="Dr Parvin Zarei Eskikand"
-role="Research Fellow, Epilepsy Brain Modelling"
-company="The University of Melbourne"
-content="I joined the ARC Training Centre in Cognitive Computing for Medical Technologies in July 2019 as a postdoctoral researcher to advance the current technology for predicting epileptic seizures.  My main research interest is in the area of computational neuroscience. I completed my PhD in 2017 in Department of Biomedical Engineering at The University of Melbourne, where I developed a computational model of the visual cortex particularly focusing on Medial Temporal area. Before joining ARC Training Centre, I worked as a postdoctoral researcher at the Department of Physiology of The University of Melbourne, where I developed a multiscale neural model of the enteric nervous system."
 %}
 <br>
 {% include person-bio.html
