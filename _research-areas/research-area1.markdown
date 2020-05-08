@@ -1,9 +1,7 @@
 ---
 layout: page
-title:  "Project 1: Model Development and Low-power Deployment of Machine Learning for Epileptic Seizure Prediction</p>"
-%}
-<br>
-"Project 2: Neuro-inspired Machine Learning Approaches to Predicting/Modelling Epilepsy"
+title:  "Model Development and Low-power Deployment of Machine Learning for Epileptic Seizure Prediction,
+and Neuro-inspired Machine Learning Approaches to Predicting/Modelling Epilepsy"
 subtitle: "Stream 1"
 ---
 Project 1 aims to develop and apply state-of-the-art machine learning approaches for epileptic seizure prediction and assessing the efficacy of epilepsy medication.  It will develop two types of new machine learning models: (i) Type I models will be designed to analyse multimodal time-series data for epileptic seizure prediction with a special focus on recurrent neural network models and EEG, time of day, and movement tracking data; (ii) Type II models will be designed to analyse medical patient records for assessing and improving the efficacy of epilepsy medication, by investigating correlations between administered medication and evidence on patient outcomes.
