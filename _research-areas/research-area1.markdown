@@ -36,7 +36,7 @@ content="<p>Dr Jordan Chambers joined the Epileptic seizure prediction stream of
   
 Dr Jordan Chambers was awarded his PhD from the Department of Physiology, University of Melbourne in 2012. Since then, he has held post-doctoral positions at The Howard Florey Institute and the University of Melbourne. At The Howard Florey Institute, he investigated the effect synaptic strengths have on the behaviour of a cortical column to produce epileptic seizures. In the Department of Physiology, University of Melbourne, he developed a detailed conductance based single neuron model of sensory neurons in the small intestine to predict hyper-excitable states associated with inflammation of the intestine. As a research fellow in the Department of Biomedical Engineering, University of Melbourne, he developed a model of the auditory system to investigate mechanisms utilised by the auditory cortex to process sound signals in a noisy environment.</p>"
 %}
-<br>
+<br><br>
 {% include person-bio.html
 image="/assets/streamleaders-cropped/Parvin_ESKIKAND.jpg"
 name="Dr Parvin Zarei Eskikand"
@@ -44,7 +44,7 @@ role="Research Fellow, Epilepsy Brain Modelling"
 company="The University of Melbourne"
 content="I joined the ARC Training Centre in Cognitive Computing for Medical Technologies in July 2019 as a postdoctoral researcher to advance the current technology for predicting epileptic seizures.  My main research interest is in the area of computational neuroscience. I completed my PhD in 2017 in Department of Biomedical Engineering at The University of Melbourne, where I developed a computational model of the visual cortex particularly focusing on Medial Temporal area. Before joining ARC Training Centre, I worked as a postdoctoral researcher at the Department of Physiology of The University of Melbourne, where I developed a multiscale neural model of the enteric nervous system."
 %}
-<br>
+<br><br>
 {% include person-bio.html
 image="/assets/streamleaders/Anthony_Burkitt_cropped.jpg"
 name="Professor Anthony Burkitt"
