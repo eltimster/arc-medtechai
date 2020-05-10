@@ -10,11 +10,19 @@ Medical knowledge is increasing exponentially, and it is the job of the clinicia
 {% include person-bio.html
 image="/assets/people-headshots/karin-verspoor-headshot.jpg"
 name="Professor Karin Verspoor"
-role="Deputy Director"
+role="Centre Deputy Director"
 company="ARC Training Centre in Cognitive Computing for Medical Technologies, The University of Melbourne"
 content="Karin Verspoor is a Professor in the School of Computing and Information Systems and Deputy Director of the Health and Biomedical Informatics Centre at The University of Melbourne. Trained as a computational linguist, Karin’s research primarily focuses on extracting information from clinical texts and the biomedical literature using machine learning methods to enable biological discovery and clinical decision support. Karin held previous posts as the Scientific Director of Health and Life Sciences at NICTA Victoria Research Laboratory, at the University of Colorado School of Medicine, and Los Alamos National Laboratory. She also spent 5 years in start-ups during the US Tech bubble, where she helped design an early artificial intelligence system."%}
 <br>
 {% include person-bio.html
+image="/assets/streamleaders-cropped/tim-baldwin-headshot.png"
+name="Professor"
+role="Centre Director"
+company="The University of Melbourne"
+content="<p>Tim Baldwin is a Melbourne Laureate Professor in the School of Computing and Information Systems, The University of Melbourne, and Associate Dean (Research Training) within the Melbourne School of Engineering. He is also Director of the recently-awarded ARC Centre in Cognitive Computing for Medical Technologies, in partnership with IBM Research. He has previously held visiting positions at Cambridge University, University of Washington, University of Tokyo, Saarland University, NTT Communication Science Laboratories, and National Institute of Informatics. His primary research focus is on natural language processing (NLP), including social media analytics, deep learning, computational lexical semantics, and topic modelling.</p>
+<p>Tim completed a BSc(CS/Maths) and BA(Linguistics/Japanese) at The University of Melbourne in 1995, and an MEng(CS) and PhD(CS) at the Tokyo Institute of Technology in 1998 and 2001, respectively. Prior to joining The University of Melbourne in 2004, he was a Senior Research Engineer at the Center for the Study of Language and Information, Stanford University (2001-2004). He is the author of over 350 peer-reviewed publications across diverse topics in natural language processing and AI.</p>"
+%}
+<br>{% include person-bio.html
 image="/assets/streamleaders-cropped/antonio-jimeno.png"
 name="Dr Antonio Jimeno Yepes"
 role="Technical Team Lead"
