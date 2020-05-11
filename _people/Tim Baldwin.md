@@ -1,7 +1,7 @@
 ---
 layout: person
-name: "Professor Tim Baldwin"
-title: "Professor Tim Baldwin"
+name: "Professor Timothy Baldwin"
+title: "Professor Timothy Baldwin"
 role: "Centre Director"
 email: tbaldwin@unimelb.edu.au
 categories: jekyll update
