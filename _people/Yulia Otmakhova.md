@@ -3,7 +3,7 @@ layout: person
 name: "Yulia Otmakhova"
 title: "Yulia Otmakhova"
 role: "Graduate Researcher, The University of Melbourne"
-email: yotmakhova@unimelb.edu.au
+email: yotmakhova@student.unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/yulia-otmakhova-headshot.jpg
 order: 11
