@@ -6,7 +6,7 @@ role: "Clifford Chair of Neural Engineering, Department of Biomedical Engineerin
 email: grayden@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/david-grayden-headshot.jpg
-order: 6
+order: 13
 ---
 Professor David Grayden is the Clifford Chair of Neural Engineering in the Department of Biomedical Engineering, and Leader of the Bionics Laboratory in the Centre for Neural Engineering, Melbourne School of Engineering, The University of Melbourne.
 
