@@ -6,7 +6,7 @@ role: "Research Fellow, The University of Melbourne"
 email: vfedyashov@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/victor-fedyashov-headshot.jpg
-order: 6
+order: 7
 ---
 Dr Victor Fedyashov joined the Alzheimer's stream of the ARC Training Centre as a Research Fellow in April 2019. He is hoping that combining his background in mathematical modelling and computational statistics with other team members' vast domain expertise will lead to some unexplored avenues and result in a multitude of fresh insights.
 
