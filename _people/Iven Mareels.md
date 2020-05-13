@@ -6,7 +6,7 @@ role: "Lab Director, IBM Research - Australia"
 email: imareels@au1.ibm.com
 categories: jekyll update
 image: assets/people-headshots/iven-mareels-headshot.jpg
-order: 16
+order: 15
 ---
 I became lab director of IBM Research Australia in February 2018. Our lab (in Melbourne) focuses on artificial (augmented) intelligence, blockchain and quantum computing applied to the health and financial services sectors.
 
