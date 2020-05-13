@@ -6,7 +6,7 @@ role: "Research Staff Member, IBM Research - Australia"
 email: bgoudey@au1.ibm.com
 categories: jekyll update
 image: assets/people-headshots/ben-goudey-headshot.jpg
-order: 10
+order: 15
 ---
 Benjamin Goudey is a Research Staff Member at the IBM Research-Australia lab in Melbourne, working within the Biomedical Data Science team with a focus on Genomics.
 
