@@ -92,7 +92,7 @@ This project will also benefit from the context of the Natural Language Processi
 **Key areas involved in the research:** natural language processing, health informatics
 
 
-## Seizure Forecasting using Neural Networks
+## Seizure Forecasting using Neural Networks (Applications for this project have now closed)
      
 This project aims to improve performance of epileptic seizure forecasting. The outcome will be a system that provides estimates of the likelihood that a person will or will not have a seizure during a relevant forecasting time horizon. Artificial neural networks have demonstrated superior performance in seizure forecasting. This project will build upon our earlier work to develop new approaches based on convolutional neural networks, recurrent neural networks, and other approaches. There is potential to incorporate other sources of relevant data, such as time of day and movement tracking, as well as EEG.
 
