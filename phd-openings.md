@@ -81,7 +81,7 @@ This project will be based at RMIT University, working directly with Professor L
 **Key areas involved in the research:** natural language processing, information retrieval, health informatics
 
 
-## Multi-document summarisation supporting clinical evidence review
+## Multi-document summarisation supporting clinical evidence review (Applications for this project have now closed)
      
 This project will focus on summarisation of the background literature relevant to a given clinical question. Under the assumption that a relevant body of literature for a clinical question can be identified, the objective will be abstractive summarisation of that literature with sensitivity to the clinical question that is being explored. 
 
