@@ -22,6 +22,13 @@ These positions are supported by a tuition waiver and a supplemented living stip
 
 
 
+## Literature-based Discovery for Alzheimer's Disease
+
+This project will focus on methods for literature-based discovery of insights from the biomedical literature, with a particular focus on Alzheimer’s Disease. This will include both information extraction of elements related to the molecular basis and clinical phenotypes of the disease, as well analysis of the certainty of that information and inference to support assessment of consistency between information extracted from various sources.
+ 
+This project will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professors Tim Baldwin, Karin Verspoor, and Trevor Cohn, and other staff including Dr Jey-Han Lau, Dr Daniel Beck, and Dr Lea Frermann, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
+
+
 ## Using modern Machine Learning for probabilistic modelling of dementia
 
 The central goal of this project is to develop novel predictive tools that use multi-modal data (demographic, clinical, imaging and genetics) to statistically model age of onset of Alzheimer’s Disease (diagnosis) as well as its subsequent trajectory (prognosis). These tasks come with a non-standard set of challenges (e.g. large chunks of missing data, dataset shifts across cohorts, frequent mislabelling, undocumented comorbidities and sparsity of observations compared to the disease timescale), thus representing a relatively uncharted territory for modern AI. On the quest to find the right tool for the job, you are likely to explore the entire spectrum of Machine Learning: from SVMs to Gaussian Processes, from PCA to Variational Autoencoders, from logistic regression to GBMs, from linear models to Deep Learning and so on.
@@ -52,7 +59,7 @@ The suitable candidate would have BSc in a discipline related to psychology, neu
 **Key areas involved in the research:** machine learning, Bayesian data analysis, modelling of cognitive decline
 
 
-## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines
+## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines (Applications for this project have now closed)
      
 This PhD project will focus on identification of relevant clinical guidelines
 for a given clinical situation. In particular, the emphasis of the project
