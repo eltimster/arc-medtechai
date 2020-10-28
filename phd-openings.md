@@ -1,35 +1,27 @@
 ---
 layout: page
-title: Current PhD Project Openings
+title: Current PhD Projects
 categories: [navi, browse]
-browse-description: PhD openings within the Centre
+browse-description: PhD projects within the Centre
 ---
-
-We are seeking Expressions of Interest from potential Graduate Researchers to work on the following PhD projects. If interested, please complete the Expression of Interest form at: 
-* [PhD Openings - Expressions of Interest](https://goo.gl/forms/C3wBKWtw5Igaumat1)
-
 
 
 ### Description of the project environment:
 
-These projects are embedded within the Centre, where up to 14 PhD students, 5 post-doctoral researchers, and 11 University of Melbourne staff will collaborate across 4 research streams with researchers at IBM Research and a number of other Australian Universities, including RMIT University, the University of South Australia, and Western Sydney University. Each student will be jointly supervised by Universities and IBM Research and will spend at least 12 months of their candidature working on site at an IBM Research laboratory.
+There are a number of projects embedded within the Centre, where up to 14 PhD students, 5 post-doctoral researchers, and 11 University of Melbourne staff are collaborating across our 4 research streams with researchers at IBM Research and a number of other Australian Universities, including RMIT University, the University of South Australia, and Western Sydney University. Each student is jointly supervised by Universities and IBM Research and will spend at least 12 months of their candidature working on site at an IBM Research laboratory.
+
+Our PhD students are working on the following projects:
 
 
 
-### Financial assistance:
-
-These positions are supported by a tuition waiver and a supplemented living stipend of A$34,828 per annum.
-
-
-
-## Literature-based Discovery for Alzheimer's Disease
+## Literature-based Discovery for Alzheimer's Disease  (Applications for this project have now closed)
 
 This project will focus on methods for literature-based discovery of insights from the biomedical literature, with a particular focus on Alzheimer’s Disease. This will include both information extraction of elements related to the molecular basis and clinical phenotypes of the disease, as well analysis of the certainty of that information and inference to support assessment of consistency between information extracted from various sources.
  
 This project will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professors Tim Baldwin, Karin Verspoor, and Trevor Cohn, and other staff including Dr Jey-Han Lau, Dr Daniel Beck, and Dr Lea Frermann, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
 
 
-## Using modern Machine Learning for probabilistic modelling of dementia
+## Using modern Machine Learning for probabilistic modelling of dementia  (Applications for this project have now closed)
 
 The central goal of this project is to develop novel predictive tools that use multi-modal data (demographic, clinical, imaging and genetics) to statistically model age of onset of Alzheimer’s Disease (diagnosis) as well as its subsequent trajectory (prognosis). These tasks come with a non-standard set of challenges (e.g. large chunks of missing data, dataset shifts across cohorts, frequent mislabelling, undocumented comorbidities and sparsity of observations compared to the disease timescale), thus representing a relatively uncharted territory for modern AI. On the quest to find the right tool for the job, you are likely to explore the entire spectrum of Machine Learning: from SVMs to Gaussian Processes, from PCA to Variational Autoencoders, from logistic regression to GBMs, from linear models to Deep Learning and so on.
  
@@ -38,7 +30,7 @@ The suitable candidate will have a BSc (Hons) or MSc degree in Computer Science,
 **Key areas involved in the research:** machine learning, Bayesian data analysis, mixed modelling, cognitive decline
 
 
-## Using deep learning to improve genomic risk prediction of Alzheimer’s Disease
+## Using deep learning to improve genomic risk prediction of Alzheimer’s Disease  (Applications for this project have now closed)
 
 It’s well known that an individual’s genetic profile affects their risk of Alzheimer’s Disease and their rate of cognitive decline. This project aims to understand how deep learning may be applied to a wealth of existing genetics-related data in order to improve prediction of an individual’s risk of Alzheimer’s Disease. The focus will be on models and architectures that allow for the integration of other modalities (e.g imaging, cognitive tests). We will also explore how the resulting prediction relate to other established Alzheimer’s biomarkers.
 
@@ -47,7 +39,7 @@ The suitable candidate will have a BSc (Hons) or MSc degree in Bioinformatics, C
 **Key areas involved in the research:** machine learning, genomic risk prediction, cognitive decline
 
 
-## Modelling of Alzheimer's Disease induced cognitive decline with Machine Learning
+## Modelling of Alzheimer's Disease induced cognitive decline with Machine Learning  (Applications for this project have now closed)
 
 The primary goal of this project is to utilise machine learning and artificial intelligence (AI) techniques in order to develop novel methods for understanding the nature and magnitude of changes in cognition and behaviour associated with those variations in brain structure and function that are hypothesised to be causal in Alzheimer’s Disease. The focus will be on modelling the cognitive and behavioural trajectories preceding the diagnosis of dementia, as well as determining which measurable factors (demographic, genetic etc.) may influence such trajectories. Two important additional challenges will be to find the best way of dealing with missing data as well as to study the extent to which biases from repeated application of tests can be corrected mathematically. Finally, the project will seek to estimate potential benefits to brain-behaviour models associated with high-frequency cognitive assessments.
 
