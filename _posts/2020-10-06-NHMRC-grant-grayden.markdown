@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NHMRC Development Grant Awarded to our stream lead, Professor David Grayden"
+title:  "NHMRC Development Grant Awarded to Professor David Grayden"
 date:   2020-10-06 23:55:23 +1000
 categories: jekyll update
 ---
