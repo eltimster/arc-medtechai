@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Professor Karin Verspoor part of the team awarded funding from the MCDS 2020 Seed Funding Program "
+title:  "Centre Deputy Director, Professor Karin Verspoor part of the team awarded funding from the MCDS 2020 Seed Funding Program "
 date:   2020-10-09 23:55:23 +1000
 categories: jekyll update
 ---
