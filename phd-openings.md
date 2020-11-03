@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current PhD Projects
+title: PhD Projects
 categories: [navi, browse]
 browse-description: PhD projects within the Centre
 ---
