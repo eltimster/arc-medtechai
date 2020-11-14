@@ -64,6 +64,16 @@ content="<p>Jey Han's research is in the intersection of machine learning and la
 %}
 <br>
 {% include person-bio.html
+image="/assets/people-headshots/lea-frermann-headshot.jpg"
+name="Dr Lea Frermann"
+role="Lecturer"
+company="The University of Melbourne"
+content="<p>Lea Frermann is a Lecturer in Natural Language Processing in the School of Computing and Information Systems at The University of Melbourne.</p>
+<p>Her research focusses on the efficiency and robustness of learning and inference in the face of the complexity of the world, as approximated for example through large corpora of child-directed speech, or the plots of books and films. She has worked on conceptual knowledge acquisition in children; on inducing structured representations of complex stories for improved summarization and question answering; and is interested in how narrative structures (and linguistic representations more generally) reflect and impact biases in our society.</p>
+<p>She received her M.Sc. from Saarland University in Germany in 2013, and her Ph.D. from the University of Edinburgh in 2017. She was a research associate at the University of Edinburgh, and an applied scientist at Amazon AI (Berlin) prior to joining Melbourne University in July 2019.</p>"
+%}
+<br>
+{% include person-bio.html
 image="/assets/streamleaders-cropped/Yulia Otmakhova.jpg"
 name="Yulia Otmakhova"
 role="Graduate Researcher"
