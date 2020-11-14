@@ -64,7 +64,7 @@ content="<p>Jey Han's research is in the intersection of machine learning and la
 %}
 <br>
 {% include person-bio.html
-image="/assets/people-headshots/lea-frermann-headshot.jpg"
+image="/assets/people-headshots/lea-frermann-headshot-cropped.jpg"
 name="Dr Lea Frermann"
 role="Lecturer"
 company="The University of Melbourne"
