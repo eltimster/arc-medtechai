@@ -8,4 +8,8 @@ categories: jekyll update
 image: assets/people-headshots/lea-frermann-headshot-cropped.jpg
 order: 29
 ---
-Jey Han's research is in the intersection of machine learning and language, and his vision is to explore machine learning models to better understand language. He has a particular interest in language generation — tasks that require machine learning models to produce language, e.g. summarisation and story generation — and unsupervised learning — learning where supervision signal is not available. Prior to joining the University of Melbourne, Jey Han spent over 3.5 years as an industry scientist at IBM Research, developing solutions for clients in application domains from education to government. Parallel to this, he was active in research and collaborated with universities around the world, and in recognition of his scientific achievements he was awarded a research accomplishment prize by IBM in 2019.
+Lea Frermann is a Lecturer in Natural Language Processing in the School of Computing and Information Systems at The University of Melbourne. 
+
+Her research focusses on the efficiency and robustness of learning and inference in the face of the complexity of the world, as approximated for example through large corpora of child-directed speech, or the plots of books and films. She has worked on conceptual knowledge acquisition in children; on inducing structured representations of complex stories for improved summarization and question answering; and is interested in how narrative structures (and linguistic representations more generally) reflect and impact biases in our society.
+
+She received her M.Sc. from Saarland University in Germany in 2013, and her Ph.D. from the University of Edinburgh in 2017. She was a research associate at the University of Edinburgh, and an applied scientist at Amazon AI (Berlin) prior to joining Melbourne University in July 2019. 
