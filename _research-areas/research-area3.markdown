@@ -52,3 +52,13 @@ company="The University of Melbourne & Royal Melbourne Hospital"
 content="<p>A/Prof Tomas Kalincik is the head of the Clinical Outcomes Research (CORe) Unit at the University of Melbourne and the head of the Multiple Sclerosis and Neuroimmunology Service at the Royal Melbourne Hospital.</p>
          <p>Together with his research group, CORe, Tomas specialises in analytics of observational data in neurology and is an active participant in the global MSBase collaboration. He is a member of the MSBase Scientific Leadership Group. He has led a number of international collaborative research projects and has contributed to the management of MS globally – including comparative treatment effectiveness, management of treatment failure and individual treatment response. His main research interests span treatment outcomes in MS and NMO, individualised therapy, prognostics, epidemiology and utility of volumetric MRI.</p>"
 %}
+<br>
+{% include person-bio.html
+image="/assets/streamleaders-cropped/Shu_Liu_cropped.jpg"
+name="Shu Liu"
+role="Graduate Researcher"
+company="The University of Melbourne"
+content="<p>Shu Liu joined ARC Training Centre as a PhD student in 2020. He works on studying and modelling the Alzheimer's disease by the knowledge from other fields. 
+Shu Liu is an honour student who received Bachelor of Engineering Degree at Australian National University. He was working in the interdisciplinary field between behaviour biology and computer vision. He focused on the topic of dynamic vision and its mechanism.</p>"
+%}
+<br>
