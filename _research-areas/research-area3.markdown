@@ -58,7 +58,7 @@ image="/assets/streamleaders-cropped/Shu_Liu_cropped.jpg"
 name="Shu Liu"
 role="Graduate Researcher"
 company="The University of Melbourne"
-content="<p>Shu Liu joined ARC Training Centre as a PhD student in 2020. He works on studying and modelling the Alzheimer's disease by the knowledge from other fields. 
-Shu Liu is an honour student who received Bachelor of Engineering Degree at Australian National University. He was working in the interdisciplinary field between behaviour biology and computer vision. He focused on the topic of dynamic vision and its mechanism.</p>"
+content="<p>Shu Liu joined the ARC Training Centre as a PhD student in 2020. He works on studying and modelling Alzheimer's Disease by the knowledge from other fields. 
+Shu Liu is an honour student who received a Bachelor of Engineering Degree at Australian National University. He was working in the interdisciplinary field between behaviour biology and computer vision. He focused on the topic of dynamic vision and its mechanism.</p>"
 %}
 <br>
