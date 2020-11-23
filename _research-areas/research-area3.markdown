@@ -27,7 +27,7 @@ content="<p>Benjamin Goudey is a Research Staff Member at the IBM Research-Austr
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/tim-baldwin-headshot.png"
+image="/assets/streamleaders-cropped/Tim_Baldwin_cropped.jpg"
 name="Professor Timothy Baldwin"
 role="Centre Director"
 company="ARC Training Centre in Cognitive Computing for Medical Technologies, The University of Melbourne"
