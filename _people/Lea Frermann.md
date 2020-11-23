@@ -6,7 +6,7 @@ role: "Lecturer, The University of Melbourne"
 email: lea.frermann@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/lea-frermann-headshot-cropped.jpg
-order: 29
+order: 30
 ---
 Lea Frermann is a Lecturer in Natural Language Processing in the School of Computing and Information Systems at The University of Melbourne. 
 
