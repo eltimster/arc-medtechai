@@ -37,3 +37,8 @@ Bawden R, Cohen KB, Grozea C, Jimeno Yepes A, Kittner A, Krallinger M, Mah N, NÃ
 Bawden R, Cohen KB, Grozea C, Jimeno Yepes A, Kittner M, Krallinger M, Mah N, Neveol A, Neves M, Soares F, Siu A, Verspoor K, Vicente Navarro M. (2019) Findings of the WMT 2019 Biomedical Translation Shared Task: Evaluation for MEDLINE Abstracts and Biomedical Terminologies. Proceedings of the Fourth Conference on Machine Translation (WMT), Volume 3: Shared Task Papers (Day 2) pages 29â€“53.
 
 Chen J, Verspoor K*, Zhai Z. (2019) A bag-of-concepts model improves relation extraction in a narrow knowledge domain with limited data. Proceedings of the Student Research Workshop (SRW) at NAACL 2019. https://arxiv.org/abs/1904.10743
+
+Otmakhova Y, Verspoor K, Baldwin T, Suster S. (2020) Improved Topic Representations of Medical Documents to Assist COVID-19 Literature Exploration. NLP COVID-19 Workshop at EMNLP 2020.
+
+Verspoor K, Suster S, Otmakhova Y, Mendis S, Zhai Z, Fang B, Lau JH, Baldwin T, Jimeno Yepes A, Martinez D. (2020) COVID-SEE: Scientific Evidence Explorer for COVID-19 Related Research. arXiv preprint arXiv:2008.07880, 2020
+
