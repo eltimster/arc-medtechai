@@ -71,7 +71,7 @@ content="<p>Syeda is a Biomedical Engineering graduate from Swinburne University
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/Kirill_Kokorin.jpg"
+image="/assets/streamleaders-cropped/Kirill_Kokorin_cropped.jpg"
 name="Kirill Kokorin"
 role="Graduate Researcher"
 company="The University of Melbourne"
