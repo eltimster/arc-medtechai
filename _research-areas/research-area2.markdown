@@ -70,3 +70,11 @@ content="<p>Syeda is a Biomedical Engineering graduate from Swinburne University
 <p>Syeda has joined the training centre as a PhD student where she will be looking at development of a multi-modal brain computer interface with application to Augmented reality.</p>"
 %}
 <br>
+{% include person-bio.html
+image="/assets/streamleaders-cropped/Kirill_Kokorin.jpg"
+name="Kirill Kokorin"
+role="Graduate Researcher"
+company="The University of Melbourne"
+content="<p>Kirill received a Master of Mechatronic Engineering with distinction, from the University of Melbourne in 2017. For his final year project he worked on rehabilitation robotics, which sparked his interest in the medical industry. After graduating, Kirill continued working in this field, as a Mechatronics Engineer at Leica Biosystems; where he developed instruments for slide staining.</p>"
+%}
+<br>
