@@ -3,7 +3,7 @@ layout: person
 name: "Lin Liu"
 title: "Lin Liu"
 role: "Associate Processor, University of South Australia"
-email: linliu@unisa.edu.au
+email: Lin.Liu@unisa.edu.au
 categories: jekyll update
 image: assets/streamleaders-cropped/Lin_Liu.jpg
 order: 13
