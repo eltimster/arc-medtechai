@@ -6,7 +6,7 @@ role: "Director, International Centre for Neuromorphic Engineering, Western Sydn
 email: a.vanschaik@westernsydney.edu.au
 categories: jekyll update
 image: assets/people-headshots/andre-vanschaik-headshot.jpg
-order: 25
+order: 26
 ---
 André van Schaik received the M.Sc. degree in electrical engineering from the University of Twente, Enschede, The Netherlands, in 1990 and the Ph.D. degree in electrical engineering from the Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland, in 1998.
 
