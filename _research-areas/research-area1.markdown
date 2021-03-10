@@ -72,11 +72,15 @@ content="<p>Professor Anthony (Tony) Burkitt holds the Chair in Bio-Signals and 
 %}
 <br><br>
 {% include person-bio.html
-image="/assets/streamleaders/Mark McDonnell_cropped.jpg"
-name="Associate Professor Mark McDonnell"
-role="Principal Investigator, Computational Learning Systems Laboratory"
+image="/assets/streamleaders-cropped/Lin_Liu.jpg"
+name="Associate Professor Lin Liu"
+role="Associate Professor UniSA STEM"
 company="University of South Australia"
-content="<p>Associate Professor Mark McDonnell received the PhD degree in Electronic Engineering from The University of Adelaide in 2006. He is currently Principal Investigator of the Computational Learning Systems Laboratory (cls-lab.org) at the University of South Australia, which he joined in 2007. He has published over 100 papers, supervised six PhD students to completion as Principal Supervisor, and has served as a Chief Guest Editor for Proceedings of the IEEE and Frontiers in Computational Neuroscience. His research interests lie at the intersection between machine learning and neurobiological learning. His contributions to this area have been recognised by the award of an Australian Research Fellowship from the Australian Research Council in 2010, and a South Australian Tall Poppy Award for Science in 2008. In the last few years, McDonnell has increasingly focused on applied machine learning, contributing to award-winning commercial outcomes in the recycling and agriculture industries.</p>"
+content="<p>Dr Lin Liu received her PhD degree in Computer Systems Engineering from the University of South Australia (UniSA) in 2006, and her M.Eng and B. Eng degrees in electroic engineering from Xidian University, China. Lin became a lectuer at UniSA in 2002 while doing her PhD. Currently she is an associated professor at the STEM unit of UniSA.
+
+Lin’s research is focused on data minining, machine learning and bioinformatics. She is a chief investigator of several projects funded by Australian Research Council. Lin works closely with biologists to develop and apply causal inference methods to solve real world biological problems. She also conducted research in network protocol verification and network security analysis in the past.
+
+Lin has published 1 book and over 100 refereed papers. She has served as an associated editor for BMC Bioinformatics, a steering committe member and conference/program chair of Australasian Data Mining Conference series, an organisor of KDD Causal Discovery Workshops, and a PC member of premier data mining and machine learning conferences such as KDD, AAAI and IJCAI.</p>"
 %}
 <br><br>
 {% include person-bio.html
