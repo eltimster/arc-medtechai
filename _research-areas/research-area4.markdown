@@ -86,6 +86,6 @@ image="/assets/streamleaders-cropped/Hung-Thinh Truong_cropped.jpg"
 name="Hung-Thinh Truong"
 role="Graduate Researcher"
 company="The University of Melbourne"
-content="<p>Yulia is a graduate researcher in the School of Computing and Information Systems working on automatic summarisation of clinical literature. She completed a MA in Computational Linguistics at Seoul National University (South Korea) and a BA in Linguistics at Tomsk State University (Russia). Her previous research focused on such areas of natural language processing as sentiment analysis, discourse and factuality.</p>"
+content="<p>Yulia is a graduate researcher in the School of Computing and Information Systems working on automatic extraction of evidence from clinical trials literature. Prior to this, he comleted a BS in Computer Science at Ho Chi Minh City University of Science (Vietnam). Previously, his research focused on information extraction, especially in lower-resource settings.</p>"
 %}
 <br>
