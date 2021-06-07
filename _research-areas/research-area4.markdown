@@ -91,7 +91,14 @@ company="The University of Melbourne"
 content="<p>Yulia is a graduate researcher in the School of Computing and Information Systems working on automatic summarisation of clinical literature. She completed a MA in Computational Linguistics at Seoul National University (South Korea) and a BA in Linguistics at Tomsk State University (Russia). Her previous research focused on such areas of natural language processing as sentiment analysis, discourse and factuality.</p>"
 %}
 <br>
-{% include person-bio.html
+<br>{% include person-bio.html
+image="/assets/streamleaders-cropped/Yiyuan_Gracie-Pu_cropped.jpg"
+name="Yiyuan (Gracie) Pu"
+role="Graduate Researcher"
+company="The University of Melbourne"
+content="<p>Gracie is a graduate researcher in the School of Computing and Information Systems. She works on building a Literature-based Discovery system for Alzheimer’s Disease. The research outcome will help develop effective treatments for Alzheimer’s Disease. She earned her Master's in Computational Linguistics (CL) at the University of British Columbia in 2020. After that, she spearheaded a research project that utilized her CL technical expertise to support an NGO called The Doorway. Her aim was to engage the general public and donors, and challenge society's misconceptions of homelessness, addiction, and mental health. The passion for text data and the aspiration for an advanced society turn into a huge motivator for her study and career.</p>"
+%}
+<br>{% include person-bio.html
 image="/assets/streamleaders-cropped/Hung-Thinh Truong_cropped.jpg"
 name="Hung-Thinh Truong"
 role="Graduate Researcher"
