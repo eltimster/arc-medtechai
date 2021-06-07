@@ -2,13 +2,13 @@
 layout: person
 name: "Dr Iven Michiel Yvonne Mareels"
 title: "Dr Iven Michiel Yvonne Mareels"
-role: "Lab Director, IBM Research - Australia"
+role: "Partner (IBM Global Business Services) and Director IBM ANZ Centre for Applied Research"
 email: imareels@au1.ibm.com
 categories: jekyll update
 image: assets/people-headshots/iven-mareels-headshot.jpg
 order: 19
 ---
-I became lab director of IBM Research Australia in February 2018. Our lab (in Melbourne) focuses on artificial (augmented) intelligence, blockchain and quantum computing applied to the health and financial services sectors.
+I became lab director of IBM Research Australia in February 2018 and Director IBM ANZ Centre for Aplied Research in April 2021. Our lab (in Melbourne) focuses on artificial (augmented) intelligence, blockchain and quantum computing applied to the health and financial services sectors.
 
 I have published extensively (more than 500 peer reviewed publications, including five books). I am a co-inventor on a suite of 32 international patents, with another 2 in submission. I have supervised 42 PhD students. At present I am supervising another five PhD students.
 
