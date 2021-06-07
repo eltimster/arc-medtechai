@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "International Seminar Series - Professor Leigh Hochberg, Brown University"
-date:   2021-05-06 23:55:23 +1000
+date:   2021-06-08 23:55:23 +1000
 categories: jekyll update
 ---
 We are delighted that Professor Leigh Hochberg from Brown University will be presenting our June webinar on Thursday, 17 June 2021 at 10.00 am (AEST). 
