@@ -74,7 +74,7 @@ content="<p>Lea Frermann is a Lecturer in Natural Language Processing in the Sch
 %}
 <br>
 {% include person-bio.html
-image="/assets/people-headshots/Daniel Beck cropped.jpg"
+image="/assets/streamleaders-cropped/Daniel_Beck_cropped.jpg"
 name="Dr Daniel Beck"
 role="Lecturer"
 company="The University of Melbourne"
