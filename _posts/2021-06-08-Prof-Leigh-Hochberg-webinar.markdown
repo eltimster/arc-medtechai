@@ -12,5 +12,4 @@ Intracortical brain-computer interfaces (iBCI) are poised to revolutionize our a
 
 We hope you are able to join us. Webinar link: https://unimelb.zoom.us/j/81604242945?pwd=ajRqLzUyYjE3NlJDK1krVkxrVFdpQT09
 
-
 ![Professor Leigh Hochberg webinar flyer](/assets/Professor Leigh Hochberg webinar flyer.jpg)
