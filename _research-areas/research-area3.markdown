@@ -62,3 +62,12 @@ content="<p>Shu Liu joined the ARC Training Centre as a PhD student in 2020. He 
 Shu Liu is an honour student who received a Bachelor of Engineering Degree at Australian National University. He was working in the interdisciplinary field between behaviour biology and computer vision. He focused on the topic of dynamic vision and its mechanism.</p>"
 %}
 <br>
+{% include person-bio.html
+image="/assets/streamleaders-cropped/Xiyuan_Emma_Zhang_cropped.jpg"
+name="Xiyuan (Emma) Zhang"
+role="Graduate Researcher"
+company="The University of Melbourne"
+content="<p>Emma Zhang joined the ARC Training Centre as a PhD student in 2021. Prior to joining University of Melbourne, Emma has some experience with genomic data processing. Her PhD interest is to predict disease risk with gene data using deep learning methods. She most recently worked at CAS-MPG Partner Institute for Computational Biology.
+</p>"
+%}
+<br>
