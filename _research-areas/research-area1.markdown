@@ -37,14 +37,7 @@ company="IBM Research - Australia"
 content="<p>I became lab director of IBM Research Australia in February 2018. Our lab (in Melbourne) focuses on artificial (augmented) intelligence, blockchain and quantum computing applied to the health and financial services sectors.</p><p>I have published extensively (more than 500 peer reviewed publications, including five books). I am a co-inventor on a suite of 32 international patents, with another 2 in submission. I have supervised 42 PhD students. At present I am supervising another five PhD students.</p><p>I am an honorary professor at the University of Melbourne, where I served from July 2007 until Feb 2018 as dean of the School of Engineering, Redmond Barry Distinguished Professor and Chair Professor of Electrical and Electronic Engineering.</p><p>In 2013 I became a Commander in the Order of the Crown (Belgium), and received a Centenary Medal (Australia), both for my service to engineering and education.</p><p>I am a member of the advisory board to the president of Tokyo Tech University.</p><p>My contributions to research as well as education are recognised inter alia by: IEEE CSS Control Technology Award; The Asian Control Association Wook Hyun Kwon Education Award; Clunies Ross Medal; Academy of Technological Sciences and Engineering for the automation of large scale water networks; The Vice-Chancellor's Award for Excellence in Teaching from the Australian National University</p><p>Additional distinctions I am proud of: Fellow, The Academy of Technological Sciences and Engineering (ATSE) Australia; Fellow, The Institute of Electrical and Electronics Engineers (USA); Fellow, the International Federation of Automatic Control and Engineers Australia; Foreign Member of the Royal Flemish Academy of Belgium for Science and the Arts; Registered as a Corporate Professional Engineer with Engineers Australia.</p><p>I received a Masters Degree of Electromechanical Engineering from Gent University in 1982 and a PhD in Systems Engineering from the Australian National University in 1987.</p>"
 %}
 <br>
-{% include person-bio.html
-image="/assets/streamleaders-cropped/UmarAsifBW.jpg"
-name="Dr Umar Asif"
-role="Research Scientist"
-company="IBM Research – Australia"
-content="I am working on projects around image analytics with applications to healthcare and Neurobionics using deep learning and 3D computer vision. I design and build novel deep Convolutional Neural Network models using state of the art deep learning frameworks like PYTORCH, CAFFE and KERAS, for low-power mobile supercomputer devices like Nvidia Jetson for a variety of tasks such as medical image analytics, robotic grasping, and 3D scene understanding."
-%}
-<br><br>
+<br>
 {% include person-bio.html
 image="/assets/streamleaders/jordanchambers.jpg"
 name="Dr Jordan Chambers"
