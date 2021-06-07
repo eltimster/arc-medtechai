@@ -1,7 +1,7 @@
 ---
 layout: person
 name: "Shu Liu"
-title: "She Liu"
+title: "Shu Liu"
 role: "Graduate Researcher, The University of Melbourne"
 email: shu.liu1@student.unimelb.edu.au
 categories: jekyll update
