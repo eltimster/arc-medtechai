@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "International Seminar Series - Professor Leigh Hochberg, Brown University"
+title:  "2021 International Seminar Series - Professor Leigh Hochberg, Brown University"
 date:   2021-06-08 23:55:23 +1000
 categories: jekyll update
 ---
