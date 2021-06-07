@@ -92,7 +92,7 @@ content="<p>Yulia is a graduate researcher in the School of Computing and Inform
 %}
 <br>
 <br>{% include person-bio.html
-image="/assets/streamleaders-cropped/Yiyuan_Gracie-Pu_cropped.jpg"
+image="/assets/streamleaders-cropped/Yiyuan_Gracie_Pu_cropped.jpg"
 name="Yiyuan (Gracie) Pu"
 role="Graduate Researcher"
 company="The University of Melbourne"
