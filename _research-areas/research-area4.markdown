@@ -107,7 +107,7 @@ content="<p>Thinh is a graduate researcher in the School of Computing and Inform
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders-cropped/Rahmad_Mahendra_cropped.jpg"
+image="/assets/streamleaders-cropped/Rahmad_Mahendra_cropped.jpeg"
 name="Rahmad Mahendra"
 role="Graduate Researcher"
 company="RMIT University"
