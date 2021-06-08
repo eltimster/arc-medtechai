@@ -31,6 +31,15 @@ content="<p>Antonio Jimeno Yepes is a Research Fellow at The University of Melbo
 %}
 <br>
 {% include person-bio.html
+image="/assets/streamleaders-cropped/lawrencecavedon1.jpg"
+name="Professor Lawrence Cavedon"
+role="Associate Dean for Computer Science and IT"
+company="RMIT University"
+content="<p>Professor Lawrence Cavedon is Associate Dean for Computer Science and IT in the School of Science at RMIT University. His research focuses strongly on industry collaboration and impact.  From July 2005 until March 2014 Lawrence was also a Senior Researcher at the NICTA Victoria Research Lab, where he led the BioTALA (Biomedical Text and Language Applications) project, which developed text analytics techniques for biomedical applications, mainly in collaboration with hospital partners, including Alfred Health, Melbourne Health, the Peter Macallum Cancer Research Centre, and Barwon Health.</p>
+<p>Prior to joining NICTA, Lawrence spent 3 years as a Senior Researcher at Stanford University, in the Center for the Study of Language and Information. During that time he worked on developing practical speech-based dialogue systems, and collaborated with organizations such as Boeing, NASA, Bosch, and VW America, resulting in US and international patents and commercially-licensed software patents. Prior to that, he worked in the Advanced Technology Group at VerticalNet Inc., a silicon valley company that developed new technologies for the large-enterprise space.</p>
+<p>Lawrence holds a PhD (1995) from the University of Edinburgh, and B.Sc. (Hons) (1986) and M.Sc. (1989) degrees from the University of Melbourne.</p>"
+%}
+<br>{% include person-bio.html
 image="/assets/streamleaders-cropped/simon_photo.jpg"
 name="Dr Simon Suster"
 role="Research Fellow"
@@ -44,15 +53,6 @@ name="Professor Trevor Cohn"
 role="Professor"
 company="The University of Melbourne"
 content="<p>Dr. Trevor Cohn is a Professor at the University of Melbourne, in the School of Computing and Information Systems. His research interests focus on probabilistic and statistical machine learning for natural language processing, with applications in several areas including machine translation, parsing and grammar induction. Current projects include translating diverse and noisy text sources, deep learning of semantics in translation, rumour diffusion over social media, and algorithmic approaches for scaling to massive corpora. Dr. Cohn has more than 100 research publications, and his research has been recognised by several best paper awards, including best short paper at EMNLP in 2016. He will be jointly organising ACL 2018 in Melbourne. He received Bachelor degrees in Software Engineering and Commerce, and a PhD degree in Engineering from the University of Melbourne. He was previously based at the University of Sheffield, and before this worked as a Research Fellow at the University of Edinburgh.</p>"
-%}
-<br>{% include person-bio.html
-image="/assets/streamleaders-cropped/lawrencecavedon1.jpg"
-name="Professor Lawrence Cavedon"
-role="Associate Dean for Computer Science and IT"
-company="RMIT University"
-content="<p>Professor Lawrence Cavedon is Associate Dean for Computer Science and IT in the School of Science at RMIT University. His research focuses strongly on industry collaboration and impact.  From July 2005 until March 2014 Lawrence was also a Senior Researcher at the NICTA Victoria Research Lab, where he led the BioTALA (Biomedical Text and Language Applications) project, which developed text analytics techniques for biomedical applications, mainly in collaboration with hospital partners, including Alfred Health, Melbourne Health, the Peter Macallum Cancer Research Centre, and Barwon Health.</p>
-<p>Prior to joining NICTA, Lawrence spent 3 years as a Senior Researcher at Stanford University, in the Center for the Study of Language and Information. During that time he worked on developing practical speech-based dialogue systems, and collaborated with organizations such as Boeing, NASA, Bosch, and VW America, resulting in US and international patents and commercially-licensed software patents. Prior to that, he worked in the Advanced Technology Group at VerticalNet Inc., a silicon valley company that developed new technologies for the large-enterprise space.</p>
-<p>Lawrence holds a PhD (1995) from the University of Edinburgh, and B.Sc. (Hons) (1986) and M.Sc. (1989) degrees from the University of Melbourne.</p>"
 %}
 <br>
 {% include person-bio.html
@@ -84,6 +84,13 @@ content="<p>My research focus lies in the intersection between the Natural Langu
 <p>I am a huge fan of Python and try to use it whenever possible. I have worked most with scientific toolkits like NLTK, Numpy, MatPlotLib and scikit-learn, and also the web scraping toolkit Scrapy.</p>"
 %}
 <br>{% include person-bio.html
+image="/assets/streamleaders-cropped/Rahmad_Mahendra_cropped.jpeg"
+name="Rahmad Mahendra"
+role="Graduate Researcher"
+company="RMIT University"
+content="<p>Rahmad is a graduate researcher in the School of Computing Technologies at RMIT University where he works on exploring NLP and IR methods for evidence-based medicine. He completed a BS in Computer Science from Universitas Indonesia. Then, he received double Master degrees from Rijksuniversiteit Groningen (the Netherlands) and Free University of Bozen Bolzano (Italy) through Erasmus Mundus Master program in Language and Communication Technologies. His previous research includes question answering, natural language inference, named-entity recognition, and word-sense disambiguation.</p>"
+%}
+<br>{% include person-bio.html
 image="/assets/streamleaders-cropped/Yulia Otmakhova.jpg"
 name="Yulia Otmakhova"
 role="Graduate Researcher"
@@ -104,13 +111,5 @@ name="Hung-Thinh Truong"
 role="Graduate Researcher"
 company="The University of Melbourne"
 content="<p>Thinh is a graduate researcher in the School of Computing and Information Systems working on automatic extraction of evidence from clinical trials literature. Prior to this, he completed a BS in Computer Science at Ho Chi Minh City University of Science (Vietnam). Previously, his research focused on information extraction, especially in lower-resource settings.</p>"
-%}
-<br>
-{% include person-bio.html
-image="/assets/streamleaders-cropped/Rahmad_Mahendra_cropped.jpeg"
-name="Rahmad Mahendra"
-role="Graduate Researcher"
-company="RMIT University"
-content="<p>Rahmad is a graduate researcher in the School of Computing Technologies at RMIT University where he works on exploring NLP and IR methods for evidence-based medicine. He completed a BS in Computer Science from Universitas Indonesia. Then, he received double Master degrees from Rijksuniversiteit Groningen (the Netherlands) and Free University of Bozen Bolzano (Italy) through Erasmus Mundus Master program in Language and Communication Technologies. His previous research includes question answering, natural language inference, named-entity recognition, and word-sense disambiguation.</p>"
 %}
 <br>
