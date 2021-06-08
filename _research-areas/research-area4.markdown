@@ -91,7 +91,7 @@ company="The University of Melbourne"
 content="<p>Yulia is a graduate researcher in the School of Computing and Information Systems working on automatic summarisation of clinical literature. She completed a MA in Computational Linguistics at Seoul National University (South Korea) and a BA in Linguistics at Tomsk State University (Russia). Her previous research focused on such areas of natural language processing as sentiment analysis, discourse and factuality.</p>"
 %}
 <br>
-<br>{% include person-bio.html
+{% include person-bio.html
 image="/assets/streamleaders-cropped/Yiyuan_Gracie_Pu_cropped.jpg"
 name="Yiyuan (Gracie) Pu"
 role="Graduate Researcher"
@@ -104,5 +104,13 @@ name="Hung-Thinh Truong"
 role="Graduate Researcher"
 company="The University of Melbourne"
 content="<p>Thinh is a graduate researcher in the School of Computing and Information Systems working on automatic extraction of evidence from clinical trials literature. Prior to this, he completed a BS in Computer Science at Ho Chi Minh City University of Science (Vietnam). Previously, his research focused on information extraction, especially in lower-resource settings.</p>"
+%}
+<br>
+{% include person-bio.html
+image="/assets/streamleaders-cropped/Rahmad_Mahendra_cropped.jpg"
+name="Rahmad Mahendra"
+role="Graduate Researcher"
+company="RMIT University"
+content="<p>Rahmad is a graduate researcher in the School of Computing Technologies at RMIT University where he works on exploring NLP and IR methods for evidence-based medicine. He completed a BS in Computer Science from Universitas Indonesia. Then, he received double Master degrees from Rijksuniversiteit Groningen (the Netherlands) and Free University of Bozen Bolzano (Italy) through Erasmus Mundus Master program in Language and Communication Technologies. His previous research includes question answering, natural language inference, named-entity recognition, and word-sense disambiguation.</p>"
 %}
 <br>
