@@ -3,7 +3,7 @@ layout: person
 name: "Rahmad Mahendra"
 title: "Rahmad Mahendra"
 role: "Graduate Researcher, RMIT University"
-email: s3826050@student.rmit.edu.au
+email: rahmad.mahendra@gmail.com
 categories: jekyll update
 image: assets/streamleaders-cropped/Rahmad_Mahendra_cropped.jpeg
 order: 14
