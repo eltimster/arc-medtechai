@@ -8,7 +8,7 @@ browse-description: PhD projects within the Centre
 
 ### Description of the project environment:
 
-There are a number of projects embedded within the Centre, where we have 14 PhD students, 5 post-doctoral researchers, and 11 University of Melbourne staff collaborating across our 4 research streams with researchers at IBM Research and a number of other Australian Universities, including RMIT University, the University of South Australia, and Western Sydney University. Each student is jointly supervised by Universities and IBM Research and will spend at least 12 months of their candidature working on site at an IBM Research laboratory.
+There are a number of projects embedded within the Centre, where we have 14 PhD students, 5 post-doctoral researchers, and 11 University of Melbourne staff collaborating across our 4 research streams with researchers at IBM Australia and a number of other Australian Universities, including RMIT University, the University of South Australia, and Western Sydney University. Each student is jointly supervised by Universities and IBM Research and will spend at least 12 months of their candidature working on site at an IBM Research laboratory.
 
 Our PhD students are working on the following projects:
 
@@ -105,10 +105,12 @@ This project aims to develop a brain-computer interface system with emphasis on 
 
 ## Multimodal Brain-Computer Interfaces for augmented reality and virtual reality applications
 
-This project aims to develop a brain-computer interface system that allows people with speech, vision or motor disorders to interact in an augmented/virtual environment (e.g., selecting/manipulating an object of interest, walking/exploring a remote site). This AR/VR-based BCI will allow users to learn and adapt to the BCI in a more swift manner with countless possibilities of application scenarios, compared to the conventional case of a task-specific BCI (e.g., to control a robotic arm). Furthermore, AR/VR-based BCI systems will be safer to operate, can be deployed anywhere with minimal hardware constraints, and will provide an extremely efficient training platform to decode the brain’s intent. Brain-computer interfaces rely upon good recordings of neural signals, typically with scalp or intracranial EEG systems. This project will build a multimodal BCI system that augments the EEG signals through speech recognition and gaze tracking as a multimodal input to the system to further enhance the performance/accuracy of the system for the desired application scenarios.
+This project aims to develop a brain-computer interface system that allows people with speech, vision or motor disorders to interact in an augmented/virtual environment (e.g., selecting/manipulating an object of interest, walking/exploring a remote site). This AR/VR-based BCI will allow users to learn and adapt to the BCI in a more swift manner with countless possibilities of application scenarios, compared to the conventional case of a task-specific BCI (e.g. to control a robotic arm). Furthermore, AR/VR-based BCI systems will be safer to operate, can be deployed anywhere with minimal hardware constraints, and will provide an extremely efficient training platform to decode the brain’s intent. Brain-computer interfaces rely upon good recordings of neural signals, typically with scalp or intracranial EEG systems. This project will build a multimodal BCI system that augments the EEG signals through speech recognition and gaze tracking as a multimodal input to the system to further enhance the performance/accuracy of the system for the desired application scenarios.
 
 **Key areas involved in the research:** signal processing, machine learning, neural networks
 
 
+## Information Extraction for Precision Patient Matching
 
+This project focuses on information extraction over text sources including patient descriptions, literature, and clinical trial descriptions, to accurately map patient descriptions to relevant literature and clinical trials. Information extraction will take the form of both explicit span-based chunking and labelling (e.g. based on PICO criteria), and implicit generation of keywords and latent representations that capture key aspects of the corresponding document. Also part of this project will be the assessment of semantic compatibility between (labelled) text fields across different document types.
 
