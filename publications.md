@@ -42,3 +42,5 @@ Otmakhova Y, Verspoor K, Baldwin T, Suster S. (2020) Improved Topic Representati
 
 Verspoor K, Suster S, Otmakhova Y, Mendis S, Zhai Z, Fang B, Lau JH, Baldwin T, Jimeno Yepes A, Martinez D. (2020) COVID-SEE: Scientific Evidence Explorer for COVID-19 Related Research. arXiv preprint arXiv:2008.07880, 2020
 
+Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden DB, Vogel AP, “Automatic speech recognition in neurodegenerative disease”, International Journal of Speech Technology, 2021
+
