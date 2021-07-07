@@ -5,7 +5,7 @@ categories: [navi]
 browse-description: Contact Us
 ---
 
-ARC Training Centre in Cognitive Computing for Medical Technologies</p>
+ARC Training Centre in Cognitive Computing for Medical Technologies
 <p>
 School of Computing and Information Systems
 Faculty of Engineering and Information Technology
