@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-categories: [navi, browse]
+categories: [navi]
 browse-description: Contact Us
 ---
 
