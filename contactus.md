@@ -6,20 +6,19 @@ browse-description: Contact Us
 ---
 
 ARC Training Centre in Cognitive Computing for Medical Technologies
-<p>
+<br>
 School of Computing and Information Systems
-<p>
+<br>
 Faculty of Engineering and Information Technology
-<p>
+<br>
 The University of Melbourne
-<p>
+<br>
 Level 4, Melbourne Connect (Bldg 290)
-<p>
+<br>
 700 Swanston Street
-<p>
+<br>
 Carlton VIC 3010
 <p>
-<p>
 Email: arc-aimedtech@unimelb.edu.au
-<p>
+<br>
 Phone: (03) 9035 4422 (Centre Manager, Julie Ireland)
