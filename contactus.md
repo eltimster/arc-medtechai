@@ -5,7 +5,8 @@ categories: [navi]
 browse-description: Contact Us
 ---
 
-ARC Training Centre in Cognitive Computing for Medical Technologies
+ARC Training Centre in Cognitive Computing for Medical Technologies</p>
+<p>
 School of Computing and Information Systems
 Faculty of Engineering and Information Technology
 The University of Melbourne
