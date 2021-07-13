@@ -19,7 +19,7 @@ Our PhD students are working on the following projects:
 
 This project will focus on methods for literature-based discovery of insights from the biomedical literature, with a particular focus on Alzheimer’s Disease. This will include both information extraction of elements related to the molecular basis and clinical phenotypes of the disease, as well analysis of the certainty of that information and inference to support assessment of consistency between information extracted from various sources.
  
-This project will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professors Tim Baldwin, Karin Verspoor, and Trevor Cohn, and other staff including Dr Jey-Han Lau, Dr Daniel Beck, and Dr Lea Frermann, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
+This project will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professors Tim Baldwin and Trevor Cohn, and other staff including Dr Jey-Han Lau, Dr Daniel Beck, and Dr Lea Frermann, and their existing students and research fellows, and Professor Karin Verspoor from RMIT University. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director.
 
 
 ## Using modern Machine Learning for probabilistic modelling of dementia
@@ -65,7 +65,7 @@ consider how to use clinical data from medical consultations to trigger
 identification of a relevant clinical guideline at a relevant moment in a
 patient interaction, to support clinical decision making.
 
-This project is based at RMIT University, working directly with Professor Karin Verspoor and Professor Lawrence Cavedon and also benefits from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin and Professor Trevor Cohn, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director and Lead of the Natural Language Processing Stream in the centre.
+This project is based at RMIT University, working directly with Professor Karin Verspoor and Professor Lawrence Cavedon and also benefits from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin and Professor Trevor Cohn, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director.
 
 **Key areas involved in the research:** natural language processing, information retrieval, health informatics
 
@@ -85,7 +85,7 @@ This project also benefits from the context of the Natural Language Processing g
      
 This project aims to improve performance of epileptic seizure forecasting. The outcome will be a system that provides estimates of the likelihood that a person will or will not have a seizure during a relevant forecasting time horizon. Artificial neural networks have demonstrated superior performance in seizure forecasting. This project will build upon our earlier work to develop new approaches based on convolutional neural networks, recurrent neural networks, and other approaches. There is potential to incorporate other sources of relevant data, such as time of day and movement tracking, as well as EEG.
 
-The primary supervisor for this project will be A/Prof Lin Liu at the University of South Australia, but the candidate will need to spend a minimum of one year physically based in Melbourne.
+The primary supervisor for this project will be A/Prof Lin Liu at the University of South Australia, but our PhD student will spend a minimum of one year physically based in Melbourne.
 
 **Key areas involved in the research:** signal processing, machine learning, neural networks
 
