@@ -63,6 +63,15 @@ Shu Liu is an honour student who received a Bachelor of Engineering Degree at Au
 %}
 <br>
 {% include person-bio.html
+image="/assets/streamleaders-cropped/Martin_Saint-Jalmes_cropped_1.jpg"
+name="Martin Saint-Jalmes"
+role="Graduate Researcher"
+company="The University of Melbourne"
+content="<p>Martin Saint-Jalmes joined the ARC Training Centre as a graduate researcher in 2021. He is a PhD student affiliated with the Florey Institute of Neuroscience and Mental Health and his focus involves the use of machine learning in the probabilistic modelling of Alzheimer's Disease.</p>
+<p>Martin obtained his M.S. in Computer Science from the Georgia Institute of Technology and his Engineer's Degree from the University of Technology of Compiègne in 2020. He has previously worked on different R&D machine learning and computer vision topics in industry.</p>"
+%}
+<br>
+{% include person-bio.html
 image="/assets/streamleaders-cropped/Xiyuan_Emma_Zhang_cropped.jpg"
 name="Xiyuan (Emma) Zhang"
 role="Graduate Researcher"
