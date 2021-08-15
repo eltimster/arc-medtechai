@@ -5,7 +5,7 @@ title: "Martin Saint-Jalmes"
 role: "Graduate Researcher, The University of Melbourne"
 email: martin.saintjalmes@student.unimelb.edu.au
 categories: jekyll update
-image: assets/streamleaders-cropped/Martin_Saint-Jalmes_cropped.jpg
+image: assets/streamleaders-cropped/Martin_Saint-Jalmes_cropped_1.jpg
 order: 17
 ---
 Martin Saint-Jalmes joined the ARC Training Centre as a graduate researcher in 2021. He is a PhD student affiliated with the Florey Institute of Neuroscience and Mental Health and his focus involves the use of machine learning in the probabilistic modelling of Alzheimer's Disease.
