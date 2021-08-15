@@ -1,6 +1,6 @@
 ---
 layout: person
-name: "Martin Saint'Jalmes"
+name: "Martin Saint-Jalmes"
 title: "Martin Saint-Jalmes"
 role: "Graduate Researcher, The University of Melbourne"
 email: martin.saintjalmes@student.unimelb.edu.au
