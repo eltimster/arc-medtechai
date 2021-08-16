@@ -6,7 +6,7 @@ role: "Research Fellow - The University of Melbourne"
 email: ben.goudey@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/ben-goudey-headshot.jpg
-order: 24
+order: 26
 ---
 Benjamin Goudey is a Research Fellow at The University of Melbourne. He was formerly a Research Staff Member at the IBM Research-Australia lab in Melbourne, working within the Biomedical Data Science team with a focus on Genomics.
 
