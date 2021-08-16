@@ -6,7 +6,7 @@ role: "Lecturer, The University of Melbourne"
 email: beck.d@unimelb.edu.au
 categories: jekyll update
 image: assets/streamleaders-cropped/Daniel_Beck_cropped.jpg
-order: 35
+order: 37
 ---
 My research focus lies in the intersection between the Natural Language Processing and Machine Learning fields. I am currently a Lecturer at the University of Melbourne, after two and a half years as a Research Fellow at the same university.
 
