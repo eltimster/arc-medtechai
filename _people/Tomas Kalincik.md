@@ -6,7 +6,7 @@ role: "Head of the Clinical Outcomes Research Unit, The University of Melbourne;
 email: tomas.kalincik@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/tomas-kalincik-headshot.jpg
-order: 30
+order: 32
 ---
 A/Prof Tomas Kalincik is Head of the Clinical Outcomes Research Unit, The University of Melbourne; Head of Melbourne MS Centre, Royal Melbourne Hospital.
 
