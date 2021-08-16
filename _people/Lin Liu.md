@@ -6,7 +6,7 @@ role: "Associate Processor, University of South Australia"
 email: Lin.Liu@unisa.edu.au
 categories: jekyll update
 image: assets/streamleaders-cropped/Lin_Liu.jpg
-order: 28
+order: 30
 ---
 Dr Lin Liu received her PhD degree in Computer Systems Engineering from the University of South Australia (UniSA) in 2006, and her M.Eng and B. Eng degrees in electroic engineering from Xidian University, China. Lin became a lectuer at UniSA in 2002 while doing her PhD. Currently she is an associated professor at the STEM unit of UniSA.
 
