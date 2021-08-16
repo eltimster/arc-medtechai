@@ -6,7 +6,7 @@ role: "Associate Dean for Computer Science and IT, RMIT University"
 email: lawrence.cavedon@rmit.edu.au
 categories: jekyll update
 image: assets/people-headshots/lawrence-cavedon-headshot.jpg
-order: 31
+order: 33
 ---
 Professor Lawrence Cavedon is Associate Dean for Computer Science and IT in the School of Science at RMIT University. His research focuses strongly on industry collaboration and impact.  From July 2005 until March 2014 Lawrence was also a Senior Researcher at the NICTA Victoria Research Lab, where he led the BioTALA (Biomedical Text and Language Applications) project, which developed text analytics techniques for biomedical applications, mainly in collaboration with hospital partners, including Alfred Health, Melbourne Health, the Peter Macallum Cancer Research Centre, and Barwon Health.
 
