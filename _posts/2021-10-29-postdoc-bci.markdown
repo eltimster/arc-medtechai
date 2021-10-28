@@ -10,4 +10,4 @@ For further information on how to apply and a copy of the position description, 
 
 [Research Fellow in Brain Computer Interfaces](https://jobs.unimelb.edu.au/caw/en/job/906909/)
 
-
+Applications close on 19 November 2021 11:55 PM AEDT
