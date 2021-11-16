@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Centre Deputy Director, Professor Karin Verspoor receives "2021 Brilliant Women in Digital Health" award
+title:  "Centre Deputy Director, Professor Karin Verspoor receives 2021 Brilliant Women in Digital Health award
 date:   2021-11-16 23:55:23 +1000
 categories: jekyll update
 ---
