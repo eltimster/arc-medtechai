@@ -10,8 +10,11 @@ We have one PhD vacancy within the Centre. Details are:
 ## Advanced epileptic seizure warning methods
 
 Project Leader: David Grayden
+
 Staff: Anthony Burkitt, Mark Cook
+
 Primary Contact: David Grayden (grayden@unimelb.edu.au)
+
 Keywords: biosignals; computational neuroscience; electroencephalogram EEG; epilepsy; neuroengineering
 Disciplines: Biomedical Engineering
 Domains: Convergence of engineering and IT with the life sciences
