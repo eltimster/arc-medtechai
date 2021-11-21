@@ -9,15 +9,23 @@ We have one PhD vacancy within the Centre. Details are:
 
 ## Advanced epileptic seizure warning methods
 
-Project Leader: David Grayden
-Staff: Anthony Burkitt, Mark Cook
-Primary Contact: David Grayden (grayden@unimelb.edu.au)
-Keywords: biosignals; computational neuroscience; electroencephalogram EEG; epilepsy; neuroengineering
-Disciplines: Biomedical Engineering
-Domains: Convergence of engineering and IT with the life sciences
-Research Centre: Neuroengineering Research Laboratory
+Project Leader: David Grayden</p>
+<p>
+Staff: Anthony Burkitt, Mark Cook</p>
+<p>
+Primary Contact: David Grayden (grayden@unimelb.edu.au)</p>
+<p>
+Keywords: biosignals; computational neuroscience; electroencephalogram EEG; epilepsy; neuroengineering</p>
+<p>
+Disciplines: Biomedical Engineering</p>
+<p>
+Domains: Convergence of engineering and IT with the life sciences</p>
+<p>
+Research Centre: Neuroengineering Research Laboratory</p>
+<p>
 
-This project will develop epileptic seizure prediction methods, warning patients of the likelihood of an impending seizure, so that precautionary measures can be taken. Seizure prediction will be of great clinical significance as it will improve the lives of 33% of epileptic patients who have drug-resistant epilepsy, by warning of impending seizures and potentially allowing acute therapies to prevent seizures, such as electrical stimulation of the brain or targeted drug delivery.
+This project will develop epileptic seizure prediction methods, warning patients of the likelihood of an impending seizure, so that precautionary measures can be taken. Seizure prediction will be of great clinical significance as it will improve the lives of 33% of epileptic patients who have drug-resistant epilepsy, by warning of impending seizures and potentially allowing acute therapies to prevent seizures, such as electrical stimulation of the brain or targeted drug delivery.</p>
+<p>
 
 
 
