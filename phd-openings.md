@@ -20,6 +20,9 @@ Research Centre: Neuroengineering Research Laboratory
 This project will develop epileptic seizure prediction methods, warning patients of the likelihood of an impending seizure, so that precautionary measures can be taken. Seizure prediction will be of great clinical significance as it will improve the lives of 33% of epileptic patients who have drug-resistant epilepsy, by warning of impending seizures and potentially allowing acute therapies to prevent seizures, such as electrical stimulation of the brain or targeted drug delivery.
 
 
+
+
+
 Other PhD project research currently being done within the Centre:
 
 ### Description of the project environment:
