@@ -23,7 +23,7 @@ This project will develop epileptic seizure prediction methods, warning patients
 
 
 
-Other PhD project research currently being done within the Centre:
+
 
 ### Description of the project environment:
 
