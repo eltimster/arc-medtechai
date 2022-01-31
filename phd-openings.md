@@ -19,7 +19,7 @@ The project will be hosted at the International Centre for Neuromorphic Systems 
 
 The ICNS is a centre within the MARCS Institute for Brain, Behaviour and Development.  The Centre is explicitly interdisciplinary, by combining electrical engineering, computer science, signal processing, and neuroscience. ICNS’s focus is on developing Neuromorphic Engineering solutions to existing problems. It is Australia’s leading Neuromorphic Engineering research laboratory, an emerging field developing the next generation of smart technology using inspiration from biology.
 
-Further information: https://www.westernsydney.edu.au/schools/grs/scholarships/current_scholarships/current_scholarships/_neuromorphic_hardware_for_epileptic_seizure_prediction
+[Further information] (https://www.westernsydney.edu.au/schools/grs/scholarships/current_scholarships/current_scholarships/_neuromorphic_hardware_for_epileptic_seizure_prediction)
 
 
 
