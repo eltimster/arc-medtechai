@@ -7,6 +7,22 @@ browse-description: PhD projects within the Centre
 
 PhD project vacancies within the Centre. Details are:
 
+## Neuromorphic Hardware for Epileptic Seizure Prediction
+
+Project Leader: Professor André van Schaik
+
+Research Centre: The MARCS Institute - Western Sydney University
+
+As a member of the ARC Training Centre in Cognitive Computing for Medical Technologies, Western Sydney University (WSU) is looking for a highly motivated PhD student to develop novel hardware for epileptic seizure prediction. The outcome will be a system that provides estimates of the likelihood that a person will or will not have a seizure during a relevant forecasting time horizon and that can run on low-power, portable hardware. Artificial neural networks have demonstrated superior performance in seizure forecasting. The project will build upon our work in convolutional neural networks, recurrent neural networks, and other approaches to develop low-power implementations using neuromorphic hardware.
+
+The project will be hosted at the International Centre for Neuromorphic Systems (ICNS) at WSU and supervised by its director, Prof André van Schaik, and co-supervised by the stream leader, Prof David Grayden at the University of Melbourne. The candidate is required to undertake a minimum of one year industry experience at IBM or other relevant industry partner. The 12 months do not have to be undertaken in a single period. There is also the potential for a third co-supervisor from the industry partner.
+
+The ICNS is a centre within the MARCS Institute for Brain, Behaviour and Development.  The Centre is explicitly interdisciplinary, by combining electrical engineering, computer science, signal processing, and neuroscience. ICNS’s focus is on developing Neuromorphic Engineering solutions to existing problems. It is Australia’s leading Neuromorphic Engineering research laboratory, an emerging field developing the next generation of smart technology using inspiration from biology.
+
+Further information: https://www.westernsydney.edu.au/schools/grs/scholarships/current_scholarships/current_scholarships/_neuromorphic_hardware_for_epileptic_seizure_prediction
+
+
+
 ## Advanced epileptic seizure warning methods
 
 Project Leader: David Grayden
