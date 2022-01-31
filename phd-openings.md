@@ -5,7 +5,7 @@ categories: [navi, browse]
 browse-description: PhD projects within the Centre
 ---
 
-We have one PhD vacancy within the Centre. Details are:
+PhD project vacancies within the Centre. Details are:
 
 ## Advanced epileptic seizure warning methods
 
