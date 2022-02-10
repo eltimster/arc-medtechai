@@ -29,12 +29,12 @@ content="<p>Dr Freestone’s research is focused on reverse engineering the huma
 %}
 <br>
 {% include person-bio.html
-image="/assets/streamleaders/Adi_Tarigoppula_cropped.jpg"
-name="Dr Adi Tarigoppula"
+image="/assets/streamleaders-cropped/Jing_Mu.png"
+name="Ms Jing Mu"
 role="Research Fellow, Brain-Computer Interfaces"
 company="The University of Melbourne"
-content="<p>Dr. Venkata S Aditya Tarigoppula joined the Machine Learning for controlling Brain-Computer Interfaces stream of the ARC Training Centre as a Research Fellow in August 2019. Dr. Tarigoppula was awarded his Ph.D. from the State University of New York (SUNY), Downstate Medical Center, NY, USA in 2017. Since then, he held a position as a Research Scientist with Advanced Bionics LLC where he performed research on Cochlear Implants (CIs); developed novel algorithms to continuously monitor the state of the CI/cochlea and guide surgeons accordingly during surgery to maximize hearing preservation post-surgery and structural preservation of the cochlea in patients leading to a non-traumatic placement of the CI; and, designed experiments with research prototype systems for electrophysiological recordings in hearing research.</p>
-<p>His PhD work at SUNY Downstate Medical Center was focused on elucidating the reinforcement learning parallels in the non-human primate’s motor cortex and the development of brain computer interfaces (BCI) based on supervised and reinforcement learning architectures. The main goal was to work towards building an autonomous closed-loop sensorimotor BCI capable of co-adapting with the user, and maintaining performance outside laboratory environments. In such work, he successfully designed, built and tested BCIs using a branch of machine learning called Reinforcement Learning (RL), specifically temporal difference RL. The BCI was capable of inferring intended movement from the M1 neural activity; and, used the same neural signals to simultaneously recognize whether the BCI was correctly performing the intended action. Such feedback acquired from the motor cortex itself was used as a qualitative feedback signal to adapt the BCI decoder.</p>"
+content="<p>Jing Mu joined the ARC Training Centre in Cognitive Computing for Medical Technologies in February 2022 as a research fellow in Brain-Computer Interface (BCI). Prior to that, Jing was a PhD candidate in the Department of Mechanical Engineering at The University of Melbourne, Victoria, Australia. During her PhD, she proposed novel stimulation, decoding, and optimisation methods in multi-frequency steady-state visual evoked potential-based BCIs to extend its capability in real-world applications.</p>
+<p>Jing received the M.Eng degree (with distinction) in Mechatronics from The University of Melbourne in 2017 and the B.Eng degree in Automotive Engineering from the University of Shanghai for Science and Technology, Shanghai, China, in 2014.</p>"
 %}
 <br>
 {% include person-bio.html
