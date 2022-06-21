@@ -2,7 +2,7 @@
 layout: person
 name: "Professor Timothy Baldwin"
 title: "Professor Timothy Baldwin"
-role: "Centre Director"
+role: "Melbourne Laureate Professor"
 email: tbaldwin@unimelb.edu.au
 categories: jekyll update
 image: assets/streamleaders-cropped/Tim_Baldwin_cropped.jpg
