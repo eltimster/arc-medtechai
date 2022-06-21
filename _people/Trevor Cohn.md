@@ -2,7 +2,7 @@
 layout: person
 name: "Professor Trevor Cohn"
 title: "Professor Trevor Cohn"
-role: "Professor, The University of Melbourne"
+role: "Centre Director"
 email: trevor.cohn@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/trevor-cohn-headshot.jpg
