@@ -21,4 +21,4 @@ Carlton VIC 3010
 <p>
 Email: arc-aimedtech@unimelb.edu.au
 <br>
-Phone: (03) 9035 4422 (Centre Manager, Julie Ireland)
+Phone: (03) 8344 9631  (Centre Manager, Preeta Philip)
