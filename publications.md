@@ -5,6 +5,11 @@ categories: [navi, browse]
 browse-description: Publications
 ---
 
+Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden DB, Vogel AP, “Automatic speech recognition in neurodegenerative disease”, International Journal of Speech Technology, 2021
+
+Otmakhova Y, Verspoor K, Baldwin T, Suster S. (2020) Improved Topic Representations of Medical Documents to Assist COVID-19 Literature Exploration. NLP COVID-19 Workshop at EMNLP 2020.
+
+Verspoor K, Suster S, Otmakhova Y, Mendis S, Zhai Z, Fang B, Lau JH, Baldwin T, Jimeno Yepes A, Martinez D. (2020) COVID-SEE: Scientific Evidence Explorer for COVID-19 Related Research. arXiv preprint arXiv:2008.07880, 2020
 
 Petri, M., Moffat, A., Mackenzie, J., Culpepper, J.S. and Beck, D., 2019, July. Accelerated query processing via similarity score prediction. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 485-494).
 
@@ -38,9 +43,5 @@ Bawden R, Cohen KB, Grozea C, Jimeno Yepes A, Kittner M, Krallinger M, Mah N, Ne
 
 Chen J, Verspoor K*, Zhai Z. (2019) A bag-of-concepts model improves relation extraction in a narrow knowledge domain with limited data. Proceedings of the Student Research Workshop (SRW) at NAACL 2019. https://arxiv.org/abs/1904.10743
 
-Otmakhova Y, Verspoor K, Baldwin T, Suster S. (2020) Improved Topic Representations of Medical Documents to Assist COVID-19 Literature Exploration. NLP COVID-19 Workshop at EMNLP 2020.
 
-Verspoor K, Suster S, Otmakhova Y, Mendis S, Zhai Z, Fang B, Lau JH, Baldwin T, Jimeno Yepes A, Martinez D. (2020) COVID-SEE: Scientific Evidence Explorer for COVID-19 Related Research. arXiv preprint arXiv:2008.07880, 2020
-
-Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden DB, Vogel AP, “Automatic speech recognition in neurodegenerative disease”, International Journal of Speech Technology, 2021
 
