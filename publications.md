@@ -5,7 +5,28 @@ categories: [navi, browse]
 browse-description: Publications
 ---
 
-Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden DB, Vogel AP, “Automatic speech recognition in neurodegenerative disease”, International Journal of Speech Technology, 2021
+Ma C, Shen A, Yoshikawa H, Iwakura T, Beck D, Baldwin, T. On the Effectiveness of Images in Multi-modal Text Classification: An Annotation Study, ACM Transactions on Asian and Low-Resource Language Information Processing, Vol.22(3), pp. 1-19, 2023.
+
+Eskikand PZ, Soto-Breceda A, Cook MJ, Burkitt AN, Grayden DB. Inhibitory stabilized network behaviour in a balanced neural mass model of a cortical column, Neural Networks, Vol 166, pp. 296-312. 2023.
+
+West, J, Bozorgi ZD, Herron J, Chizeck HJ, Chambers JD, Li L. Machine learning seizure prediction: one problematic but accepted practice. Journal of Neural Engineering, Vol 20(1), 2023.
+
+Šuster S, Baldwin T, Lau J, Jimeno Yepes A, Martinez Iraola D, Otmakhova Y, Verspoor K. Automating Quality Assessment of Medical Evidence in Systematic Reviews: Model Development and Validation Study.
+J Med, Vol. 25. 2023.
+
+Wang Y, Beck D, Baldwin T, Verspoor K. Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression. Transactions of the Association for Computational Linguistics, Vol. 10, pp. 680–696, 2022.
+
+Blades F, Chambers JD, Aumann TD, Nguyen CTO, Wong VHY, Aprico A, NHwoke EC, Bui BC, Grayden, DB, Kilpatrick TJ, Binder MD. White matter tract conductivity is resistant to wide variations in paranodal structure and myelin thickness accompanying the loss of Tyro3: an experimental and simulated analysis. Brain Structure and Function, Vol. 227, pp. 2035–2048, 2022.
+
+Wang S, Šuster S, Baldwin T, Verspoor K. Predicting Publication of Clinical Trials Using Structured and Unstructured Data: Model Development and Validation Study. J Med Internet Res, Vol 24(12), 2022.
+
+Goudey B, Geard N, Verspoor K, Zobel J. Propagation, detection and correction of errors using the sequence database network, Briefings in Bioinformatics. Vol 23(6), 2022.
+
+Song Y, Lee S, Bell D, Goudey B, Zhou R. Binding Affinity Calculations of Gluten Peptides to HLA Risk Modifiers: DQ2.5 versus DQ7.5. J Phys Chem B. Vol 126(28), pp. 5151-5160, 2022.
+
+Chen J, Goudey B, Zobel J, Geard N, Verspoor K, Exploring automatic inconsistency detection for literature-based gene ontology annotation, Bioinformatics, Vol 38(1), pp. i273 - i281, 2022.
+
+Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden DB, Vogel AP, Automatic speech recognition in neurodegenerative disease, International Journal of Speech Technology, 2021
 
 Otmakhova Y, Verspoor K, Baldwin T, Suster S. (2020) Improved Topic Representations of Medical Documents to Assist COVID-19 Literature Exploration. NLP COVID-19 Workshop at EMNLP 2020.
 
