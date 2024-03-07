@@ -14,6 +14,8 @@ West, J, Bozorgi ZD, Herron J, Chizeck HJ, Chambers JD, Li L. Machine learning s
 Šuster S, Baldwin T, Lau J, Jimeno Yepes A, Martinez Iraola D, Otmakhova Y, Verspoor K. Automating Quality Assessment of Medical Evidence in Systematic Reviews: Model Development and Validation Study.
 J Med, Vol. 25. 2023.
 
+Sarwar T, Seifollahi S, Chan J, Zhang X, Aksakalli V, Hudson I, Verspoor K, Cavedon L. The Secondary Use of Electronic Health Records for Data Mining: Data Characteristics and Challenges, ACM Computing Surveys, Vol. 55(2), pp. 1-40, 2022.
+
 Wang Y, Beck D, Baldwin T, Verspoor K. Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression. Transactions of the Association for Computational Linguistics, Vol. 10, pp. 680–696, 2022.
 
 Blades F, Chambers JD, Aumann TD, Nguyen CTO, Wong VHY, Aprico A, NHwoke EC, Bui BC, Grayden, DB, Kilpatrick TJ, Binder MD. White matter tract conductivity is resistant to wide variations in paranodal structure and myelin thickness accompanying the loss of Tyro3: an experimental and simulated analysis. Brain Structure and Function, Vol. 227, pp. 2035–2048, 2022.
@@ -25,6 +27,12 @@ Goudey B, Geard N, Verspoor K, Zobel J. Propagation, detection and correction of
 Song Y, Lee S, Bell D, Goudey B, Zhou R. Binding Affinity Calculations of Gluten Peptides to HLA Risk Modifiers: DQ2.5 versus DQ7.5. J Phys Chem B. Vol 126(28), pp. 5151-5160, 2022.
 
 Chen J, Goudey B, Zobel J, Geard N, Verspoor K, Exploring automatic inconsistency detection for literature-based gene ontology annotation, Bioinformatics, Vol 38(1), pp. i273 - i281, 2022.
+
+Reddy S, Bhaskar R, Padmanabhan S, Verspoor K, Mamillapalli C, Lahoti R, Makinen VP, Pradhan S, Kushwah P, Sinha S. Use and validation of text mining and cluster algorithms to derive insights from Corona Virus Disease-2019 (COVID19) medical literature, Computer Methods and Programs in Biomedicine Update, Vol 1, no. 100010, 2021. 
+
+Verspoor K. The Evolution of Clinical Knowledge During COVID-19: Towards a Global Learning Health System. Yearbook of Medical Informatics. Vol. 30(01), pp. 176-184, 2021.
+
+Shen A, Mistica M, Salehi B, Li H, Baldwin T, Qi J. Evaluating Document Coherence Modeling. Transactions of the Association for Computational Linguistics, Vol. 9, pp. 621–640, 2021.
 
 Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden DB, Vogel AP, Automatic speech recognition in neurodegenerative disease, International Journal of Speech Technology, 2021
 
