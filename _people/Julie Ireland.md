@@ -1,10 +1,10 @@
 ---
 layout: person
-name: "Julie Ireland"
-title: "Julie Ireland"
+name: "Preeta Philip"
+title: "Preeta Philip"
 role: "Centre Manager"
-email: julie.ireland@unimelb.edu.au
+email: preeta.philip@unimelb.edu.au
 categories: jekyll update
-image: assets/people-headshots/julie-ireland-headshot.jpg
+image: assets/people-headshots/preeta2024_2.jpg
 order: 5
 ---
