@@ -5,9 +5,17 @@ categories: [navi, browse]
 browse-description: Publications
 ---
 
+Mu J, Liu S, Burkitt AN, Grayden DB. Multi-frequency steady-state visual evoked potential dataset, Scientific Data 11, 26, pp. 1-15, 2024.
+
+Zehra RS, Mu J, Syiem BV, Burkitt AN, Grayden DB. Evaluation of optimal stimuli for SSVEP-based augmented reality brain-computer interfaces, IEEE Access 11, pp. 87305-87315, 2023.
+
+Wenzel M, Huberfeld G, Grayden DB, de Curtis, M, Trevelyan AJ. A debate on the neuronal origin of focal seizures, Epilepsia 64, S37 - S48, 2023. 
+
+Zarei Eskikand P, Soto-Breceda A, Cook MJ, Burkitt AN, Grayden DB. Inhibitory stabilized network behaviour in a balanced neural mass model of a cortical column, Neural Networks 166, pp. 296-312, 2023.
+
 Ma C, Shen A, Yoshikawa H, Iwakura T, Beck D, Baldwin, T. On the Effectiveness of Images in Multi-modal Text Classification: An Annotation Study, ACM Transactions on Asian and Low-Resource Language Information Processing, Vol.22(3), pp. 1-19, 2023.
 
-Eskikand PZ, Soto-Breceda A, Cook MJ, Burkitt AN, Grayden DB. Inhibitory stabilized network behaviour in a balanced neural mass model of a cortical column, Neural Networks, Vol 166, pp. 296-312. 2023.
+Eskikand PZ, Soto-Breceda A, Cook MJ, Burkitt AN, Grayden DB. Inhibitory stabilized network behaviour in a balanced neural mass model of a cortical column, Neural Networks, Vol 166, pp. 296-312, 2023.
 
 West, J, Bozorgi ZD, Herron J, Chizeck HJ, Chambers JD, Li L. Machine learning seizure prediction: one problematic but accepted practice. Journal of Neural Engineering, Vol 20(1), 2023.
 
