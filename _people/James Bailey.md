@@ -2,6 +2,7 @@
 layout: person
 name: "Professor James Bailey"
 title: "Professor James Bailey"
+role: "Professor, The University of Melbourne"
 email: baileyj@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/James Bailey headshot.png
