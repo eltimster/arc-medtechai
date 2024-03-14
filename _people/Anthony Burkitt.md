@@ -6,7 +6,7 @@ role: "Chair in Bio-Signals and Bio-Systems, Department of Biomedical Engineerin
 email: aburkitt@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/anthony-burkitt-headshot.jpg
-order: 28
+order: 6
 ---
 Professor Anthony (Tony) Burkitt holds the Chair in Bio-Signals and Bio-Systems in the Department of Biomedical Engineering at the University of Melbourne since 2007. His research encompasses a number of areas of neural engineering, including medical bionics, computational neuroscience, retinal-implant vision processing, cochlear-implant speech processing and bio-signal processing for epilepsy. His research has made significant contributions to understanding the behaviour and function of neural information processing in the brain and it has also been instrumental in the development of visual stimulation paradigms for retinal implants, new cochlear implant speech processing strategies, methods for detecting and predicting seizures, and the use of electrical stimulation for seizure abatement in epilepsy.
 
