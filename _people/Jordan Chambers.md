@@ -6,7 +6,7 @@ role: "Research Fellow, Epilepsy Seizure Prediction, The University of Melbourne
 email: jordanc@unimelb.edu.au
 categories: jekyll update
 image: assets/people-headshots/jordan-chambers-headshot.jpg
-order: 6
+order: 21
 ---
 Dr Jordan Chambers joined the Epileptic seizure prediction stream of the ARC Training Centre as a Research Fellow in May 2019. His research has focused on understanding the behaviour of neural networks by combining mathematical and computational modelling with electrophysiological data.
   
