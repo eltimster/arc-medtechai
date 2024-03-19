@@ -5,22 +5,50 @@ categories: [navi, browse]
 browse-description: Publications
 ---
 
+**2024**
+
 Mu J, Liu S, Burkitt AN, Grayden DB. Multi-frequency steady-state visual evoked potential dataset, Scientific Data 11, 26, pp. 1-15, 2024.
 
-Zehra RS, Mu J, Syiem BV, Burkitt AN, Grayden DB. Evaluation of optimal stimuli for SSVEP-based augmented reality brain-computer interfaces, IEEE Access 11, pp. 87305-87315, 2023.
+**2023**
 
-Wenzel M, Huberfeld G, Grayden DB, de Curtis, M, Trevelyan AJ. A debate on the neuronal origin of focal seizures, Epilepsia 64, S37 - S48, 2023. 
-
-Zarei Eskikand P, Soto-Breceda A, Cook MJ, Burkitt AN, Grayden DB. Inhibitory stabilized network behaviour in a balanced neural mass model of a cortical column, Neural Networks 166, pp. 296-312, 2023.
-
-Ma C, Shen A, Yoshikawa H, Iwakura T, Beck D, Baldwin, T. On the Effectiveness of Images in Multi-modal Text Classification: An Annotation Study, ACM Transactions on Asian and Low-Resource Language Information Processing, Vol.22(3), pp. 1-19, 2023.
+Chorev, M, Haderlein, J, Chandra, S., Menon, G., Burton, B.J.L., Pearce, I., McKibbin, M., Thottarath, S., Karatsai, E., Chandak, S., et al.  A Multi-Modal AI-Driven Cohort Selection Tool to Predict Suboptimal Non-Responders to Aflibercept Loading-Phase for Neovascular Age-Related Macular Degeneration: PRECISE Study Report 1. J. Clin. Med., 12, 3013. 2023.
 
 Eskikand PZ, Soto-Breceda A, Cook MJ, Burkitt AN, Grayden DB. Inhibitory stabilized network behaviour in a balanced neural mass model of a cortical column, Neural Networks, Vol 166, pp. 296-312, 2023.
 
-West, J, Bozorgi ZD, Herron J, Chizeck HJ, Chambers JD, Li L. Machine learning seizure prediction: one problematic but accepted practice. Journal of Neural Engineering, Vol 20(1), 2023.
+Haderlein JF, Peterson ADH, Burkitt AN, Mareels IMY, Grayden DB. Autoregressive models for biomedical signal processing, 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 24-28 July 2023.
+
+Kokorin K, Mu J, John SE, Grayden DB. Predictive shared control of robotic arms using simulated brain-computer interface inputs, 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 24-28 July 2023.
+
+Ma C, Shen A, Yoshikawa H, Iwakura T, Beck D, Baldwin, T. On the Effectiveness of Images in Multi-modal Text Classification: An Annotation Study, ACM Transactions on Asian and Low-Resource Language Information Processing, Vol.22(3), pp. 1-19, 2023.
+
+Mahendra R, Spina D, Verspoor K. (2023) ITTC at SemEval 2023-Task 7: Document Retrieval and Sentence Similarity for Evidence Retrieval in Clinical Trial Data. In Proceedings of the 17th International Workshop on Semantic Evaluation, Toronto, Canada. Association for Computational Linguistics. https://aclanthology.org/2023.semeval-1.316/ 
+
+Pu Y, Beck D, Verspoor K. Graph embedding-based link prediction for literature-based discovery in Alzheimer’s Disease. Journal of Biomedical Informatics. DOI: 10.1016/j.jbi.2023.104464. 2023.
+
+Rasheed S, Bennett J, Yoo P, Opie N, Burkitt AN, Grayden DB (2023) Removing Cardiac Artifacts from Endovascular Interface Data, ICNS NeuroEng Workshop, 2023.
+
+Rasheed S., Bennett J, Yoo P, Opie N, Burkitt AN, Grayden DB. (2023) Decoding Eye Movements from Brain Signals, 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2023
 
 Šuster S, Baldwin T, Lau J, Jimeno Yepes A, Martinez Iraola D, Otmakhova Y, Verspoor K. Automating Quality Assessment of Medical Evidence in Systematic Reviews: Model Development and Validation Study.
 J Med, Vol. 25. 2023.
+
+Suster S, Baldwin T, Verspoor K. Analysis of predictive performance and reliability of classifiers for quality assessment of medical evidence revealed important variation by medical area. Journal of Clinical Epidemiology. DOI: 10.1016/j.jclinepi.2023.04.006. 2023.
+
+Šuster S, Baldwin T, Verspoor K. Promoting Fairness in Classification of Quality of Medical Evidence. In The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks, pages 413–426, Toronto, Canada. Association for Computational Linguistics. https://aclanthology.org/2023.bionlp-1.39/. 2023.
+
+Truong HT, Baldwin T, Verspoor K, Cohn T. Language models are not naysayers: an analysis of language models on negation benchmarks. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), pages 101–114, Toronto, Canada. Association for Computational Linguistics. https://aclanthology.org/2023.starsem-1.10/ Best Paper Award. 2023.
+
+Wenzel M, Huberfeld G, Grayden DB, de Curtis, M, Trevelyan AJ. A debate on the neuronal origin of focal seizures, Epilepsia 64, S37 - S48, 2023. 
+
+West, J, Bozorgi ZD, Herron J, Chizeck HJ, Chambers JD, Li L. Machine learning seizure prediction: one problematic but accepted practice. Journal of Neural Engineering, Vol 20(1), 2023.
+
+Zarei Eskikand P, Soto-Breceda A, Cook MJ, Burkitt AN, Grayden DB. Inhibitory stabilized network behaviour in a balanced neural mass model of a cortical column, Neural Networks 166, pp. 296-312, 2023.
+
+Zehra RS, Mu J, Syiem BV, Burkitt AN, Grayden DB. Evaluation of optimal stimuli for SSVEP-based augmented reality brain-computer interfaces, IEEE Access 11, pp. 87305-87315, 2023.
+
+Zehra S, Mu J, Burkitt AN, Grayden DB. Effect of alpha range activity on SSVEP decoding in brain-computer interfaces, 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 24-28 July 2023.
+
+**2022**
 
 Sarwar T, Seifollahi S, Chan J, Zhang X, Aksakalli V, Hudson I, Verspoor K, Cavedon L. The Secondary Use of Electronic Health Records for Data Mining: Data Characteristics and Challenges, ACM Computing Surveys, Vol. 55(2), pp. 1-40, 2022.
 
@@ -36,6 +64,8 @@ Song Y, Lee S, Bell D, Goudey B, Zhou R. Binding Affinity Calculations of Gluten
 
 Chen J, Goudey B, Zobel J, Geard N, Verspoor K, Exploring automatic inconsistency detection for literature-based gene ontology annotation, Bioinformatics, Vol 38(1), pp. i273 - i281, 2022.
 
+**2021**
+
 Reddy S, Bhaskar R, Padmanabhan S, Verspoor K, Mamillapalli C, Lahoti R, Makinen VP, Pradhan S, Kushwah P, Sinha S. Use and validation of text mining and cluster algorithms to derive insights from Corona Virus Disease-2019 (COVID19) medical literature, Computer Methods and Programs in Biomedicine Update, Vol 1, no. 100010, 2021. 
 
 Verspoor K. The Evolution of Clinical Knowledge During COVID-19: Towards a Global Learning Health System. Yearbook of Medical Informatics. Vol. 30(01), pp. 176-184, 2021.
@@ -44,9 +74,13 @@ Shen A, Mistica M, Salehi B, Li H, Baldwin T, Qi J. Evaluating Document Coherenc
 
 Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden DB, Vogel AP, Automatic speech recognition in neurodegenerative disease, International Journal of Speech Technology, 2021
 
+**2020**
+
 Otmakhova Y, Verspoor K, Baldwin T, Suster S. (2020) Improved Topic Representations of Medical Documents to Assist COVID-19 Literature Exploration. NLP COVID-19 Workshop at EMNLP 2020.
 
 Verspoor K, Suster S, Otmakhova Y, Mendis S, Zhai Z, Fang B, Lau JH, Baldwin T, Jimeno Yepes A, Martinez D. (2020) COVID-SEE: Scientific Evidence Explorer for COVID-19 Related Research. arXiv preprint arXiv:2008.07880, 2020
+
+**2019**
 
 Petri, M., Moffat, A., Mackenzie, J., Culpepper, J.S. and Beck, D., 2019, July. Accelerated query processing via similarity score prediction. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 485-494).
 
