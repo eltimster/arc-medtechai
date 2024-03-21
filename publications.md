@@ -66,19 +66,86 @@ Chen J, Goudey B, Zobel J, Geard N, Verspoor K, Exploring automatic inconsistenc
 
 **2021**
 
+Bennett JD, John SW, Grayden DB, Burkitt AN. (2021) A neurophysiological approach to spatial filter selection for adaptive brain-computer interfaces, Journal of Neural Engineering, vol. 8 (2).
+
+Bhatia S, Lau JH, Baldwin T. (2021) Automatic Classification of Neutralization Techniques in the Narrative of Climate Change Scepticism, In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies (NAACL HLT 2021).
+
+Breen J, Baldwin T, Bond F. (2021) Identification of Neologisms in Japanese Corpora using Synthesis, In Proceedings of the XiX EURALEX International Congress (EURALEX 2021).
+
+Chen Z, Maturana MI, Burkitt AN, Cook MJ, Grayden DB (2021) High-frequency oscillations in epilepsy: What have we learned and what needs to be addressed, Neurology, 96 (9): 439-448.
+
+Cohen KB, Ripple A, Ben Abacha A, Bodenreider O, Hargraves O, Verspoor K, Zweigenbaum P, Demner-Fushman D. (2021) Reproducibility in biomedical natural language processing: A FAIR approach to what we need to know. In Proceedings of AMIA 2021.
+
+Fivez P, Šuster S, Daelemans W. (2021)  Conceptual Grounding Constraints for Truly Robust Biomedical Name Representations, EACL.
+
+Fivez P, Šuster S, Daelemans W. (2021) Integrating Higher-Level Semantics into Robust Biomedical Name Representations. Workshop on Health Text Mining and Information Analysis (LOUHI), EACL.
+
+Haderlein JF, Mareels IMY, Peterson ADH, Eskikand PZ, Burkitt AN, Grayden DB. (2021). On the benefit of overparameterization in state reconstruction, 2021 60th IEEE Conference on Decision and Control (CDC), 2021, pp. 1580-1585.
+
+Jiang F, Cohn T. (2021). Incorporating Syntax and Semantics in Coreference Resolution with Heterogeneous Graph Attention Network. In NAACL 2021.
+
+Koto F, Lau JH, Baldwin T. (2021) Discourse Probing of Pretrained Language Models, In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies (NAACL HLT 2021).
+
+Koto F, Lau JH, Baldwin T. (2021) Evaluating the Efficacy of Summarization Evaluation across Languages, Findings of ACL, pp. 801—812.
+
+Koto F, Lau JH, Baldwin T. (2021) IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization, In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), Online and Punta Cana, Dominican Republic, pp. 10660—10668.
+
+Koto F, Lau JH, Baldwin T. (2021) Top-down Discourse Parsing via Sequence Labelling, In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2021), virtual, pp. 715-726.
+
+Li M, Cai W, Liu R, Weng Y, Zhao X, Wang C, Chen X, Liu Z, Pan C, Li M, Zheng Y, Liu Y, Salim FD, Verspoor K, Liang X, Chang X. (2021) FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark. In Proceedings of NeurIPS 2021.
+
+Li H, Gong Y, Jiao J, Zhang R, Baldwin T, Duan N. (2021) KFCNet: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning , In Findings of EMNLP, Online and Punta Cana, Dominican Republic, pp. 2918—2928.
+
+Ma C, Shen A, Yoshikawa H, Iwakura T, Beck D, Baldwin T. (2021) On the (In)Effectiveness of Images for Text Classification, In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2021), virtual, pp. 42—48.
+
+Mistica M, Lau JH, Merrifield B, Fazio K, Baldwin T. (2021) Semi-automatic Triage of Requests for Free Legal Assistance, In Proceedings of the Natural Legal Language Processing Workshop 2021, online, Online and Punta Cana, Dominican Republic, pp. 217—227.
+
 Reddy S, Bhaskar R, Padmanabhan S, Verspoor K, Mamillapalli C, Lahoti R, Makinen VP, Pradhan S, Kushwah P, Sinha S. Use and validation of text mining and cluster algorithms to derive insights from Corona Virus Disease-2019 (COVID19) medical literature, Computer Methods and Programs in Biomedicine Update, Vol 1, no. 100010, 2021. 
 
-Verspoor K. The Evolution of Clinical Knowledge During COVID-19: Towards a Global Learning Health System. Yearbook of Medical Informatics. Vol. 30(01), pp. 176-184, 2021.
+Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden DB, Vogel AP, Automatic speech recognition in neurodegenerative disease, International Journal of Speech Technology, 2021.
 
 Shen A, Mistica M, Salehi B, Li H, Baldwin T, Qi J. Evaluating Document Coherence Modeling. Transactions of the Association for Computational Linguistics, Vol. 9, pp. 621–640, 2021.
 
-Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden DB, Vogel AP, Automatic speech recognition in neurodegenerative disease, International Journal of Speech Technology, 2021
+Verspoor K. The Evolution of Clinical Knowledge During COVID-19: Towards a Global Learning Health System. Yearbook of Medical Informatics. Vol. 30(01), pp. 176-184, 2021.
+
 
 **2020**
 
+Chen Z, Grayden DB, Burkitt AN, Seneviratne U, D'Souza WJ, French C, Karoly PJ, Dell K, Leyde K, Cook MJ, Maturana MI (2020) Spatiotemporal patterns of high-frequency activity (80-170 Hz) in long-term intracranial EEG, Neurology 10.1212
+
+Kitayama, Kotaro, Shivashankar Subramanian and Timothy Baldwin (2020) Popularity Prediction of Online Petitions using a Multimodal Deep Regression Model, In Proceedings of the 2020 Australasian Language Technology Workshop (ALTW 2020), virtual, pp. 110—104.
+
+Koto, Fajri, Afshin Rahimi, Jey Han Lau and Timothy Baldwin (2020) IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP, In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020), virtual, pp. 757—770.
+
+Koto, Fajri, Jey Han Lau and Timothy Baldwin (2020) Liputan6: A Large-scale Indonesian Dataset for Text Summarisation, In Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2020), virtual, pp. 598—608.
+
+Leins, Kobi, Jey Han Lau and Timothy Baldwin (2020) Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?, In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), pp. 2908—2913.
+
+Mathur, Nitika, Timothy Baldwin and Trevor Cohn (2020) Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics, In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), pp. 4984—4997.
+
+Maturana M, Meisel C, Dell K, Karoly P, D'Souza W, Grayden DB, Burkitt AN, Jiruska P, Kudlacek J, Hlinka J, Cook MJ, Kuhlmann L, Freestone DR (2020) Critical slowing down as a biomarker for seizure susceptibility, Nature Communications 11, 1-12.
+
 Otmakhova Y, Verspoor K, Baldwin T, Suster S. (2020) Improved Topic Representations of Medical Documents to Assist COVID-19 Literature Exploration. NLP COVID-19 Workshop at EMNLP 2020.
 
-Verspoor K, Suster S, Otmakhova Y, Mendis S, Zhai Z, Fang B, Lau JH, Baldwin T, Jimeno Yepes A, Martinez D. (2020) COVID-SEE: Scientific Evidence Explorer for COVID-19 Related Research. arXiv preprint arXiv:2008.07880, 2020
+Pederson M, Verspoor K, Jenkinson M, Law M, Abbott DF, Jackson GD (2020). Artificial Intelligence for clinical decision support in neurology. Brain Communications, 2 (2).
+
+Rahimi A, Baldwin T, Verspoor K. (2020) WikiUMLS: Aligning UMLS to Wikipedia via Cross-lingual Neural Ranking. COLING 2020: 5957-5962.
+
+Shen, Aili, Bahar Salehi, Jianzhong Qi and Timothy Baldwin (2020) A Multimodal Approach to Assessing Document Quality, Journal of Artificial Intelligence Research Vol 68, pp. 607—632.
+
+Sushil M, Šuster S, Daelamans W. Distilling neural networks into skipgram-level decision lists. arXiv preprint arXiv:2005.07111. 2020.
+
+Verspoor K, Cohen KB, Conway M, de Bruijn B, Dredze M, Mihalcea R, Wallace B, editors (2020) Proceedings of the 1st Workshop on NLP for COVID-19 (Part 2) at EMNLP 2020. Association of Computational Linguistics.
+
+Verspoor K, Cohen KB, Dredze M, Ferrara E, May J, Munro R, Paris C, Wallace B, editors (2020) Proceedings of the 1st Workshop on NLP for COVID-19 at ACL 2020. Association of Computational Linguistics. 
+
+Verspoor K, Suster S, Otmakhova Y, Mendis S, Zhai Z, Fang B, Lau JH, Baldwin T, Jimeno Yepes A, Martinez D. (2020) COVID-SEE: Scientific Evidence Explorer for COVID-19 Related Research. arXiv preprint arXiv:2008.07880, 2020.
+
+Wang, Yuxia, Fei Liu, Karin Verspoor and Timothy Baldwin (2020) Evaluating the Utility of Model Configurations and Data Augmentation on Clinical Semantic Textual Similarity, In Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing (BioNLP 2020), pp. 105—111.
+
+Wang, Yuxia, Karin Verspoor and Timothy Baldwin (2020) Learning from Unlabelled Data for Clinical Semantic Textual Similarity, In Proceedings of the 3rd Clinical Natural Language Processing Workshop.
+
+Zarei Eskikand P, Kameneva T, Burkitt AN, Grayden DB, Ibbotson MR (2020) Adaptive surround modulation of MT neurons: A computational model, Frontiers in Neural Circuits 14, 529345.
 
 **2019**
 
