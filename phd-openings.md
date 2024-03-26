@@ -5,149 +5,70 @@ categories: [navi, browse]
 browse-description: PhD projects within the Centre
 ---
 
-PhD project vacancies within the Centre. Details are:
-
-## Neuromorphic Hardware for Epileptic Seizure Prediction
-
-Project Leader: Professor André van Schaik
-
-Research Centre: The MARCS Institute - Western Sydney University
-
-As a member of the ARC Training Centre in Cognitive Computing for Medical Technologies, Western Sydney University (WSU) is looking for a highly motivated PhD student to develop novel hardware for epileptic seizure prediction. The outcome will be a system that provides estimates of the likelihood that a person will or will not have a seizure during a relevant forecasting time horizon and that can run on low-power, portable hardware. Artificial neural networks have demonstrated superior performance in seizure forecasting. The project will build upon our work in convolutional neural networks, recurrent neural networks, and other approaches to develop low-power implementations using neuromorphic hardware.
-
-The project will be hosted at the International Centre for Neuromorphic Systems (ICNS) at WSU and supervised by its director, Prof André van Schaik, and co-supervised by the stream leader, Prof David Grayden at the University of Melbourne. The candidate is required to undertake a minimum of one year industry experience at IBM or other relevant industry partner. The 12 months do not have to be undertaken in a single period. There is also the potential for a third co-supervisor from the industry partner.
-
-The ICNS is a centre within the MARCS Institute for Brain, Behaviour and Development.  The Centre is explicitly interdisciplinary, by combining electrical engineering, computer science, signal processing, and neuroscience. ICNS’s focus is on developing Neuromorphic Engineering solutions to existing problems. It is Australia’s leading Neuromorphic Engineering research laboratory, an emerging field developing the next generation of smart technology using inspiration from biology.
-
-[Further information] (https://www.westernsydney.edu.au/schools/grs/scholarships/current_scholarships/current_scholarships/_neuromorphic_hardware_for_epileptic_seizure_prediction)
-
-
-
-## Advanced epileptic seizure warning methods
-
-Project Leader: David Grayden
-
-Staff: Anthony Burkitt, Mark Cook
-
-Primary Contact: David Grayden (grayden@unimelb.edu.au)
-
-Keywords: biosignals; computational neuroscience; electroencephalogram EEG; epilepsy; neuroengineering
-
-Disciplines: Biomedical Engineering
-
-Domains: Convergence of engineering and IT with the life sciences
-
-Research Centre: Neuroengineering Research Laboratory
-
-This project will develop epileptic seizure prediction methods, warning patients of the likelihood of an impending seizure, so that precautionary measures can be taken. Seizure prediction will be of great clinical significance as it will improve the lives of 33% of epileptic patients who have drug-resistant epilepsy, by warning of impending seizures and potentially allowing acute therapies to prevent seizures, such as electrical stimulation of the brain or targeted drug delivery.
-
-
 
 ### Description of the project environment:
 
-There are a number of projects embedded within the Centre, where we have 14 PhD students, 5 post-doctoral researchers, and 11 University of Melbourne staff collaborating across our 4 research streams with researchers at IBM Australia and a number of other Australian Universities, including RMIT University, the University of South Australia, and Western Sydney University. Each student is jointly supervised by Universities and IBM Research and will spend at least 12 months of their candidature working on site at an IBM Research laboratory.
+There are a number of projects embedded within the Centre, where we have 14 PhD students, 5 post-doctoral researchers, and 11 University of Melbourne staff collaborating across our 4 research streams with researchers at Industry Partners Seer Medical and Synchron along with a number of other Australian Universities, including RMIT University, the University of South Australia, and Western Sydney University. Each student is jointly supervised by Universities and an Industry Partner and will spend at least 12 months of their candidature working on site at the Industry Partner's facilities.
 
 Our PhD students are working on the following projects:
 
+### Stream 1
 
+## Non-EEG approaches to Seizure Detection and Prediction
 
-## Literature-based Discovery for Alzheimer's Disease
+Collecting EEG data from patients for considerable periods of time is burdensome and highly inconvenient. Smart watches such as the FitBit (Google) device can provide multiple physiological data, including heart rate, temperature, and blood oxygenation levels. 
 
-This project will focus on methods for literature-based discovery of insights from the biomedical literature, with a particular focus on Alzheimer’s Disease. This will include both information extraction of elements related to the molecular basis and clinical phenotypes of the disease, as well analysis of the certainty of that information and inference to support assessment of consistency between information extracted from various sources.
- 
-This project will also benefit from the context of the Natural Language Processing group at the University of Melbourne, including Professors Tim Baldwin and Trevor Cohn, and other staff including Dr Jey-Han Lau, Dr Daniel Beck, and Dr Lea Frermann, and their existing students and research fellows, and Professor Karin Verspoor from RMIT University. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director.
+### Stream 2
 
+## Alternative single-switch decoder
+
+This project aims to develop an alternative pipeline for implementing a single-switch brain-computer interface to the one currently used by Synchron by adopting state-of-the-art algorithms for motor imagery decoding. The availability of multiple decoding pipelines would allow participants to choose the approach with which they achieve the best performance. The decoding pipeline will be tested on data from multiple participants currently taking part in the trial. 
+
+## An SSVEP-Based Multi-Modal Brain-Computer Interface with Augmented Reality
+
+The aim of this project is to use SSEVP delivered via augmented reality to enable the user to interact with their environment.
+
+## Handwriting decoding
+
+This project explores the feasibility of decoding from Stentrode data which character a participant is attempting to write. The project will primarily focus on understanding what features encode information relevant to handwriting and how this information is encoded across time. Those characters which can be decoded most robustly will serve as a basis for a real-time multi-class decoder.
+
+## Shared Control of a Robotic Arm Driven by a Noninvasive-Brain-Computer Interface
+
+The limitations of brain-computer interfaces (BCIs) can be overcome by combining BCI outputs with intelligent automation. This project aims to achieve this by creating a noninvasive BCI for semi-autonomous control of a robotic arm and an endovascular brain-to-text BCI that utilizes language models. To evaluate this concept, the project employs 'shared control,' a semi-autonomous framework for BCI-controlled robots that combines user inputs with autonomous control signals. The advantages of this approach were assessed by having participants use a shared control system to reach objects with a robotic arm. 
+
+## Two-Dimensional Continuous Cursor Control using a Brain-Computer Interface
+
+This project, in collaboration with Synchron, aims to develop a brain-controlled computer cursor control system that will enable severely paralysed people to control smart devices using brain signals. The neural activity is captured by a minimally invasive endovascular Stentrode device that records the brain’s activity from within a blood vessel. 
+
+### Stream 3
+
+## Improving genomic prediction of AD using AI
+
+This project focuses on how Bayesian and deep learning methodologies can be applied to large-scale genetics datasets to predict an individual’s genetic risk of AD, focusing on architectures that enable integration of other modalities (e.g. imaging, cognitive tests).
+
+## Modelling of Alzheimer’s induced cognitive decline
+
+This PhD project aims to develop novel methods for understanding the nature and magnitude of changes in cognition and behaviour associated with those variations in brain structure and function that are hypothesized to be causal in Alzheimer’s disease.
 
 ## Using modern Machine Learning for probabilistic modelling of dementia
 
-The central goal of this project is to develop novel predictive tools that use multi-modal data (demographic, clinical, imaging and genetics) to statistically model age of onset of Alzheimer’s Disease (diagnosis) as well as its subsequent trajectory (prognosis). These tasks come with a non-standard set of challenges (e.g. large chunks of missing data, dataset shifts across cohorts, frequent mislabelling, undocumented comorbidities and sparsity of observations compared to the disease timescale), thus representing a relatively uncharted territory for modern AI. On the quest to find the right tool for the job, you are likely to explore the entire spectrum of Machine Learning: from SVMs to Gaussian Processes, from PCA to Variational Autoencoders, from logistic regression to GBMs, from linear models to Deep Learning and so on.
- 
-**Key areas involved in the research:** machine learning, Bayesian data analysis, mixed modelling, cognitive decline
+This PhD project focuses on the probabilistic modelling of Alzheimer’s Disease (AD). As the most common form of Dementia, AD has inspired many works at the intersection of neuroscience, statistics, and computer science to develop methodologies and models able to help in the clinical diagnosis of the disease, or estimating the evolution of patients’ neurodegeneration and cognitive decline when viewing AD as a continuum. Multiple aspects characterize the disease and pose significant challenges in its modelling: these includes heterogeneity in clinical presentations, incomplete observation of the disease through potentially noisy biomarkers, uncertainty about the biological or genetic mechanisms involved in the disease, and in most cases, an unknown time of onset. Whether for estimating disease progression or establishing predictions of diagnoses, viewing the problem through the lens of machine learning and probabilistic modelling allows for more accurate depictions of the underlying nature of the disease and how it translates into observable biomarkers with noise inherent to real-world biological data and imperfect measurement means.
 
+### Stream 4
 
-## Using deep learning to improve genomic risk prediction of Alzheimer’s Disease
+## Literature-based Discovery (LBD) in Alzeheimer's Disease
 
-It’s well known that an individual’s genetic profile affects their risk of Alzheimer’s Disease and their rate of cognitive decline. This project aims to understand how deep learning may be applied to a wealth of existing genetics-related data in order to improve prediction of an individual’s risk of Alzheimer’s Disease. The focus will be on models and architectures that allow for the integration of other modalities (e.g imaging, cognitive tests). We will also explore how the resulting prediction relate to other established Alzheimer’s biomarkers.
+This project is focused on Literature-based Discovery, as applied in the context of Alzheimer’s Disease (AD). A paper has been submitted (under review) which examines large-scale predictive forecasting of novel links/relationships between genotypes and phenotypes in Alzheimer’s. This analysis is based on transformation of a large library of AD publications into a knowledge graph, and the application of link prediction methods to propose new links.
 
-**Key areas involved in the research:** machine learning, genomic risk prediction, cognitive decline
+## Multi-document Summarization Supporting Clinical Evidence Review
 
+Summarising (often contradictory) results of multiple clinical trials into conclusions which can be safely implemented by medical professionals in their daily practice is a very important, but highly challenging, task. In this thesis, we first examine what constitutes a well-formed answer to a clinical question, and define modality (certainty) of evidence both from the linguistic perspective and that of biomedical sciences. Next, we present our framework for human evaluation of the reliability of generated summaries which is based on the aspects we outlined (biomedical entities, direction of effect, and claim certainty), use it to highlight issues with the current models, and examine the possibility of automating the summary evaluation using large generative language models. Following that, we present our multi-document summarisarion dataset which has several levels of inputs and targets granularity as well as rich annotation for the clinical evidence aspects we defined, and use it in several scenarios to test capabilities of existing models. Finally, we turn to the question of synthesing the input studies into conlusions, in particular, reflecting the direction and certainty of findings in summarie. 
 
-## Modelling of Alzheimer's Disease induced cognitive decline with Machine Learning
+## Negation in neutral language processing
 
-The primary goal of this project is to utilise machine learning and artificial intelligence (AI) techniques in order to develop novel methods for understanding the nature and magnitude of changes in cognition and behaviour associated with those variations in brain structure and function that are hypothesised to be causal in Alzheimer’s Disease. The focus will be on modelling the cognitive and behavioural trajectories preceding the diagnosis of dementia, as well as determining which measurable factors (demographic, genetic etc.) may influence such trajectories. Two important additional challenges will be to find the best way of dealing with missing data as well as to study the extent to which biases from repeated application of tests can be corrected mathematically. Finally, the project will seek to estimate potential benefits to brain-behaviour models associated with high-frequency cognitive assessments.
+This project focuses on the analysis of negation in large language models (LLMs), which has particular relevance in the context of medical evidence – effective analysis of inclusion and exclusion criteria and meaningful assessment of presence/absence of symptoms and diagnoses hinges on correct treatment of negation in clinical texts and biomedical journal publications. 
 
-As a result, quantitative hypotheses will be generated that can subsequently be validated in independent data sets or with specific experimental programs, predominantly in learning and memory, involving functional neuroimaging as well as further psychopharmacological and cognitive challenges.
+## Numerical Information Processing from Text
 
-**Key areas involved in the research:** machine learning, Bayesian data analysis, modelling of cognitive decline
-
-
-## Context-specific Clinical Decision Support Leveraging Clinical Practice Guidelines
-     
-This PhD project will focus on identification of relevant clinical guidelines
-for a given clinical situation. In particular, the emphasis of the project
-will be to explore methods from information retrieval and natural language
-processing to identify key clinical practice guidelines to guide clinical
-decision making. It will require some modelling of the typical clinical
-decision-making process and understanding of key decision points in clinical
-care, in order to align clinical situations to particular steps or stages in a
-clinical guideline. It will explore the required depth of analysis of
-guidelines relative to the clinical situation – is it sufficient to retrieve a
-complete guideline, or do specific paragraphs or sentences need to be
-identified? How important is presentation of the background evidence in the
-published literature to support the clinical decision?
-
-If suitable clinical data sets can be identified, the project will also
-consider how to use clinical data from medical consultations to trigger
-identification of a relevant clinical guideline at a relevant moment in a
-patient interaction, to support clinical decision making.
-
-This project is based at RMIT University, working directly with Professor Karin Verspoor and Professor Lawrence Cavedon and also benefits from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin and Professor Trevor Cohn, and their existing students and research fellows. Professor Baldwin is the Director of the training centre, while Professor Verspoor is the Deputy Director.
-
-**Key areas involved in the research:** natural language processing, information retrieval, health informatics
-
-
-## Multi-document summarisation supporting clinical evidence review
-     
-This project will focus on summarisation of the background literature relevant to a given clinical question. Under the assumption that a relevant body of literature for a clinical question can be identified, the objective will be abstractive summarisation of that literature with sensitivity to the clinical question that is being explored. 
-
-The student project work will focus on natural language generation for the summaries, and consider adaptation of the summaries for different audiences based on readability, background knowledge, desired summary length, etc. to cater to different requirements.
-
-This project also benefits from the context of the Natural Language Processing group at the University of Melbourne, including Professor Tim Baldwin and Professor Trevor Cohn and their existing students and research fellows, and Professor Karin Verspoor from RMIT University. 
-
-**Key areas involved in the research:** natural language processing, health informatics
-
-
-## Seizure Forecasting using Neural Networks
-     
-This project aims to improve performance of epileptic seizure forecasting. The outcome will be a system that provides estimates of the likelihood that a person will or will not have a seizure during a relevant forecasting time horizon. Artificial neural networks have demonstrated superior performance in seizure forecasting. This project will build upon our earlier work to develop new approaches based on convolutional neural networks, recurrent neural networks, and other approaches. There is potential to incorporate other sources of relevant data, such as time of day and movement tracking, as well as EEG.
-
-The primary supervisor for this project will be A/Prof Lin Liu at the University of South Australia, but our PhD student will spend a minimum of one year physically based in Melbourne.
-
-**Key areas involved in the research:** signal processing, machine learning, neural networks
-
-
-## Deep Learning for Fitting Neural Mass Models to EEG
-     
-This project aims to improve performance of seizure prediction by linking neural mass models to deep learning techniques. Neural mass models have been able to model and reproduce output signals that replicate different types of intracranial EEG recordings. Data assimilation with Kalman filters has been successful in investigating how variations in model parameters can lead to the different behaviours. However, to use these models for seizure prediction, high fidelity models are needed that incorporate mechanisms of parameter variation that are intrinsic to the model. This project will develop augmented neural mass models and deep learning and other machine learning techniques to fit the models to patient-specific iEEG recordings.
-
-**Key areas involved in the research:** advanced signal processing, machine learning, neural modelling
-
-
-## Brain-Computer Interfaces for low-powered mobile/wearable devices
-
-This project aims to develop a brain-computer interface system with emphasis on low power consumption and small memory requirements, without compromising on accuracy. The outcome of this project will be novel CNN models that incorporate spatiotemporal information, produce fast inference, and achieve small memory foot-prints so that they can be deployed in wearable devices or mobile computing platforms. The greatest challenge will be to maintain the required accuracy and performance while reducing the model size and the overall latency of the system.
-
-**Key areas involved in the research:** signal processing, machine learning, neural networks, embedded systems
-
-
-## Multimodal Brain-Computer Interfaces for augmented reality and virtual reality applications
-
-This project aims to develop a brain-computer interface system that allows people with speech, vision or motor disorders to interact in an augmented/virtual environment (e.g., selecting/manipulating an object of interest, walking/exploring a remote site). This AR/VR-based BCI will allow users to learn and adapt to the BCI in a more swift manner with countless possibilities of application scenarios, compared to the conventional case of a task-specific BCI (e.g. to control a robotic arm). Furthermore, AR/VR-based BCI systems will be safer to operate, can be deployed anywhere with minimal hardware constraints, and will provide an extremely efficient training platform to decode the brain’s intent. Brain-computer interfaces rely upon good recordings of neural signals, typically with scalp or intracranial EEG systems. This project will build a multimodal BCI system that augments the EEG signals through speech recognition and gaze tracking as a multimodal input to the system to further enhance the performance/accuracy of the system for the desired application scenarios.
-
-**Key areas involved in the research:** signal processing, machine learning, neural networks
-
-
-## Information Extraction for Precision Patient Matching
-
-This project focuses on information extraction over text sources including patient descriptions, literature, and clinical trial descriptions, to accurately map patient descriptions to relevant literature and clinical trials. Information extraction will take the form of both explicit span-based chunking and labelling (e.g. based on PICO criteria), and implicit generation of keywords and latent representations that capture key aspects of the corresponding document. Also part of this project will be the assessment of semantic compatibility between (labelled) text fields across different document types.
+This project is tackling another identified problem in current NLP/LLM tools directly relevant for biomedical evidence analysis, which is numerical information processing. Rahmad has been actively characterising the requirements for numerical information processing particularly relevant to analysis of clinical trials, as well as characterising the limitations of LLMs in handling numerical information. He further participated in SemEval 2023 Task 7, focused on multi-evidence natural language inference for clinical trial data (NLI4CT). This has provided good insight into the interaction between inference/reasoning and numerical information processing, and will support Rahmad to contribute to improving the use of NLP for evidence synthesis. 
 
