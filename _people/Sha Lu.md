@@ -2,7 +2,7 @@
 layout: person
 name: "Dr Sha Lu"
 title: "Dr Sha Lu"
-role: "Research Fellow - University of South Australia"
+role: "Research Fellow, University of South Australia"
 email: Sha.Lu@unisa.edu.au
 categories: jekyll update
 image: assets/people-headshots/sha lu headshot.jpg
