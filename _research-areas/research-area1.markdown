@@ -81,7 +81,7 @@ content="I joined the ARC Training Centre in Cognitive Computing for Medical Tec
 %}
 <br><br>
 {% include person-bio.html
-image="/assets/xxxx.jpg"
+image="/assets/people-headshots/sha lu headshot.jpg"
 name="Dr Sha Lu"
 role="Research Fellow"
 company="University of South Australia"
@@ -89,7 +89,7 @@ content="Sha Lu is a Research Associate in Data Analytics within the STEM unit a
 %}
 <br><br>
 {% include person-bio.html
-image="/assets/xxx.jpg"
+image="/assets/people-headshots/Lyri Li headshot.png"
 name="Jieying (Lyra) Li"
 role="Graduate Researcher"
 company="The University of Melbourne"
