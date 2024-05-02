@@ -3,7 +3,7 @@ layout: person
 name: "Dr Benjamin Goudey"
 title: "Dr Benjamin Goudey"
 role: "Research Fellow - The University of Melbourne"
-email: ben.goudey@unimelb.edu.au
+email: ben.goudey@florey.edu.au
 categories: jekyll update
 image: assets/people-headshots/ben-goudey-headshot.jpg
 order: 23
