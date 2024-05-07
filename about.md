@@ -17,7 +17,7 @@ applications, based on a combination of research, industry and entrepreneurial
 skills they will acquire through the Centre.
 
 The Centre is hosted at The University of Melbourne, in collaboration with Western Sydney University, RMIT University,
-and the University of South Australia. The Centre's current industry partners are Seer Medical and Synchron.  IBM Research-Australia was a founding partner and was involved with the Centre till recently.  Domain and industry expertise is
+and the University of South Australia. The Centre's current industry partners are Seer Medical and Synchron.  IBM Research-Australia was a founding partner and involved with the Centre till recently.  Domain and industry expertise is
 provided by medical device manufacturer Medtronic, St Vincent’s Hospital, the
 Florey Institute of Neuroscience and Mental Health, Melbourne Academic Centre
 for Health (MACH), and Cogstate.
