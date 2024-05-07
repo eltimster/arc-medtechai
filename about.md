@@ -16,19 +16,14 @@ new era of data-driven personalised and precision medical devices and
 applications, based on a combination of research, industry and entrepreneurial
 skills they will acquire through the Centre.
 
-In close partnership with IBM Research-Australia --- global leaders in machine
-learning, artificial intelligence, natural language processing (NLP) and
-biomedical engineering --- the Centre is hosted at The University of
-Melbourne, in collaboration with Western Sydney University, RMIT University,
-and the University of South Australia. Domain and industry expertise is
+The Centre is hosted at The University of Melbourne, in collaboration with Western Sydney University, RMIT University,
+and the University of South Australia. The Centre's current industry partners are Seer Medical and Synchron.  IBM Research-Australia was a founding partner and was involved with the Centre till recently.  Domain and industry expertise is
 provided by medical device manufacturer Medtronic, St Vincent’s Hospital, the
 Florey Institute of Neuroscience and Mental Health, Melbourne Academic Centre
 for Health (MACH), and Cogstate.
 
 Funding for the Centre is in the form of $4.1m from the Australian Research
-Council under the Industrial Transformation Research Program, and $3.5m of
-cash and in-kind support from IBM Research-Australia. This will fund 15 PhD
+Council under the Industrial Transformation Research Program, and $4.5m of
+cash and in-kind support from the industry partners. This will fund 15 PhD
 students and 5 full-time post-doc researchers over the 5 year duration of the
-Centre. Students will be co-supervised by university-based academics and IBM
-Research-Australia researchers, and be physically hosted within the unique
-facilities of IBM Research for part of their candidature.
+Centre. Students will be co-supervised by university-based academics and researchers from industry partners, and be physically hosted within the partner facilities for part of their candidature.
