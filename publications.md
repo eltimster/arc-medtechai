@@ -7,9 +7,13 @@ browse-description: Publications
 
 **2024**
 
+Denecke K, May R, LLM Health Group including Verspoor K, Rivera Romera O. Potentials of Large Language Models in Healthcare: A Delphi Study. Journal of Medical Internet Research. Vol. 26, 2024.
+
 Hopper JL, Li S, MacInnis RJ, Dowty JG, Nguyen TL, Bui M, Dite GS, Esser VFC, Ye Z, Makalic E, Schmidt DF, Goudey B, Alpen K, Kapuscinski M, Win AK, Dugué P, Milne RL, Jayasekara H, Brooks JD, Malta S, Ferreira L, Campbell AC, Young JT, Tu N, Sung J, Giles GG, Buchanan D, Winship I, Terry MB, Southey MC, Jenkins MA. Breast and bowel cancers diagnosed in people ‘too young to have cancer’: A blueprint for research using family and twin studies, Genet Epidemiol, 2024.
 
 Mu J, Liu S, Burkitt AN, Grayden DB. Multi-frequency steady-state visual evoked potential dataset, Scientific Data 11 (26): 1-15, 2024.
+
+Truong, T. H., Otmakhova, Y., Verspoor, K., Cohn, T., & Baldwin, T. Revisiting subword tokenization: A case study on affixal negation in large language models. . (NAACL 2024) In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 5082–5095, Mexico City, Mexico. 
 
 Verspoor K. 'Fighting fire with fire' - using LLMs to combact LLM hallucinations, Nature. News and Views. 6302,569-570, 2024.
 
