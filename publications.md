@@ -11,6 +11,8 @@ Hopper JL, Li S, MacInnis RJ, Dowty JG, Nguyen TL, Bui M, Dite GS, Esser VFC, Ye
 
 Mu J, Liu S, Burkitt AN, Grayden DB. Multi-frequency steady-state visual evoked potential dataset, Scientific Data 11 (26): 1-15, 2024.
 
+Verspoor K. 'Fighting fire with fire' - using LLMs to combact LLM hallucinations, Nature. News and Views. 6302,569-570, 2024.
+
 Ye Z, Dite, GS, Nguyen TL, MacInnis RJ, Schmidt DF, Makalic E, Al-Qershi OM, Nguyen-Dumont T, Goudey B, Stone J.  Genetic and environmental causes of variation in an automated breast cancer risk factor based on mammographic textures, Cancer Epidemiol Biomarkers Prev. 33 (2): 306 - 313, 2024.
 
 **2023**
