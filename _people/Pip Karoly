@@ -1,0 +1,13 @@
+---
+layout: person
+name: "Dr Pip Karoly"
+title: "Dr Pip Karoly"
+role: "Senior Lecturer, Department of Biomedical Engineering, The University of Melbourne"
+email: karoly.p@unimelb.edu.au
+categories: jekyll update
+image: assets/people-headshots/pip karoly headshot.png
+order: 15
+---
+Philippa (Pip) Karoly is working to develop an innovative, patient- specific approach to seizure forecasting. Using sophisticated computational techniques, long-term data from brain recordings, environmental, behavioural and physiological factors can be combined and converted into useful seizure likelihood models.
+
+For three years, Pip also worked as a software engineer for the Australian medical technology company, Seer. At Seer she developed a mobile app that provides people with epilepsy insight into their seizure patterns. Now, her research combines this app data with wearable devices and neural implants to generate real-time insights into seizure likelihood. To achieve this goal, Pip maintains close ties with industry partners, providing the optimal balance to translate medical research into innovative clinical solutions
