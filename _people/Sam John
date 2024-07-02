@@ -1,0 +1,11 @@
+---
+layout: person
+name: "Dr Sam John"
+title: "Dr Sam John"
+role: "Senior Lecturer, Department of Biomedical Engineering, The University of Melbourne"
+email: sam.john@unimelb.edu.au
+categories: jekyll update
+image: assets/people-headshots/Sam John headshot.png
+order: 13
+---
+Sam is a Biomedical Engineer and leads the Translational Medical Technologies group in the Neural Engineering laboratory. He was involved in development of the bionic eye and the endovascular neural interface (Stentrode). His research spans brain computer interfaces, neural engineering and bionics, and medical devices. He uses a range of techniques including functional imaging, electrophysiology, thin film fabrications, signal processing, image processing, electronics and software development.
