@@ -116,6 +116,8 @@ Schultz BG, Tarigoppula VSA (Adi), Noffs G, Azocar SR, van der Walt A, Grayden D
 
 Shen A, Mistica M, Salehi B, Li H, Baldwin T, Qi J. Evaluating Document Coherence Modeling. Transactions of the Association for Computational Linguistics, Vol. 9, pp. 621–640, 2021.
 
+Shima Khanehzar, Trevor Cohn, Gosia Mikolajczak, Andrew Turpin, Lea Frermann. Framing Unpakced: A Semi-Supervised Interpretable Multi-View Model of Media Frames. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 2154–2166, Online. Association for Computational Linguistics.
+
 Verspoor K. The Evolution of Clinical Knowledge During COVID-19: Towards a Global Learning Health System. Yearbook of Medical Informatics. Vol. 30(01), pp. 176-184, 2021.
 
 
