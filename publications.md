@@ -25,6 +25,8 @@ Chorev, M, Haderlein, J, Chandra, S., Menon, G., Burton, B.J.L., Pearce, I., McK
 
 Eskikand PZ, Soto-Breceda A, Cook MJ, Burkitt AN, Grayden DB. Inhibitory stabilized network behaviour in a balanced neural mass model of a cortical column, Neural Networks, Vol 166, pp. 296-312, 2023.
 
+Gleb Kuzmin, Artem Vazhentsev, Artem Shelmanov, Xudong Han, Simon Suster, Maxim Panov, Alexander Panchenko, Timothy Baldwin. Uncertainty Estimation for Debiased Models: Does Fairness Hurt Reliability? IJCNLP-AACL, 2023.
+
 Haderlein JF, Peterson ADH, Burkitt AN, Mareels IMY, Grayden DB. Autoregressive models for biomedical signal processing, 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 24-28 July 2023.
 
 Kokorin K, Mu J, John SE, Grayden DB. Predictive shared control of robotic arms using simulated brain-computer interface inputs, 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 24-28 July 2023.
