@@ -15,6 +15,8 @@ Kokorin K, Mu J, Zehra S, Yoo P, Grayden D, John S.  Dataset of Semi-Autonomous 
 
 Mu J, Liu S, Burkitt AN, Grayden DB. Multi-frequency steady-state visual evoked potential dataset, Scientific Data 11 (26): 1-15, 2024.
 
+Suster S, Baldwin T, Verspoor K. Zero-and-few-shot prompting of generative large language models provides weak assessment of risk bias in clinical trials. Research Synthesis Methods, 2024.
+
 Truong, T. H., Otmakhova, Y., Verspoor, K., Cohn, T., & Baldwin, T. Revisiting subword tokenization: A case study on affixal negation in large language models. . (NAACL 2024) In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 5082–5095, Mexico City, Mexico. 
 
 Verspoor K. 'Fighting fire with fire' - using LLMs to combact LLM hallucinations, Nature. News and Views. 6302,569-570, 2024.
