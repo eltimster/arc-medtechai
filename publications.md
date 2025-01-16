@@ -5,6 +5,10 @@ categories: [navi, browse]
 browse-description: Publications
 ---
 
+**2025**
+
+Russo JS, Shiels TA, Lin C-H S, John SE, Grayden DB. Decoding imagined movement in people with multiple sclerosis for brain-computer interface translation. Journal of Neural Engineering.
+
 **2024**
 
 Chambers JD, Cook MJ, Burkitt A, Grayden DB. Using Long Short-Term Memory (LSTM) recurrent neural networks to classify unprocessed EEG for seizure prediction. Frontiers in Neuroscience-Translational Neuroscience, Vol. 28, 2024.
